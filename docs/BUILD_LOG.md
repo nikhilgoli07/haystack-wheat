@@ -79,10 +79,17 @@ A chronological record of every step, decision and finding, for your own records
 - **Verified:** the API data is **identical** to the website-export data. All 13,496 stocks rows and 20,120 production rows match, with 0 value differences. All validation checks PASS.
 - Note: the API route takes about 4–5 minutes, compared with seconds for the export, because USDA's API answers each call slowly. That doesn't matter for a quarterly refresh.
 
+### Step 12: Hosting on GitHub Pages
+- Installed the GitHub CLI (`winget install GitHub.cli`). You signed in yourself through the browser (`gh auth login --web`).
+- `git init`, one commit of 32 files. Before pushing I verified that `.env` (the API key) is **not** in the commit. I also git-ignored `reconciliation_vs_excel.csv`, because it is derived from the internal workbook.
+- Created the public repository **github.com/nikhilgoli07/haystack-wheat** and pushed.
+- Enabled Pages with "GitHub Actions" as the source and ran the workflow manually to test the full refresh in the cloud.
+- Live: **https://nikhilgoli07.github.io/haystack-wheat/**
+
 ---
 
 ## Open items / next steps
-1. **Add the API key as a GitHub secret** named `NASS_API_KEY` when you set up hosting (it's already in `.env` for local runs).
-2. **Decide where to host** (Option A, GitHub Pages, is recommended) and add the iframe to the Haystack site.
+1. **Add the API key as a GitHub secret**: repo → Settings → Secrets and variables → Actions → New repository secret → name `NASS_API_KEY`. It's already in `.env` for local runs.
+2. **Paste the iframe** from `04_HOSTING.md` into the Haystack Data Solutions site.
 3. Optional: repoint the old Power BI report to `data/clean/wheat_stocks.csv`.
 4. Optional extensions: other crops (`COMMODITY` in `config.py`), WASDE comparison, weather inputs.

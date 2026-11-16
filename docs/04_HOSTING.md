@@ -1,5 +1,21 @@
 # 04 — Putting the dashboard on the Haystack Data Solutions website
 
+## ✅ Current setup (done 2026-11-16)
+| | |
+|---|---|
+| Live dashboard | https://nikhilgoli07.github.io/haystack-wheat/ |
+| Embed version | https://nikhilgoli07.github.io/haystack-wheat/?embed=1 |
+| Code + data repository | https://github.com/nikhilgoli07/haystack-wheat (public) |
+| Automatic refresh | GitHub Actions → "Update wheat data" (schedule below) |
+| **Still to do** | Add the repository secret `NASS_API_KEY` (step 3 below). Until then, the refresh uses the keyless Quick Stats export, which returns the same numbers. Then paste the iframe (step 6) into the Haystack site. |
+
+**Embed code for the Haystack site:**
+```html
+<iframe src="https://nikhilgoli07.github.io/haystack-wheat/?embed=1"
+        title="US Wheat Dashboard" loading="lazy"
+        style="width:100%; height:2600px; border:0;"></iframe>
+```
+
 The dashboard is a **static folder** (`site/`): one HTML page, one CSS file, one JS file and one JSON data file. It needs no database, no server code and no external libraries, so it runs on **any** web host.
 
 > ⚠️ It must be served over `http(s)://`. Double-clicking `site/index.html` opens it as `file://`, and the browser blocks loading the data. To look at it on your own computer, double-click **`preview_site.bat`** instead.

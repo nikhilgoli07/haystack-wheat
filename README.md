@@ -1,5 +1,7 @@
 # Haystack Data Solutions: US Wheat Data (2000 → today)
 
+**Live dashboard: https://nikhilgoli07.github.io/haystack-wheat/**
+
 This project automatically downloads, cleans, checks and forecasts USDA wheat data. It then publishes the results as an interactive dashboard that can be hosted on any website.
 
 - **Stocks:** quarterly (Mar 1 / Jun 1 / Sep 1 / Dec 1), by state, on-farm vs off-farm (USDA *Grain Stocks*)
