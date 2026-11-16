@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>US Wheat Dashboard</title>
+  <meta name="description" content="US wheat stocks, production and yield by state since 2000, with forecasts. Data: USDA NASS.">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <div class="page">
+    <header class="site-header">
+      <div class="brand">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" width="22" height="22"><path d="M12 2v20M12 6c-2-1-4-1-5 1 2 1 4 1 5-1zm0 0c2-1 4-1 5 1-2 1-4 1-5-1zm0 5c-2-1-4-1-5 1 2 1 4 1 5-1zm0 0c2-1 4-1 5 1-2 1-4 1-5-1zm0 5c-2-1-4-1-5 1 2 1 4 1 5-1zm0 0c2-1 4-1 5 1-2 1-4 1-5-1z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>
+        </span>
+        <div>
+          <div class="brand-name">Haystack Data Solutions</div>
+          <h1>US Wheat Dashboard</h1>
+        </div>
+      </div>
+      <p class="updated" id="updated">Loading USDA data…</p>
+    </header>
+
+    <!-- Filters: one row, scope everything below -->
+    <section class="filters" aria-label="Filters">
+      <label class="field">
+        <span>Measure</span>
+        <select id="measure"></select>
+      </label>
+      <label class="field" id="quarter-field">
+        <span>Stocks as of</span>
+        <select id="quarter">
+          <option value="3">Mar 1</option>
+          <option value="6">Jun 1</option>
+          <option value="9">Sep 1</option>
+          <option value="12">Dec 1</option>
+        </select>
+      </label>
+      <label class="field">
+        <span>From</span>
+        <select id="from"></select>
+      </label>
+      <label class="field">
+        <span>To</span>
+        <select id="to"></select>
+      </label>
+      <label class="field check">
+        <input type="checkbox" id="show-fc" checked>
+        <span>Show forecast</span>
+      </label>
+    </section>
+
+    <section class="states" aria-label="States to compare">
+      <div class="chips" id="chips"></div>
+      <label class="field add">
+        <span class="sr-only">Add a state</span>
+        <select id="add-state"></select>
+      </label>
+      <span class="hint">Compare up to 6. Tip: click a state on the map.</span>
+    </section>
+
+    <section class="kpis" id="kpis" aria-live="polite"></section>
+
+    <section class="card">
+      <div class="card-head">
+        <h2 id="chart-title">Trend</h2>
+        <p class="sub" id="chart-sub"></p>
+      </div>
+      <div class="chart" id="line-chart"></div>
+      <div class="legend" id="legend"></div>
+    </section>
+
+    <div class="grid-2">
+      <section class="card">
+        <div class="card-head row">
+          <div>
+            <h2>By state</h2>
+            <p class="sub" id="map-sub"></p>
+          </div>
+          <label class="field compact">
+            <span>Year</span>
+            <select id="snap-year"></select>
+          </label>
+        </div>
+        <div class="chart" id="map"></div>
+        <div class="ramp" id="ramp"></div>
+      </section>
+      <section class="card">
+        <div class="card-head">
+          <h2>Top states</h2>
+          <p class="sub" id="rank-sub"></p>
+        </div>
+        <div class="chart" id="ranking"></div>
+      </section>
+    </div>
+
+    <section class="card">
+      <div class="card-head row">
+        <div>
+          <h2>Data table</h2>
+          <p class="sub">Values for the selected states. Forecast rows are shaded.</p>
+        </div>
+        <button type="button" class="btn" id="download">Download CSV</button>
+      </div>
+      <div class="table-wrap"><table id="table"></table></div>
+    </section>
+
+    <section class="card notes">
+      <h2>About this data</h2>
+      <ul>
+        <li><strong>Source:</strong> USDA National Agricultural Statistics Service (NASS) Quick Stats: the quarterly
+          <em>Grain Stocks</em> report (stocks on Mar 1, Jun 1, Sep 1, Dec 1) and the annual
+          <em>Crop Production</em> / <em>Small Grains Summary</em> (production, yield, acres). All wheat classes combined.</li>
+        <li><strong>Gaps:</strong> USDA withholds some state values, shown as (D), to avoid disclosing individual farms or elevators,
+          and does not publish every state every quarter. These appear as breaks in the line, never as zero.</li>
+        <li><strong>Forecasts</strong> are statistical projections from each state's own history (best of five simple models,
+          chosen by back-testing the last 6 years). The shaded band is an 80% range. When the previous quarter is already
+          published, the next-quarter stocks estimate uses the typical seasonal ratio, which is usually far more accurate.
+          They do not include weather, prices or USDA's own outlook (WASDE). Use them as a baseline, not a guarantee.</li>
+        <li><strong>Updates:</strong> USDA publishes Grain Stocks at the end of March, June, September and in mid-January.
+          This page is rebuilt automatically after each release.</li>
+      </ul>
+    </section>
+
+    <footer class="site-footer">
+      <span>© Haystack Data Solutions</span>
+      <a id="source-link" href="https://quickstats.nass.usda.gov/" target="_blank" rel="noopener">Data: USDA NASS Quick Stats</a>
+    </footer>
+  </div>
+
+  <div class="tooltip" id="tooltip" role="status" hidden></div>
+  <script src="assets/app.js"></script>
+</body>
+</html>

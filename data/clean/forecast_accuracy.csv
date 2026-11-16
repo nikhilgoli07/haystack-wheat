@@ -1,0 +1,490 @@
+state,state_abbr,quarter,month,position,measure,dataset,model,model_label,backtest_mae,backtest_mape_pct,last_actual_year
+Alabama,AL,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",412000,12,2025
+Alabama,AL,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,294000,14.7,2025
+Alabama,AL,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,545000,20.2,2026
+Alabama,AL,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,507000,15,2026
+Arizona,AZ,Dec 1,12,Off Farm,stocks,stocks,holt,Damped trend (Holt),828000,15.5,2023
+Arizona,AZ,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,474000,17.9,2025
+Arizona,AZ,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,1168000,25.7,2023
+Arkansas,AR,Dec 1,12,Off Farm,stocks,stocks,trend10,10-year trend,2515000,45.2,2020
+Arkansas,AR,Dec 1,12,On Farm,stocks,stocks,naive,Last value,22000,55.6,2020
+Arkansas,AR,Dec 1,12,Total,stocks,stocks,naive,Last value,770000,28,2025
+Arkansas,AR,Jun 1,6,On Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",6000,56.1,2016
+Arkansas,AR,Jun 1,6,Total,stocks,stocks,avg5,5-year average,2106000,188.9,2025
+Arkansas,AR,Mar 1,3,Off Farm,stocks,stocks,trend10,10-year trend,2565000,63,2022
+Arkansas,AR,Mar 1,3,On Farm,stocks,stocks,naive,Last value,15000,63.9,2019
+Arkansas,AR,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,1330000,69.5,2026
+Arkansas,AR,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),2710000,47.8,2020
+Arkansas,AR,Sep 1,9,On Farm,stocks,stocks,naive,Last value,92000,55.6,2020
+Arkansas,AR,Sep 1,9,Total,stocks,stocks,trend10,10-year trend,1747000,45.6,2024
+California,CA,Dec 1,12,Off Farm,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",1134000,12.6,2025
+California,CA,Dec 1,12,On Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",84000,12.1,2025
+California,CA,Dec 1,12,Total,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",1094000,10.9,2025
+California,CA,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,936000,22.9,2026
+California,CA,Jun 1,6,On Farm,stocks,stocks,avg5,5-year average,19000,8.2,2026
+California,CA,Jun 1,6,Total,stocks,stocks,avg5,5-year average,947000,21.7,2026
+California,CA,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,1609000,22.3,2024
+California,CA,Mar 1,3,On Farm,stocks,stocks,trend10,10-year trend,68000,16.4,2024
+California,CA,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,1480000,21.7,2026
+California,CA,Sep 1,9,Off Farm,stocks,stocks,trend10,10-year trend,905000,10.1,2026
+California,CA,Sep 1,9,On Farm,stocks,stocks,naive,Last value,127000,12.8,2026
+California,CA,Sep 1,9,Total,stocks,stocks,trend10,10-year trend,887000,8.8,2026
+Colorado,CO,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",2699000,8.9,2025
+Colorado,CO,Dec 1,12,On Farm,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",1644000,23.1,2025
+Colorado,CO,Dec 1,12,Total,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",3324000,8.6,2025
+Colorado,CO,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),3357000,21.2,2026
+Colorado,CO,Jun 1,6,On Farm,stocks,stocks,naive,Last value,650000,36.5,2026
+Colorado,CO,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),3642000,19.7,2026
+Colorado,CO,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4388000,18.5,2026
+Colorado,CO,Mar 1,3,On Farm,stocks,stocks,naive,Last value,2233000,37.9,2026
+Colorado,CO,Mar 1,3,Total,stocks,stocks,naive,Last value,6388000,21.9,2026
+Colorado,CO,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,5677000,16.2,2026
+Colorado,CO,Sep 1,9,On Farm,stocks,stocks,ensemble,Ensemble average,4163000,45.9,2026
+Colorado,CO,Sep 1,9,Total,stocks,stocks,ensemble,Ensemble average,9769000,21.3,2026
+Delaware,DE,Dec 1,12,Off Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",549000,60.3,2025
+Delaware,DE,Jun 1,6,Off Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",673000,209.8,2024
+Delaware,DE,Mar 1,3,Off Farm,stocks,stocks,trend10,10-year trend,559000,104,2026
+Delaware,DE,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,1086000,160.4,2026
+Georgia,GA,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",333000,12.8,2025
+Georgia,GA,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,630000,32.1,2024
+Georgia,GA,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,834000,45.2,2026
+Georgia,GA,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,963000,34.6,2026
+Idaho,ID,Dec 1,12,Off Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",5582000,16,2025
+Idaho,ID,Dec 1,12,On Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",2945000,11.4,2025
+Idaho,ID,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",6875000,10.8,2025
+Idaho,ID,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,3407000,23.1,2026
+Idaho,ID,Jun 1,6,On Farm,stocks,stocks,naive,Last value,2117000,33.9,2026
+Idaho,ID,Jun 1,6,Total,stocks,stocks,naive,Last value,4612000,21.1,2026
+Idaho,ID,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,3962000,16.4,2026
+Idaho,ID,Mar 1,3,On Farm,stocks,stocks,naive,Last value,1917000,11.1,2026
+Idaho,ID,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,4901000,12.2,2026
+Idaho,ID,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,8048000,18.7,2026
+Idaho,ID,Sep 1,9,On Farm,stocks,stocks,naive,Last value,6583000,19.9,2026
+Idaho,ID,Sep 1,9,Total,stocks,stocks,avg5,5-year average,13788000,17.8,2026
+Illinois,IL,Dec 1,12,Off Farm,stocks,stocks,naive,Last value,3600000,11.4,2025
+Illinois,IL,Dec 1,12,On Farm,stocks,stocks,naive,Last value,983000,33.1,2025
+Illinois,IL,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",2546000,7.7,2025
+Illinois,IL,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),2434000,16.3,2026
+Illinois,IL,Jun 1,6,On Farm,stocks,stocks,naive,Last value,262000,31.8,2026
+Illinois,IL,Jun 1,6,Total,stocks,stocks,naive,Last value,2640000,18.2,2026
+Illinois,IL,Mar 1,3,Off Farm,stocks,stocks,ensemble,Ensemble average,4631000,18.5,2026
+Illinois,IL,Mar 1,3,On Farm,stocks,stocks,naive,Last value,717000,78.2,2026
+Illinois,IL,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,5214000,19.5,2026
+Illinois,IL,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,4290000,11.7,2026
+Illinois,IL,Sep 1,9,On Farm,stocks,stocks,naive,Last value,2800000,29,2026
+Illinois,IL,Sep 1,9,Total,stocks,stocks,holt,Damped trend (Holt),6186000,13.8,2026
+Indiana,IN,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",509000,2.2,2025
+Indiana,IN,Dec 1,12,On Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",380000,62,2025
+Indiana,IN,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",903000,3.5,2025
+Indiana,IN,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),2833000,28.5,2026
+Indiana,IN,Jun 1,6,On Farm,stocks,stocks,naive,Last value,37000,26,2026
+Indiana,IN,Jun 1,6,Total,stocks,stocks,naive,Last value,3431000,34.5,2026
+Indiana,IN,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4094000,24,2026
+Indiana,IN,Mar 1,3,On Farm,stocks,stocks,naive,Last value,198000,60.8,2026
+Indiana,IN,Mar 1,3,Total,stocks,stocks,naive,Last value,4292000,24.6,2026
+Indiana,IN,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),3671000,13.4,2026
+Indiana,IN,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,733000,22.1,2026
+Indiana,IN,Sep 1,9,Total,stocks,stocks,holt,Damped trend (Holt),4104000,13.4,2026
+Iowa,IA,Dec 1,12,Off Farm,stocks,stocks,ensemble,Ensemble average,237000,7.9,2025
+Iowa,IA,Jun 1,6,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",521000,25,2025
+Iowa,IA,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,557000,40.4,2026
+Iowa,IA,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,264000,9.6,2026
+Kansas,KS,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",10874000,3.8,2025
+Kansas,KS,Dec 1,12,On Farm,stocks,stocks,holt,Damped trend (Holt),3271000,30.5,2025
+Kansas,KS,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",12359000,4.1,2025
+Kansas,KS,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,46742000,33.8,2026
+Kansas,KS,Jun 1,6,On Farm,stocks,stocks,holt,Damped trend (Holt),1280000,30.2,2026
+Kansas,KS,Jun 1,6,Total,stocks,stocks,naive,Last value,47425000,32.8,2026
+Kansas,KS,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,48206000,22.4,2026
+Kansas,KS,Mar 1,3,On Farm,stocks,stocks,naive,Last value,2717000,38.2,2026
+Kansas,KS,Mar 1,3,Total,stocks,stocks,naive,Last value,49789000,22.1,2026
+Kansas,KS,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,70906000,23.8,2026
+Kansas,KS,Sep 1,9,On Farm,stocks,stocks,trend10,10-year trend,3517000,14.7,2026
+Kansas,KS,Sep 1,9,Total,stocks,stocks,naive,Last value,74740000,23,2026
+Kentucky,KY,Dec 1,12,Off Farm,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",1405000,10.4,2025
+Kentucky,KY,Jun 1,6,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",814000,26.4,2025
+Kentucky,KY,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,1578000,19.8,2026
+Kentucky,KY,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,1640000,9.8,2026
+Louisiana,LA,Dec 1,12,Off Farm,stocks,stocks,trend10,10-year trend,852000,19.6,2025
+Louisiana,LA,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),533000,30.5,2026
+Louisiana,LA,Mar 1,3,Off Farm,stocks,stocks,trend10,10-year trend,770000,24,2026
+Louisiana,LA,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,2014000,75,2026
+Maryland,MD,Dec 1,12,Off Farm,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",669000,35.8,2025
+Maryland,MD,Jun 1,6,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",662000,141.8,2025
+Maryland,MD,Mar 1,3,Off Farm,stocks,stocks,holt,Damped trend (Holt),980000,49.7,2026
+Maryland,MD,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),1141000,30.2,2026
+Michigan,MI,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",1142000,3.8,2025
+Michigan,MI,Dec 1,12,On Farm,stocks,stocks,trend10,10-year trend,431000,13.8,2025
+Michigan,MI,Dec 1,12,Total,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",1321000,4,2025
+Michigan,MI,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,4155000,26,2026
+Michigan,MI,Jun 1,6,On Farm,stocks,stocks,ensemble,Ensemble average,370000,145.1,2026
+Michigan,MI,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),4171000,25.5,2026
+Michigan,MI,Mar 1,3,Off Farm,stocks,stocks,holt,Damped trend (Holt),6001000,24.3,2026
+Michigan,MI,Mar 1,3,On Farm,stocks,stocks,naive,Last value,400000,30.8,2026
+Michigan,MI,Mar 1,3,Total,stocks,stocks,holt,Damped trend (Holt),6162000,23.4,2026
+Michigan,MI,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),4271000,11.4,2026
+Michigan,MI,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,1580000,22.7,2026
+Michigan,MI,Sep 1,9,Total,stocks,stocks,holt,Damped trend (Holt),5079000,11.2,2026
+Minnesota,MN,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",3920000,13.5,2025
+Minnesota,MN,Dec 1,12,On Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",7096000,20.2,2025
+Minnesota,MN,Dec 1,12,Total,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",7392000,11.4,2025
+Minnesota,MN,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,8482000,38,2026
+Minnesota,MN,Jun 1,6,On Farm,stocks,stocks,naive,Last value,6750000,45.4,2026
+Minnesota,MN,Jun 1,6,Total,stocks,stocks,naive,Last value,8608000,25.1,2026
+Minnesota,MN,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4449000,17.8,2026
+Minnesota,MN,Mar 1,3,On Farm,stocks,stocks,holt,Damped trend (Holt),4520000,20.5,2026
+Minnesota,MN,Mar 1,3,Total,stocks,stocks,avg5,5-year average,8512000,18.9,2026
+Minnesota,MN,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,8918000,29.3,2026
+Minnesota,MN,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,8000000,18.2,2026
+Minnesota,MN,Sep 1,9,Total,stocks,stocks,naive,Last value,9559000,11.4,2026
+Mississippi,MS,Dec 1,12,Off Farm,stocks,stocks,naive,Last value,1498000,73.6,2019
+Mississippi,MS,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,618000,100.3,2022
+Mississippi,MS,Mar 1,3,Off Farm,stocks,stocks,ensemble,Ensemble average,788000,141.7,2025
+Mississippi,MS,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,848000,66.5,2021
+Missouri,MO,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",1099000,5.8,2025
+Missouri,MO,Dec 1,12,On Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",947000,26,2025
+Missouri,MO,Dec 1,12,Total,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",2683000,11.7,2025
+Missouri,MO,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),1807000,20.3,2026
+Missouri,MO,Jun 1,6,On Farm,stocks,stocks,holt,Damped trend (Holt),320000,63.3,2026
+Missouri,MO,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),1605000,16.9,2026
+Missouri,MO,Mar 1,3,Off Farm,stocks,stocks,ensemble,Ensemble average,2299000,18.8,2026
+Missouri,MO,Mar 1,3,On Farm,stocks,stocks,holt,Damped trend (Holt),755000,54.8,2026
+Missouri,MO,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,2536000,18.7,2026
+Missouri,MO,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,2134000,7.8,2026
+Missouri,MO,Sep 1,9,On Farm,stocks,stocks,ensemble,Ensemble average,3415000,36.3,2026
+Missouri,MO,Sep 1,9,Total,stocks,stocks,ensemble,Ensemble average,4397000,12.4,2026
+Montana,MT,Dec 1,12,Off Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",1790000,5.1,2025
+Montana,MT,Dec 1,12,On Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",4883000,4.9,2025
+Montana,MT,Dec 1,12,Total,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",6117000,4.6,2025
+Montana,MT,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,2539000,12.9,2026
+Montana,MT,Jun 1,6,On Farm,stocks,stocks,ensemble,Ensemble average,8440000,33.2,2026
+Montana,MT,Jun 1,6,Total,stocks,stocks,ensemble,Ensemble average,11145000,24.9,2026
+Montana,MT,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,5479000,19,2026
+Montana,MT,Mar 1,3,On Farm,stocks,stocks,ensemble,Ensemble average,9881000,21.5,2026
+Montana,MT,Mar 1,3,Total,stocks,stocks,avg5,5-year average,14382000,20.5,2026
+Montana,MT,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,4402000,11.6,2026
+Montana,MT,Sep 1,9,On Farm,stocks,stocks,ensemble,Ensemble average,24050000,28.5,2026
+Montana,MT,Sep 1,9,Total,stocks,stocks,ensemble,Ensemble average,28461000,23.4,2026
+Nebraska,NE,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",4151000,13.1,2025
+Nebraska,NE,Dec 1,12,On Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",860000,46.9,2025
+Nebraska,NE,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",6115000,18.8,2025
+Nebraska,NE,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,7179000,50.4,2026
+Nebraska,NE,Jun 1,6,On Farm,stocks,stocks,avg5,5-year average,445000,61.8,2026
+Nebraska,NE,Jun 1,6,Total,stocks,stocks,naive,Last value,7669000,50.2,2026
+Nebraska,NE,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,8488000,40.2,2026
+Nebraska,NE,Mar 1,3,On Farm,stocks,stocks,avg5,5-year average,1087000,69.5,2026
+Nebraska,NE,Mar 1,3,Total,stocks,stocks,naive,Last value,9154000,39.4,2026
+Nebraska,NE,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,9498000,27.9,2026
+Nebraska,NE,Sep 1,9,On Farm,stocks,stocks,ensemble,Ensemble average,1512000,25,2026
+Nebraska,NE,Sep 1,9,Total,stocks,stocks,naive,Last value,10764000,26.5,2026
+New Mexico,NM,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",226000,19.2,2016
+New Mexico,NM,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,375000,129.4,2017
+New Mexico,NM,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,683000,257.1,2019
+New York,NY,Dec 1,12,Off Farm,stocks,stocks,ensemble,Ensemble average,1980000,19,2024
+New York,NY,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,2204000,36.2,2026
+New York,NY,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,2512000,30.5,2025
+New York,NY,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,1300000,13.2,2026
+North Carolina,NC,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",434000,9.1,2025
+North Carolina,NC,Dec 1,12,On Farm,stocks,stocks,holt,Damped trend (Holt),241000,15.5,2025
+North Carolina,NC,Dec 1,12,Total,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",698000,10.4,2025
+North Carolina,NC,Jun 1,6,Off Farm,stocks,stocks,trend10,10-year trend,736000,24,2026
+North Carolina,NC,Jun 1,6,On Farm,stocks,stocks,trend10,10-year trend,149000,35,2026
+North Carolina,NC,Jun 1,6,Total,stocks,stocks,avg5,5-year average,796000,27.1,2026
+North Carolina,NC,Mar 1,3,Off Farm,stocks,stocks,ensemble,Ensemble average,1084000,32.7,2026
+North Carolina,NC,Mar 1,3,On Farm,stocks,stocks,avg5,5-year average,156000,21.8,2026
+North Carolina,NC,Mar 1,3,Total,stocks,stocks,ensemble,Ensemble average,1151000,27.3,2026
+North Carolina,NC,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),1303000,15.7,2026
+North Carolina,NC,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,1097000,23.6,2026
+North Carolina,NC,Sep 1,9,Total,stocks,stocks,avg5,5-year average,1957000,17,2026
+North Dakota,ND,Dec 1,12,Off Farm,stocks,stocks,avg5,5-year average,8342000,10.5,2025
+North Dakota,ND,Dec 1,12,On Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",15550000,10.8,2025
+North Dakota,ND,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",10535000,5,2025
+North Dakota,ND,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,7649000,19.3,2026
+North Dakota,ND,Jun 1,6,On Farm,stocks,stocks,naive,Last value,16583000,31.1,2026
+North Dakota,ND,Jun 1,6,Total,stocks,stocks,naive,Last value,21010000,21.7,2026
+North Dakota,ND,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,6011000,8,2026
+North Dakota,ND,Mar 1,3,On Farm,stocks,stocks,ensemble,Ensemble average,21520000,28.2,2026
+North Dakota,ND,Mar 1,3,Total,stocks,stocks,naive,Last value,21495000,14.5,2026
+North Dakota,ND,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),13964000,17.3,2026
+North Dakota,ND,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,40500000,29.4,2026
+North Dakota,ND,Sep 1,9,Total,stocks,stocks,holt,Damped trend (Holt),38075000,15.9,2026
+Ohio,OH,Dec 1,12,Off Farm,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",3684000,7.5,2025
+Ohio,OH,Dec 1,12,On Farm,stocks,stocks,avg5,5-year average,770000,39.6,2025
+Ohio,OH,Dec 1,12,Total,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",3835000,7.5,2025
+Ohio,OH,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,6942000,25.7,2026
+Ohio,OH,Jun 1,6,On Farm,stocks,stocks,trend10,10-year trend,169000,41.5,2026
+Ohio,OH,Jun 1,6,Total,stocks,stocks,naive,Last value,5210000,18.7,2026
+Ohio,OH,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4505000,10.7,2026
+Ohio,OH,Mar 1,3,On Farm,stocks,stocks,naive,Last value,308000,46.8,2026
+Ohio,OH,Mar 1,3,Total,stocks,stocks,naive,Last value,4433000,10.4,2026
+Ohio,OH,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),4769000,7.3,2026
+Ohio,OH,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,2640000,47.8,2026
+Ohio,OH,Sep 1,9,Total,stocks,stocks,holt,Damped trend (Holt),7002000,9.5,2026
+Oklahoma,OK,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",12567000,16.1,2025
+Oklahoma,OK,Dec 1,12,On Farm,stocks,stocks,avg5,5-year average,1317000,28.1,2025
+Oklahoma,OK,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",12382000,14.8,2025
+Oklahoma,OK,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),16109000,28.5,2026
+Oklahoma,OK,Jun 1,6,On Farm,stocks,stocks,naive,Last value,283000,15.3,2026
+Oklahoma,OK,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),16337000,28,2026
+Oklahoma,OK,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,20894000,28.7,2026
+Oklahoma,OK,Mar 1,3,On Farm,stocks,stocks,avg5,5-year average,352000,11.4,2026
+Oklahoma,OK,Mar 1,3,Total,stocks,stocks,naive,Last value,21261000,28,2026
+Oklahoma,OK,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,16907000,15.2,2026
+Oklahoma,OK,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,2073000,24.7,2026
+Oklahoma,OK,Sep 1,9,Total,stocks,stocks,ensemble,Ensemble average,19199000,15.8,2026
+Oregon,OR,Dec 1,12,Off Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",2983000,11.9,2025
+Oregon,OR,Dec 1,12,On Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",1204000,20.4,2025
+Oregon,OR,Dec 1,12,Total,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",2982000,9.6,2025
+Oregon,OR,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),3519000,44,2026
+Oregon,OR,Jun 1,6,On Farm,stocks,stocks,trend10,10-year trend,327000,31.1,2026
+Oregon,OR,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),3866000,42.6,2026
+Oregon,OR,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,4064000,29.1,2026
+Oregon,OR,Mar 1,3,On Farm,stocks,stocks,avg5,5-year average,760000,23.5,2026
+Oregon,OR,Mar 1,3,Total,stocks,stocks,avg5,5-year average,4637000,27,2026
+Oregon,OR,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,7689000,33.5,2026
+Oregon,OR,Sep 1,9,On Farm,stocks,stocks,trend10,10-year trend,2127000,23.7,2026
+Oregon,OR,Sep 1,9,Total,stocks,stocks,avg5,5-year average,8995000,29.5,2026
+Pennsylvania,PA,Dec 1,12,Off Farm,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",747000,12.9,2025
+Pennsylvania,PA,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,972000,22.9,2026
+Pennsylvania,PA,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,398000,7.3,2026
+Pennsylvania,PA,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,1828000,25.2,2026
+South Carolina,SC,Dec 1,12,Off Farm,stocks,stocks,avg5,5-year average,216000,18.7,2025
+South Carolina,SC,Jun 1,6,Off Farm,stocks,stocks,ensemble,Ensemble average,109000,41.8,2023
+South Carolina,SC,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,218000,29,2026
+South Carolina,SC,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,228000,14.1,2025
+South Dakota,SD,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",4126000,17.1,2025
+South Dakota,SD,Dec 1,12,On Farm,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",3717000,16.8,2025
+South Dakota,SD,Dec 1,12,Total,stocks,stocks,ratio+holt,"Seasonal ratio (next quarter), then Damped trend (Holt)",4423000,10.4,2025
+South Dakota,SD,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,2885000,17.4,2026
+South Dakota,SD,Jun 1,6,On Farm,stocks,stocks,naive,Last value,3483000,37,2026
+South Dakota,SD,Jun 1,6,Total,stocks,stocks,naive,Last value,5735000,21.3,2026
+South Dakota,SD,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4560000,21.7,2026
+South Dakota,SD,Mar 1,3,On Farm,stocks,stocks,holt,Damped trend (Holt),3387000,28.8,2026
+South Dakota,SD,Mar 1,3,Total,stocks,stocks,naive,Last value,7759000,21.9,2026
+South Dakota,SD,Sep 1,9,Off Farm,stocks,stocks,holt,Damped trend (Holt),4899000,15.1,2026
+South Dakota,SD,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,8617000,30.4,2026
+South Dakota,SD,Sep 1,9,Total,stocks,stocks,ensemble,Ensemble average,11776000,18.9,2026
+Tennessee,TN,Dec 1,12,Off Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",915000,17.2,2025
+Tennessee,TN,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,412000,15.1,2026
+Tennessee,TN,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,856000,26.4,2026
+Tennessee,TN,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,1069000,11.5,2026
+Texas,TX,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",10941000,30.6,2025
+Texas,TX,Dec 1,12,On Farm,stocks,stocks,avg5,5-year average,480000,22.7,2025
+Texas,TX,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",12514000,33.3,2025
+Texas,TX,Jun 1,6,Off Farm,stocks,stocks,holt,Damped trend (Holt),7937000,29.7,2026
+Texas,TX,Jun 1,6,On Farm,stocks,stocks,naive,Last value,333000,33,2026
+Texas,TX,Jun 1,6,Total,stocks,stocks,holt,Damped trend (Holt),8160000,29.6,2026
+Texas,TX,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,8234000,22.6,2026
+Texas,TX,Mar 1,3,On Farm,stocks,stocks,naive,Last value,567000,34.2,2026
+Texas,TX,Mar 1,3,Total,stocks,stocks,naive,Last value,8800000,23.2,2026
+Texas,TX,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,19967000,41.4,2026
+Texas,TX,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,1857000,31.2,2026
+Texas,TX,Sep 1,9,Total,stocks,stocks,naive,Last value,21667000,41,2026
+United States,US,Dec 1,12,Off Farm,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",29924000,2.8,2025
+United States,US,Dec 1,12,On Farm,stocks,stocks,ratio+ensemble,"Seasonal ratio (next quarter), then Ensemble average",38213000,10.2,2025
+United States,US,Dec 1,12,Total,stocks,stocks,ratio+naive,"Seasonal ratio (next quarter), then Last value",48814000,3.4,2025
+United States,US,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,108736000,18.7,2026
+United States,US,Jun 1,6,On Farm,stocks,stocks,naive,Last value,38922000,29.6,2026
+United States,US,Jun 1,6,Total,stocks,stocks,naive,Last value,134876000,18.2,2026
+United States,US,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,108956000,12.8,2026
+United States,US,Mar 1,3,On Farm,stocks,stocks,naive,Last value,50938000,22.7,2026
+United States,US,Mar 1,3,Total,stocks,stocks,naive,Last value,139325000,12.5,2026
+United States,US,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,116521000,9,2026
+United States,US,Sep 1,9,On Farm,stocks,stocks,avg5,5-year average,76795000,15.3,2026
+United States,US,Sep 1,9,Total,stocks,stocks,naive,Last value,175413000,9.3,2026
+Utah,UT,Dec 1,12,Off Farm,stocks,stocks,naive,Last value,773000,18.2,2025
+Utah,UT,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,373000,11.6,2026
+Utah,UT,Mar 1,3,Off Farm,stocks,stocks,ensemble,Ensemble average,526000,14.5,2026
+Utah,UT,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,977000,27.3,2026
+Virginia,VA,Dec 1,12,Off Farm,stocks,stocks,avg5,5-year average,1227000,21.3,2025
+Virginia,VA,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,358000,10.4,2026
+Virginia,VA,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,918000,20.4,2026
+Virginia,VA,Sep 1,9,Off Farm,stocks,stocks,naive,Last value,1553000,23,2026
+Washington,WA,Dec 1,12,Off Farm,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",9744000,9.2,2025
+Washington,WA,Dec 1,12,On Farm,stocks,stocks,ratio+avg5,"Seasonal ratio (next quarter), then 5-year average",1870000,17.5,2025
+Washington,WA,Dec 1,12,Total,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",8964000,7.7,2025
+Washington,WA,Jun 1,6,Off Farm,stocks,stocks,avg5,5-year average,6148000,15.5,2026
+Washington,WA,Jun 1,6,On Farm,stocks,stocks,avg5,5-year average,1032000,104.9,2026
+Washington,WA,Jun 1,6,Total,stocks,stocks,avg5,5-year average,6700000,16.4,2026
+Washington,WA,Mar 1,3,Off Farm,stocks,stocks,avg5,5-year average,11922000,18.3,2026
+Washington,WA,Mar 1,3,On Farm,stocks,stocks,avg5,5-year average,1720000,35.6,2026
+Washington,WA,Mar 1,3,Total,stocks,stocks,avg5,5-year average,12238000,17.6,2026
+Washington,WA,Sep 1,9,Off Farm,stocks,stocks,avg5,5-year average,16705000,13.9,2026
+Washington,WA,Sep 1,9,On Farm,stocks,stocks,trend10,10-year trend,3339000,22.7,2026
+Washington,WA,Sep 1,9,Total,stocks,stocks,trend10,10-year trend,18852000,14.4,2026
+Wisconsin,WI,Dec 1,12,Off Farm,stocks,stocks,ratio+trend10,"Seasonal ratio (next quarter), then 10-year trend",3535000,11.3,2025
+Wisconsin,WI,Jun 1,6,Off Farm,stocks,stocks,naive,Last value,2750000,14,2026
+Wisconsin,WI,Mar 1,3,Off Farm,stocks,stocks,naive,Last value,4377000,16.7,2026
+Wisconsin,WI,Sep 1,9,Off Farm,stocks,stocks,ensemble,Ensemble average,3646000,11.7,2026
+Alabama,AL,,,,area_harvested,production,naive,Last value,30000,42.3,2026
+Alabama,AL,,,,area_planted,production,naive,Last value,33000,28.5,2026
+Alabama,AL,,,,production,production,naive,Last value,2422000,43.5,2026
+Alabama,AL,,,,yield,production,avg5,5-year average,4.4,5.7,2026
+Arizona,AZ,,,,area_harvested,production,avg5,5-year average,12000,23.8,2026
+Arizona,AZ,,,,area_planted,production,avg5,5-year average,13000,25.7,2026
+Arizona,AZ,,,,production,production,avg5,5-year average,1665000,29.8,2026
+Arizona,AZ,,,,yield,production,avg5,5-year average,10.7,10.5,2026
+Arkansas,AR,,,,area_harvested,production,naive,Last value,36000,41.9,2026
+Arkansas,AR,,,,area_planted,production,naive,Last value,38000,26.2,2026
+Arkansas,AR,,,,production,production,naive,Last value,2228000,44.5,2026
+Arkansas,AR,,,,yield,production,avg5,5-year average,1.8,3.1,2026
+California,CA,,,,area_harvested,production,naive,Last value,10000,9.4,2026
+California,CA,,,,area_planted,production,ensemble,Ensemble average,21000,6.3,2026
+California,CA,,,,production,production,avg5,5-year average,1172000,11.9,2026
+California,CA,,,,yield,production,naive,Last value,4.5,5.2,2026
+Colorado,CO,,,,area_harvested,production,avg5,5-year average,243000,17,2026
+Colorado,CO,,,,area_planted,production,avg5,5-year average,88000,4.1,2026
+Colorado,CO,,,,production,production,holt,Damped trend (Holt),17500000,60.7,2026
+Colorado,CO,,,,yield,production,avg5,5-year average,7.9,33.6,2026
+Delaware,DE,,,,area_harvested,production,avg5,5-year average,12000,25.5,2026
+Delaware,DE,,,,area_planted,production,naive,Last value,11000,17.1,2026
+Delaware,DE,,,,production,production,avg5,5-year average,1152000,30,2026
+Delaware,DE,,,,yield,production,avg5,5-year average,7.2,8.6,2026
+Florida,FL,,,,area_harvested,production,trend10,10-year trend,3000,24.6,2018
+Florida,FL,,,,area_planted,production,holt,Damped trend (Holt),5000,24.7,2018
+Florida,FL,,,,production,production,trend10,10-year trend,242000,44.3,2018
+Florida,FL,,,,yield,production,trend10,10-year trend,7.1,17.9,2018
+Georgia,GA,,,,area_harvested,production,naive,Last value,14000,18,2026
+Georgia,GA,,,,area_planted,production,holt,Damped trend (Holt),21000,11.5,2026
+Georgia,GA,,,,production,production,holt,Damped trend (Holt),759000,18.9,2026
+Georgia,GA,,,,yield,production,trend10,10-year trend,2.8,4.7,2026
+Idaho,ID,,,,area_harvested,production,naive,Last value,40000,3.6,2026
+Idaho,ID,,,,area_planted,production,naive,Last value,30000,2.5,2026
+Idaho,ID,,,,production,production,trend10,10-year trend,9746000,11,2026
+Idaho,ID,,,,yield,production,avg5,5-year average,7.3,9.7,2026
+Illinois,IL,,,,area_harvested,production,ensemble,Ensemble average,74000,10.5,2026
+Illinois,IL,,,,area_planted,production,holt,Damped trend (Holt),70000,9.3,2026
+Illinois,IL,,,,production,production,holt,Damped trend (Holt),8860000,15.3,2026
+Illinois,IL,,,,yield,production,naive,Last value,3.8,4.6,2026
+Indiana,IN,,,,area_harvested,production,avg5,5-year average,33000,12.3,2026
+Indiana,IN,,,,area_planted,production,avg5,5-year average,36000,10.3,2026
+Indiana,IN,,,,production,production,avg5,5-year average,3658000,14.4,2026
+Indiana,IN,,,,yield,production,naive,Last value,6.2,7.1,2026
+Iowa,IA,,,,area_harvested,production,trend10,10-year trend,3000,28.9,2018
+Iowa,IA,,,,area_planted,production,trend10,10-year trend,4000,18.1,2018
+Iowa,IA,,,,production,production,avg5,5-year average,238000,43.7,2018
+Iowa,IA,,,,yield,production,naive,Last value,5.7,9.6,2018
+Kansas,KS,,,,area_harvested,production,avg5,5-year average,507000,8.1,2026
+Kansas,KS,,,,area_planted,production,avg5,5-year average,393000,5.3,2026
+Kansas,KS,,,,production,production,avg5,5-year average,63310000,26.6,2026
+Kansas,KS,,,,yield,production,avg5,5-year average,7.2,18.4,2026
+Kentucky,KY,,,,area_harvested,production,naive,Last value,53000,15.2,2026
+Kentucky,KY,,,,area_planted,production,naive,Last value,48000,9.5,2026
+Kentucky,KY,,,,production,production,naive,Last value,6520000,21.7,2026
+Kentucky,KY,,,,yield,production,trend10,10-year trend,6,7.2,2026
+Louisiana,LA,,,,area_harvested,production,naive,Last value,44000,97.5,2018
+Louisiana,LA,,,,area_planted,production,naive,Last value,45000,86.2,2018
+Louisiana,LA,,,,production,production,naive,Last value,2593000,97.4,2018
+Louisiana,LA,,,,yield,production,ensemble,Ensemble average,8.8,17.8,2018
+Maryland,MD,,,,area_harvested,production,ensemble,Ensemble average,14000,7.8,2026
+Maryland,MD,,,,area_planted,production,holt,Damped trend (Holt),15000,4.7,2026
+Maryland,MD,,,,production,production,avg5,5-year average,1431000,10.1,2026
+Maryland,MD,,,,yield,production,naive,Last value,4.7,5.9,2026
+Michigan,MI,,,,area_harvested,production,avg5,5-year average,66000,14.6,2026
+Michigan,MI,,,,area_planted,production,avg5,5-year average,69000,14.3,2026
+Michigan,MI,,,,production,production,avg5,5-year average,5550000,13.5,2026
+Michigan,MI,,,,yield,production,naive,Last value,3,3.5,2026
+Minnesota,MN,,,,area_harvested,production,holt,Damped trend (Holt),88000,7.8,2026
+Minnesota,MN,,,,area_planted,production,naive,Last value,97000,8.3,2026
+Minnesota,MN,,,,production,production,avg5,5-year average,8461000,13.3,2026
+Minnesota,MN,,,,yield,production,naive,Last value,5.3,8.8,2026
+Mississippi,MS,,,,area_harvested,production,naive,Last value,28000,69.6,2026
+Mississippi,MS,,,,area_planted,production,naive,Last value,26000,34.2,2026
+Mississippi,MS,,,,production,production,naive,Last value,1697000,77.8,2026
+Mississippi,MS,,,,yield,production,avg5,5-year average,3.3,5.7,2026
+Missouri,MO,,,,area_harvested,production,avg5,5-year average,62000,12.9,2026
+Missouri,MO,,,,area_planted,production,avg5,5-year average,65000,9.6,2026
+Missouri,MO,,,,production,production,avg5,5-year average,6562000,18.9,2026
+Missouri,MO,,,,yield,production,trend10,10-year trend,5.2,7.3,2026
+Montana,MT,,,,area_harvested,production,avg5,5-year average,141000,3,2026
+Montana,MT,,,,area_planted,production,ensemble,Ensemble average,105000,2,2026
+Montana,MT,,,,production,production,avg5,5-year average,30408000,24.8,2026
+Montana,MT,,,,yield,production,ensemble,Ensemble average,5.7,21.2,2026
+Nebraska,NE,,,,area_harvested,production,naive,Last value,88000,14,2026
+Nebraska,NE,,,,area_planted,production,ensemble,Ensemble average,63000,6,2026
+Nebraska,NE,,,,production,production,ensemble,Ensemble average,9462000,37,2026
+Nebraska,NE,,,,yield,production,ensemble,Ensemble average,6.9,18.9,2026
+Nevada,NV,,,,area_harvested,production,avg5,5-year average,3000,30,2018
+Nevada,NV,,,,area_planted,production,avg5,5-year average,7000,37,2018
+Nevada,NV,,,,production,production,avg5,5-year average,305000,34.7,2018
+Nevada,NV,,,,yield,production,ensemble,Ensemble average,16,16.9,2018
+New Jersey,NJ,,,,area_harvested,production,holt,Damped trend (Holt),4000,17.7,2023
+New Jersey,NJ,,,,area_planted,production,naive,Last value,4000,16.8,2023
+New Jersey,NJ,,,,production,production,naive,Last value,355000,20.9,2023
+New Jersey,NJ,,,,yield,production,trend10,10-year trend,2.7,3.6,2023
+New Mexico,NM,,,,area_harvested,production,naive,Last value,34000,38.1,2026
+New Mexico,NM,,,,area_planted,production,avg5,5-year average,20000,5.3,2026
+New Mexico,NM,,,,production,production,avg5,5-year average,1302000,73.3,2026
+New Mexico,NM,,,,yield,production,trend10,10-year trend,9.2,50.7,2026
+New York,NY,,,,area_harvested,production,trend10,10-year trend,12000,10.4,2026
+New York,NY,,,,area_planted,production,ensemble,Ensemble average,9000,6.3,2026
+New York,NY,,,,production,production,trend10,10-year trend,1161000,12.9,2026
+New York,NY,,,,yield,production,ensemble,Ensemble average,5,6.7,2026
+North Carolina,NC,,,,area_harvested,production,naive,Last value,38000,12.3,2026
+North Carolina,NC,,,,area_planted,production,naive,Last value,33000,8.9,2026
+North Carolina,NC,,,,production,production,naive,Last value,4318000,22.9,2026
+North Carolina,NC,,,,yield,production,avg5,5-year average,5.8,9.5,2026
+North Dakota,ND,,,,area_harvested,production,naive,Last value,331000,5.7,2026
+North Dakota,ND,,,,area_planted,production,naive,Last value,328000,5.5,2026
+North Dakota,ND,,,,production,production,avg5,5-year average,48916000,19,2026
+North Dakota,ND,,,,yield,production,avg5,5-year average,6.9,15.7,2026
+Ohio,OH,,,,area_harvested,production,avg5,5-year average,44000,8.1,2026
+Ohio,OH,,,,area_planted,production,avg5,5-year average,47000,7.9,2026
+Ohio,OH,,,,production,production,avg5,5-year average,7205000,15.7,2026
+Ohio,OH,,,,yield,production,ensemble,Ensemble average,6,7,2026
+Oklahoma,OK,,,,area_harvested,production,avg5,5-year average,283000,12.1,2026
+Oklahoma,OK,,,,area_planted,production,avg5,5-year average,160000,3.8,2026
+Oklahoma,OK,,,,production,production,avg5,5-year average,22553000,31,2026
+Oklahoma,OK,,,,yield,production,avg5,5-year average,5.1,16.7,2026
+Oregon,OR,,,,area_harvested,production,naive,Last value,16000,2.2,2026
+Oregon,OR,,,,area_planted,production,naive,Last value,13000,1.8,2026
+Oregon,OR,,,,production,production,trend10,10-year trend,6953000,15.4,2026
+Oregon,OR,,,,yield,production,trend10,10-year trend,8.8,15,2026
+Pennsylvania,PA,,,,area_harvested,production,naive,Last value,16000,7.7,2026
+Pennsylvania,PA,,,,area_planted,production,naive,Last value,16000,6,2026
+Pennsylvania,PA,,,,production,production,naive,Last value,1418000,9.2,2026
+Pennsylvania,PA,,,,yield,production,ensemble,Ensemble average,2.4,3.2,2026
+South Carolina,SC,,,,area_harvested,production,naive,Last value,9000,14.1,2026
+South Carolina,SC,,,,area_planted,production,naive,Last value,12000,12.8,2026
+South Carolina,SC,,,,production,production,naive,Last value,648000,17.5,2026
+South Carolina,SC,,,,yield,production,naive,Last value,3.3,5.9,2026
+South Dakota,SD,,,,area_harvested,production,ensemble,Ensemble average,102000,8,2026
+South Dakota,SD,,,,area_planted,production,ensemble,Ensemble average,105000,7.1,2026
+South Dakota,SD,,,,production,production,avg5,5-year average,12688000,22.8,2026
+South Dakota,SD,,,,yield,production,holt,Damped trend (Holt),5.7,13.1,2026
+Tennessee,TN,,,,area_harvested,production,naive,Last value,62000,23.3,2026
+Tennessee,TN,,,,area_planted,production,naive,Last value,64000,18.2,2026
+Tennessee,TN,,,,production,production,naive,Last value,5892000,27.6,2026
+Tennessee,TN,,,,yield,production,holt,Damped trend (Holt),4.3,5.6,2026
+Texas,TX,,,,area_harvested,production,avg5,5-year average,445000,24.7,2026
+Texas,TX,,,,area_planted,production,holt,Damped trend (Holt),457000,7.8,2026
+Texas,TX,,,,production,production,avg5,5-year average,17700000,30.7,2026
+Texas,TX,,,,yield,production,avg5,5-year average,3.7,10.9,2026
+United States,US,,,,area_harvested,production,ensemble,Ensemble average,1868000,5.4,2026
+United States,US,,,,area_planted,production,avg5,5-year average,1560000,3.4,2026
+United States,US,,,,production,production,naive,Last value,161963000,9.7,2026
+United States,US,,,,yield,production,avg5,5-year average,2.7,5.6,2026
+Utah,UT,,,,area_harvested,production,naive,Last value,6000,5.8,2026
+Utah,UT,,,,area_planted,production,naive,Last value,5000,4.5,2026
+Utah,UT,,,,production,production,naive,Last value,910000,22.7,2026
+Utah,UT,,,,yield,production,holt,Damped trend (Holt),6.5,16,2026
+Virginia,VA,,,,area_harvested,production,holt,Damped trend (Holt),22000,26,2026
+Virginia,VA,,,,area_planted,production,holt,Damped trend (Holt),26000,16.8,2026
+Virginia,VA,,,,production,production,naive,Last value,1752000,34.1,2026
+Virginia,VA,,,,yield,production,naive,Last value,6.8,10.5,2026
+Washington,WA,,,,area_harvested,production,ensemble,Ensemble average,14000,0.6,2026
+Washington,WA,,,,area_planted,production,naive,Last value,14000,0.6,2026
+Washington,WA,,,,production,production,avg5,5-year average,26566000,23.6,2026
+Washington,WA,,,,yield,production,avg5,5-year average,11.7,23.5,2026
+West Virginia,WV,,,,area_harvested,production,naive,Last value,1000,25.2,2018
+West Virginia,WV,,,,area_planted,production,trend10,10-year trend,1000,12.1,2018
+West Virginia,WV,,,,production,production,trend10,10-year trend,80000,34.7,2018
+West Virginia,WV,,,,yield,production,avg5,5-year average,6.6,12.1,2018
+Wisconsin,WI,,,,area_harvested,production,naive,Last value,38000,16.7,2026
+Wisconsin,WI,,,,area_planted,production,naive,Last value,45000,16.3,2026
+Wisconsin,WI,,,,production,production,naive,Last value,2497000,14,2026
+Wisconsin,WI,,,,yield,production,trend10,10-year trend,4,5.1,2026
+Wyoming,WY,,,,area_harvested,production,ensemble,Ensemble average,8000,14.2,2026
+Wyoming,WY,,,,area_planted,production,naive,Last value,2000,1.5,2026
+Wyoming,WY,,,,production,production,ensemble,Ensemble average,723000,61.1,2026
+Wyoming,WY,,,,yield,production,avg5,5-year average,5.7,32.8,2026

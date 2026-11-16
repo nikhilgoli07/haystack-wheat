@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+data/raw/snapshots/
+.venv/
+~$*.xlsx
+data/clean/reconciliation_vs_excel.csv
+pipeline_last_run.log

@@ -1,0 +1,73 @@
+# Automatically refresh the wheat data after each USDA release and redeploy the site.
+#
+# One-time setup (see docs/04_HOSTING.md):
+#   1. Push this folder to a GitHub repository.
+#   2. Settings -> Pages -> Source: "GitHub Actions".
+#   3. (Recommended) Settings -> Secrets and variables -> Actions -> New secret
+#      NASS_API_KEY = your free Quick Stats key.  Without it the keyless website export is used.
+name: Update wheat data
+
+on:
+  schedule:
+    # Grain Stocks: last days of Mar / Jun / Sep, plus ~Jan 10-12 (Dec 1 stocks + annual crop summary)
+    - cron: "0 17 28-31 3,6,9 *"
+    - cron: "0 17 1-2 4,7,10 *"
+    - cron: "0 17 9-16 1 *"
+    # Weekly safety net (picks up USDA revisions)
+    - cron: "0 17 * * 1"
+  workflow_dispatch: {}          # "Run workflow" button for manual refreshes
+  push:
+    branches: [main]
+    paths: ["site/**"]           # redeploy when the dashboard code changes
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: wheat-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run pipeline (fetch -> clean -> forecast -> publish)
+        if: github.event_name != 'push'
+        env:
+          NASS_API_KEY: ${{ secrets.NASS_API_KEY }}
+        run: python pipeline/run_pipeline.py
+
+      - name: Commit only if USDA numbers changed
+        if: github.event_name != 'push'
+        run: |
+          if git diff --quiet -- data/clean/wheat_stocks.csv data/clean/wheat_production.csv; then
+            echo "No new USDA data - nothing to commit."
+            git checkout -- .
+          else
+            git config user.name  "wheat-data-bot"
+            git config user.email "wheat-data-bot@users.noreply.github.com"
+            git add data site/data
+            git commit -m "Wheat data refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v4

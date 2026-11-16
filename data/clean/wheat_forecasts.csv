@@ -1,0 +1,1468 @@
+state,state_abbr,quarter,month,position,measure,dataset,year,forecast,lo80,hi80,model
+Alabama,AL,Dec 1,12,Off Farm,stocks,stocks,2026,2885000,2172000,3599000,ratio
+Alabama,AL,Dec 1,12,Off Farm,stocks,stocks,2027,2437000,961000,3913000,naive
+Alabama,AL,Dec 1,12,Off Farm,stocks,stocks,2028,2437000,630000,4244000,naive
+Alabama,AL,Jun 1,6,Off Farm,stocks,stocks,2026,2448000,1797000,3100000,avg5
+Alabama,AL,Jun 1,6,Off Farm,stocks,stocks,2027,2448000,1527000,3370000,avg5
+Alabama,AL,Jun 1,6,Off Farm,stocks,stocks,2028,2448000,1320000,3577000,avg5
+Alabama,AL,Mar 1,3,Off Farm,stocks,stocks,2027,2379000,1515000,3243000,naive
+Alabama,AL,Mar 1,3,Off Farm,stocks,stocks,2028,2379000,1158000,3600000,naive
+Alabama,AL,Mar 1,3,Off Farm,stocks,stocks,2029,2379000,883000,3875000,naive
+Alabama,AL,Sep 1,9,Off Farm,stocks,stocks,2027,3228000,2307000,4149000,naive
+Alabama,AL,Sep 1,9,Off Farm,stocks,stocks,2028,3228000,1926000,4530000,naive
+Alabama,AL,Sep 1,9,Off Farm,stocks,stocks,2029,3228000,1633000,4823000,naive
+Arizona,AZ,Dec 1,12,Off Farm,stocks,stocks,2024,3346000,1931000,4762000,holt
+Arizona,AZ,Dec 1,12,Off Farm,stocks,stocks,2025,3117000,1115000,5120000,holt
+Arizona,AZ,Dec 1,12,Off Farm,stocks,stocks,2026,2911000,459000,5363000,holt
+Arizona,AZ,Mar 1,3,Off Farm,stocks,stocks,2026,2112000,1270000,2954000,naive
+Arizona,AZ,Mar 1,3,Off Farm,stocks,stocks,2027,2112000,921000,3303000,naive
+Arizona,AZ,Mar 1,3,Off Farm,stocks,stocks,2028,2112000,653000,3571000,naive
+Arizona,AZ,Sep 1,9,Off Farm,stocks,stocks,2024,3018000,1037000,4999000,naive
+Arizona,AZ,Sep 1,9,Off Farm,stocks,stocks,2025,3018000,217000,5819000,naive
+Arizona,AZ,Sep 1,9,Off Farm,stocks,stocks,2026,3018000,0,6449000,naive
+Arkansas,AR,Dec 1,12,Off Farm,stocks,stocks,2021,798000,0,5229000,trend10
+Arkansas,AR,Dec 1,12,Off Farm,stocks,stocks,2022,0,0,6266000,trend10
+Arkansas,AR,Dec 1,12,Off Farm,stocks,stocks,2023,0,0,7674000,trend10
+Arkansas,AR,Dec 1,12,On Farm,stocks,stocks,2021,20000,0,65000,naive
+Arkansas,AR,Dec 1,12,On Farm,stocks,stocks,2022,20000,0,84000,naive
+Arkansas,AR,Dec 1,12,On Farm,stocks,stocks,2023,20000,0,98000,naive
+Arkansas,AR,Dec 1,12,Total,stocks,stocks,2026,2040000,929000,3151000,naive
+Arkansas,AR,Dec 1,12,Total,stocks,stocks,2027,2040000,468000,3612000,naive
+Arkansas,AR,Dec 1,12,Total,stocks,stocks,2028,2040000,115000,3965000,naive
+Arkansas,AR,Jun 1,6,On Farm,stocks,stocks,2017,5000,0,17000,ratio
+Arkansas,AR,Jun 1,6,On Farm,stocks,stocks,2018,10000,0,93000,naive
+Arkansas,AR,Jun 1,6,On Farm,stocks,stocks,2019,10000,0,112000,naive
+Arkansas,AR,Jun 1,6,Total,stocks,stocks,2026,1415000,0,4653000,avg5
+Arkansas,AR,Jun 1,6,Total,stocks,stocks,2027,1415000,0,5994000,avg5
+Arkansas,AR,Jun 1,6,Total,stocks,stocks,2028,1415000,0,7024000,avg5
+Arkansas,AR,Mar 1,3,Off Farm,stocks,stocks,2023,0,0,4259000,trend10
+Arkansas,AR,Mar 1,3,Off Farm,stocks,stocks,2024,0,0,6023000,trend10
+Arkansas,AR,Mar 1,3,Off Farm,stocks,stocks,2025,0,0,7376000,trend10
+Arkansas,AR,Mar 1,3,On Farm,stocks,stocks,2020,10000,0,37000,naive
+Arkansas,AR,Mar 1,3,On Farm,stocks,stocks,2021,10000,0,48000,naive
+Arkansas,AR,Mar 1,3,On Farm,stocks,stocks,2022,10000,0,57000,naive
+Arkansas,AR,Mar 1,3,Total,stocks,stocks,2027,1741000,0,4083000,ensemble
+Arkansas,AR,Mar 1,3,Total,stocks,stocks,2028,1519000,0,4831000,ensemble
+Arkansas,AR,Mar 1,3,Total,stocks,stocks,2029,1309000,0,5365000,ensemble
+Arkansas,AR,Sep 1,9,Off Farm,stocks,stocks,2021,3009000,0,7220000,holt
+Arkansas,AR,Sep 1,9,Off Farm,stocks,stocks,2022,2566000,0,8522000,holt
+Arkansas,AR,Sep 1,9,Off Farm,stocks,stocks,2023,2167000,0,9462000,holt
+Arkansas,AR,Sep 1,9,On Farm,stocks,stocks,2021,150000,0,367000,naive
+Arkansas,AR,Sep 1,9,On Farm,stocks,stocks,2022,150000,0,457000,naive
+Arkansas,AR,Sep 1,9,On Farm,stocks,stocks,2023,150000,0,526000,naive
+Arkansas,AR,Sep 1,9,Total,stocks,stocks,2025,1239000,0,3903000,trend10
+Arkansas,AR,Sep 1,9,Total,stocks,stocks,2026,310000,0,4078000,trend10
+Arkansas,AR,Sep 1,9,Total,stocks,stocks,2027,0,0,4615000,trend10
+California,CA,Dec 1,12,Off Farm,stocks,stocks,2026,6670000,4707000,8633000,ratio
+California,CA,Dec 1,12,Off Farm,stocks,stocks,2027,6317000,3190000,9444000,trend10
+California,CA,Dec 1,12,Off Farm,stocks,stocks,2028,5844000,2015000,9674000,trend10
+California,CA,Dec 1,12,On Farm,stocks,stocks,2026,918000,790000,1046000,ratio
+California,CA,Dec 1,12,On Farm,stocks,stocks,2027,712000,446000,978000,avg5
+California,CA,Dec 1,12,On Farm,stocks,stocks,2028,712000,386000,1038000,avg5
+California,CA,Dec 1,12,Total,stocks,stocks,2026,7457000,5453000,9462000,ratio
+California,CA,Dec 1,12,Total,stocks,stocks,2027,6941000,3689000,10194000,trend10
+California,CA,Dec 1,12,Total,stocks,stocks,2028,6441000,2458000,10425000,trend10
+California,CA,Jun 1,6,Off Farm,stocks,stocks,2027,5396000,3642000,7150000,avg5
+California,CA,Jun 1,6,Off Farm,stocks,stocks,2028,5396000,2916000,7877000,avg5
+California,CA,Jun 1,6,Off Farm,stocks,stocks,2029,5396000,2358000,8434000,avg5
+California,CA,Jun 1,6,On Farm,stocks,stocks,2027,230000,197000,263000,avg5
+California,CA,Jun 1,6,On Farm,stocks,stocks,2028,230000,184000,276000,avg5
+California,CA,Jun 1,6,On Farm,stocks,stocks,2029,230000,174000,286000,avg5
+California,CA,Jun 1,6,Total,stocks,stocks,2027,5626000,3875000,7378000,avg5
+California,CA,Jun 1,6,Total,stocks,stocks,2028,5626000,3149000,8103000,avg5
+California,CA,Jun 1,6,Total,stocks,stocks,2029,5626000,2593000,8660000,avg5
+California,CA,Mar 1,3,Off Farm,stocks,stocks,2025,7894000,5431000,10357000,naive
+California,CA,Mar 1,3,Off Farm,stocks,stocks,2026,7894000,4410000,11378000,naive
+California,CA,Mar 1,3,Off Farm,stocks,stocks,2027,7894000,3627000,12161000,naive
+California,CA,Mar 1,3,On Farm,stocks,stocks,2025,411000,301000,520000,trend10
+California,CA,Mar 1,3,On Farm,stocks,stocks,2026,418000,263000,573000,trend10
+California,CA,Mar 1,3,On Farm,stocks,stocks,2027,425000,235000,616000,trend10
+California,CA,Mar 1,3,Total,stocks,stocks,2027,6470000,4250000,8689000,ensemble
+California,CA,Mar 1,3,Total,stocks,stocks,2028,6306000,3167000,9445000,ensemble
+California,CA,Mar 1,3,Total,stocks,stocks,2029,6149000,2305000,9994000,ensemble
+California,CA,Sep 1,9,Off Farm,stocks,stocks,2027,6968000,5562000,8375000,trend10
+California,CA,Sep 1,9,Off Farm,stocks,stocks,2028,6213000,4223000,8202000,trend10
+California,CA,Sep 1,9,Off Farm,stocks,stocks,2029,5457000,3021000,7894000,trend10
+California,CA,Sep 1,9,On Farm,stocks,stocks,2027,1200000,987000,1413000,naive
+California,CA,Sep 1,9,On Farm,stocks,stocks,2028,1200000,899000,1501000,naive
+California,CA,Sep 1,9,On Farm,stocks,stocks,2029,1200000,831000,1569000,naive
+California,CA,Sep 1,9,Total,stocks,stocks,2027,8096000,6628000,9564000,trend10
+California,CA,Sep 1,9,Total,stocks,stocks,2028,7362000,5286000,9438000,trend10
+California,CA,Sep 1,9,Total,stocks,stocks,2029,6627000,4085000,9170000,trend10
+Colorado,CO,Dec 1,12,Off Farm,stocks,stocks,2026,23583000,18103000,29062000,ratio
+Colorado,CO,Dec 1,12,Off Farm,stocks,stocks,2027,24410000,8591000,40229000,ensemble
+Colorado,CO,Dec 1,12,Off Farm,stocks,stocks,2028,23831000,4457000,43206000,ensemble
+Colorado,CO,Dec 1,12,On Farm,stocks,stocks,2026,2900000,259000,5541000,ratio
+Colorado,CO,Dec 1,12,On Farm,stocks,stocks,2027,9559000,1369000,17749000,holt
+Colorado,CO,Dec 1,12,On Farm,stocks,stocks,2028,9472000,0,19503000,holt
+Colorado,CO,Dec 1,12,Total,stocks,stocks,2026,25759000,19849000,31668000,ratio
+Colorado,CO,Dec 1,12,Total,stocks,stocks,2027,36370000,14075000,58665000,holt
+Colorado,CO,Dec 1,12,Total,stocks,stocks,2028,36124000,8818000,63430000,holt
+Colorado,CO,Jun 1,6,Off Farm,stocks,stocks,2027,20007000,14355000,25660000,holt
+Colorado,CO,Jun 1,6,Off Farm,stocks,stocks,2028,20103000,12109000,28097000,holt
+Colorado,CO,Jun 1,6,Off Farm,stocks,stocks,2029,20189000,10399000,29979000,holt
+Colorado,CO,Jun 1,6,On Farm,stocks,stocks,2027,2700000,1339000,4061000,naive
+Colorado,CO,Jun 1,6,On Farm,stocks,stocks,2028,2700000,775000,4625000,naive
+Colorado,CO,Jun 1,6,On Farm,stocks,stocks,2029,2700000,342000,5058000,naive
+Colorado,CO,Jun 1,6,Total,stocks,stocks,2027,22833000,16711000,28955000,holt
+Colorado,CO,Jun 1,6,Total,stocks,stocks,2028,23139000,14481000,31796000,holt
+Colorado,CO,Jun 1,6,Total,stocks,stocks,2029,23413000,12810000,34017000,holt
+Colorado,CO,Mar 1,3,Off Farm,stocks,stocks,2027,25936000,18340000,33532000,naive
+Colorado,CO,Mar 1,3,Off Farm,stocks,stocks,2028,25936000,15194000,36678000,naive
+Colorado,CO,Mar 1,3,Off Farm,stocks,stocks,2029,25936000,12780000,39092000,naive
+Colorado,CO,Mar 1,3,On Farm,stocks,stocks,2027,7000000,3330000,10670000,naive
+Colorado,CO,Mar 1,3,On Farm,stocks,stocks,2028,7000000,1810000,12190000,naive
+Colorado,CO,Mar 1,3,On Farm,stocks,stocks,2029,7000000,643000,13357000,naive
+Colorado,CO,Mar 1,3,Total,stocks,stocks,2027,32936000,22113000,43759000,naive
+Colorado,CO,Mar 1,3,Total,stocks,stocks,2028,32936000,17629000,48243000,naive
+Colorado,CO,Mar 1,3,Total,stocks,stocks,2029,32936000,14189000,51683000,naive
+Colorado,CO,Sep 1,9,Off Farm,stocks,stocks,2027,32349000,23226000,41472000,ensemble
+Colorado,CO,Sep 1,9,Off Farm,stocks,stocks,2028,31770000,18868000,44671000,ensemble
+Colorado,CO,Sep 1,9,Off Farm,stocks,stocks,2029,31197000,15396000,46998000,ensemble
+Colorado,CO,Sep 1,9,On Farm,stocks,stocks,2027,9603000,1220000,17985000,ensemble
+Colorado,CO,Sep 1,9,On Farm,stocks,stocks,2028,8941000,0,20796000,ensemble
+Colorado,CO,Sep 1,9,On Farm,stocks,stocks,2029,8291000,0,22810000,ensemble
+Colorado,CO,Sep 1,9,Total,stocks,stocks,2027,41952000,25688000,58216000,ensemble
+Colorado,CO,Sep 1,9,Total,stocks,stocks,2028,40711000,17710000,63712000,ensemble
+Colorado,CO,Sep 1,9,Total,stocks,stocks,2029,39487000,11317000,67657000,ensemble
+Delaware,DE,Dec 1,12,Off Farm,stocks,stocks,2026,231000,0,1219000,ratio
+Delaware,DE,Dec 1,12,Off Farm,stocks,stocks,2027,1109000,0,2785000,avg5
+Delaware,DE,Dec 1,12,Off Farm,stocks,stocks,2028,1109000,0,3162000,avg5
+Delaware,DE,Jun 1,6,Off Farm,stocks,stocks,2025,221000,0,1293000,ratio
+Delaware,DE,Jun 1,6,Off Farm,stocks,stocks,2026,1133000,0,2695000,avg5
+Delaware,DE,Jun 1,6,Off Farm,stocks,stocks,2027,1133000,0,3046000,avg5
+Delaware,DE,Mar 1,3,Off Farm,stocks,stocks,2027,469000,0,1298000,trend10
+Delaware,DE,Mar 1,3,Off Farm,stocks,stocks,2028,359000,0,1532000,trend10
+Delaware,DE,Mar 1,3,Off Farm,stocks,stocks,2029,249000,0,1685000,trend10
+Delaware,DE,Sep 1,9,Off Farm,stocks,stocks,2027,1573000,92000,3053000,avg5
+Delaware,DE,Sep 1,9,Off Farm,stocks,stocks,2028,1573000,0,3667000,avg5
+Delaware,DE,Sep 1,9,Off Farm,stocks,stocks,2029,1573000,0,4137000,avg5
+Georgia,GA,Dec 1,12,Off Farm,stocks,stocks,2026,1281000,795000,1767000,ratio
+Georgia,GA,Dec 1,12,Off Farm,stocks,stocks,2027,2260000,914000,3606000,ensemble
+Georgia,GA,Dec 1,12,Off Farm,stocks,stocks,2028,2178000,529000,3826000,ensemble
+Georgia,GA,Jun 1,6,Off Farm,stocks,stocks,2025,1503000,524000,2482000,naive
+Georgia,GA,Jun 1,6,Off Farm,stocks,stocks,2026,1503000,119000,2887000,naive
+Georgia,GA,Jun 1,6,Off Farm,stocks,stocks,2027,1503000,0,3198000,naive
+Georgia,GA,Mar 1,3,Off Farm,stocks,stocks,2027,2293000,810000,3776000,avg5
+Georgia,GA,Mar 1,3,Off Farm,stocks,stocks,2028,2293000,196000,4391000,avg5
+Georgia,GA,Mar 1,3,Off Farm,stocks,stocks,2029,2293000,0,4862000,avg5
+Georgia,GA,Sep 1,9,Off Farm,stocks,stocks,2027,2216000,772000,3660000,ensemble
+Georgia,GA,Sep 1,9,Off Farm,stocks,stocks,2028,2131000,89000,4174000,ensemble
+Georgia,GA,Sep 1,9,Off Farm,stocks,stocks,2029,2050000,0,4552000,ensemble
+Idaho,ID,Dec 1,12,Off Farm,stocks,stocks,2026,43281000,34132000,52431000,ratio
+Idaho,ID,Dec 1,12,Off Farm,stocks,stocks,2027,35046000,19651000,50441000,avg5
+Idaho,ID,Dec 1,12,Off Farm,stocks,stocks,2028,35046000,16191000,53901000,avg5
+Idaho,ID,Dec 1,12,On Farm,stocks,stocks,2026,35500000,31036000,39964000,ratio
+Idaho,ID,Dec 1,12,On Farm,stocks,stocks,2027,35500000,21871000,49129000,naive
+Idaho,ID,Dec 1,12,On Farm,stocks,stocks,2028,35500000,18808000,52192000,naive
+Idaho,ID,Dec 1,12,Total,stocks,stocks,2026,75861000,66504000,85219000,ratio
+Idaho,ID,Dec 1,12,Total,stocks,stocks,2027,77198000,45441000,108955000,naive
+Idaho,ID,Dec 1,12,Total,stocks,stocks,2028,77198000,38303000,116093000,naive
+Idaho,ID,Jun 1,6,Off Farm,stocks,stocks,2027,16245000,10972000,21517000,avg5
+Idaho,ID,Jun 1,6,Off Farm,stocks,stocks,2028,16245000,8788000,23701000,avg5
+Idaho,ID,Jun 1,6,Off Farm,stocks,stocks,2029,16245000,7113000,25377000,avg5
+Idaho,ID,Jun 1,6,On Farm,stocks,stocks,2027,11100000,7952000,14248000,naive
+Idaho,ID,Jun 1,6,On Farm,stocks,stocks,2028,11100000,6647000,15553000,naive
+Idaho,ID,Jun 1,6,On Farm,stocks,stocks,2029,11100000,5647000,16553000,naive
+Idaho,ID,Jun 1,6,Total,stocks,stocks,2027,31175000,23738000,38612000,naive
+Idaho,ID,Jun 1,6,Total,stocks,stocks,2028,31175000,20658000,41692000,naive
+Idaho,ID,Jun 1,6,Total,stocks,stocks,2029,31175000,18294000,44056000,naive
+Idaho,ID,Mar 1,3,Off Farm,stocks,stocks,2027,26662000,19389000,33935000,avg5
+Idaho,ID,Mar 1,3,Off Farm,stocks,stocks,2028,26662000,16377000,36947000,avg5
+Idaho,ID,Mar 1,3,Off Farm,stocks,stocks,2029,26662000,14065000,39259000,avg5
+Idaho,ID,Mar 1,3,On Farm,stocks,stocks,2027,18000000,13822000,22178000,naive
+Idaho,ID,Mar 1,3,On Farm,stocks,stocks,2028,18000000,12092000,23908000,naive
+Idaho,ID,Mar 1,3,On Farm,stocks,stocks,2029,18000000,10764000,25236000,naive
+Idaho,ID,Mar 1,3,Total,stocks,stocks,2027,47375000,37223000,57528000,ensemble
+Idaho,ID,Mar 1,3,Total,stocks,stocks,2028,47373000,33016000,61730000,ensemble
+Idaho,ID,Mar 1,3,Total,stocks,stocks,2029,47357000,29773000,64942000,ensemble
+Idaho,ID,Sep 1,9,Off Farm,stocks,stocks,2027,48241000,35589000,60892000,avg5
+Idaho,ID,Sep 1,9,Off Farm,stocks,stocks,2028,48241000,30348000,66133000,avg5
+Idaho,ID,Sep 1,9,Off Farm,stocks,stocks,2029,48241000,26327000,70154000,avg5
+Idaho,ID,Sep 1,9,On Farm,stocks,stocks,2027,45000000,33106000,56894000,naive
+Idaho,ID,Sep 1,9,On Farm,stocks,stocks,2028,45000000,28180000,61820000,naive
+Idaho,ID,Sep 1,9,On Farm,stocks,stocks,2029,45000000,24400000,65600000,naive
+Idaho,ID,Sep 1,9,Total,stocks,stocks,2027,82941000,61583000,104298000,avg5
+Idaho,ID,Sep 1,9,Total,stocks,stocks,2028,82941000,52736000,113145000,avg5
+Idaho,ID,Sep 1,9,Total,stocks,stocks,2029,82941000,45948000,119933000,avg5
+Illinois,IL,Dec 1,12,Off Farm,stocks,stocks,2026,36282000,30870000,41694000,naive
+Illinois,IL,Dec 1,12,Off Farm,stocks,stocks,2027,36282000,28629000,43935000,naive
+Illinois,IL,Dec 1,12,Off Farm,stocks,stocks,2028,36282000,26909000,45655000,naive
+Illinois,IL,Dec 1,12,On Farm,stocks,stocks,2026,6100000,4194000,8006000,naive
+Illinois,IL,Dec 1,12,On Farm,stocks,stocks,2027,6100000,3404000,8796000,naive
+Illinois,IL,Dec 1,12,On Farm,stocks,stocks,2028,6100000,2798000,9402000,naive
+Illinois,IL,Dec 1,12,Total,stocks,stocks,2026,43573000,39620000,47527000,ratio
+Illinois,IL,Dec 1,12,Total,stocks,stocks,2027,42382000,32638000,52126000,naive
+Illinois,IL,Dec 1,12,Total,stocks,stocks,2028,42382000,30448000,54316000,naive
+Illinois,IL,Jun 1,6,Off Farm,stocks,stocks,2027,18924000,15235000,22614000,holt
+Illinois,IL,Jun 1,6,Off Farm,stocks,stocks,2028,19031000,13813000,24248000,holt
+Illinois,IL,Jun 1,6,Off Farm,stocks,stocks,2029,19126000,12736000,25516000,holt
+Illinois,IL,Jun 1,6,On Farm,stocks,stocks,2027,1250000,732000,1768000,naive
+Illinois,IL,Jun 1,6,On Farm,stocks,stocks,2028,1250000,517000,1983000,naive
+Illinois,IL,Jun 1,6,On Farm,stocks,stocks,2029,1250000,352000,2148000,naive
+Illinois,IL,Jun 1,6,Total,stocks,stocks,2027,20856000,17331000,24381000,naive
+Illinois,IL,Jun 1,6,Total,stocks,stocks,2028,20856000,15871000,25841000,naive
+Illinois,IL,Jun 1,6,Total,stocks,stocks,2029,20856000,14751000,26961000,naive
+Illinois,IL,Mar 1,3,Off Farm,stocks,stocks,2027,25686000,18260000,33112000,ensemble
+Illinois,IL,Mar 1,3,Off Farm,stocks,stocks,2028,25530000,15027000,36032000,ensemble
+Illinois,IL,Mar 1,3,Off Farm,stocks,stocks,2029,25370000,12508000,38233000,ensemble
+Illinois,IL,Mar 1,3,On Farm,stocks,stocks,2027,2800000,1718000,3882000,naive
+Illinois,IL,Mar 1,3,On Farm,stocks,stocks,2028,2800000,1270000,4330000,naive
+Illinois,IL,Mar 1,3,On Farm,stocks,stocks,2029,2800000,926000,4674000,naive
+Illinois,IL,Mar 1,3,Total,stocks,stocks,2027,28183000,19860000,36505000,ensemble
+Illinois,IL,Mar 1,3,Total,stocks,stocks,2028,28067000,16298000,39836000,ensemble
+Illinois,IL,Mar 1,3,Total,stocks,stocks,2029,27947000,13533000,42361000,ensemble
+Illinois,IL,Sep 1,9,Off Farm,stocks,stocks,2027,35536000,28717000,42355000,avg5
+Illinois,IL,Sep 1,9,Off Farm,stocks,stocks,2028,35536000,25893000,45180000,avg5
+Illinois,IL,Sep 1,9,Off Farm,stocks,stocks,2029,35536000,23726000,47347000,avg5
+Illinois,IL,Sep 1,9,On Farm,stocks,stocks,2027,8500000,3717000,13283000,naive
+Illinois,IL,Sep 1,9,On Farm,stocks,stocks,2028,8500000,1735000,15265000,naive
+Illinois,IL,Sep 1,9,On Farm,stocks,stocks,2029,8500000,215000,16785000,naive
+Illinois,IL,Sep 1,9,Total,stocks,stocks,2027,52663000,41865000,63460000,holt
+Illinois,IL,Sep 1,9,Total,stocks,stocks,2028,53646000,38376000,68916000,holt
+Illinois,IL,Sep 1,9,Total,stocks,stocks,2029,54531000,35829000,73232000,holt
+Indiana,IN,Dec 1,12,Off Farm,stocks,stocks,2026,27660000,26917000,28402000,ratio
+Indiana,IN,Dec 1,12,Off Farm,stocks,stocks,2027,26855000,19012000,34698000,naive
+Indiana,IN,Dec 1,12,Off Farm,stocks,stocks,2028,26855000,17249000,36461000,naive
+Indiana,IN,Dec 1,12,On Farm,stocks,stocks,2026,1327000,768000,1885000,ratio
+Indiana,IN,Dec 1,12,On Farm,stocks,stocks,2027,726000,0,1786000,ensemble
+Indiana,IN,Dec 1,12,On Farm,stocks,stocks,2028,698000,0,1996000,ensemble
+Indiana,IN,Dec 1,12,Total,stocks,stocks,2026,29235000,27747000,30722000,ratio
+Indiana,IN,Dec 1,12,Total,stocks,stocks,2027,27505000,18580000,36430000,naive
+Indiana,IN,Dec 1,12,Total,stocks,stocks,2028,27505000,16574000,38436000,naive
+Indiana,IN,Jun 1,6,Off Farm,stocks,stocks,2027,13191000,7822000,18560000,holt
+Indiana,IN,Jun 1,6,Off Farm,stocks,stocks,2028,13167000,5573000,20760000,holt
+Indiana,IN,Jun 1,6,Off Farm,stocks,stocks,2029,13144000,3844000,22444000,holt
+Indiana,IN,Jun 1,6,On Farm,stocks,stocks,2027,240000,186000,294000,naive
+Indiana,IN,Jun 1,6,On Farm,stocks,stocks,2028,240000,164000,316000,naive
+Indiana,IN,Jun 1,6,On Farm,stocks,stocks,2029,240000,147000,333000,naive
+Indiana,IN,Jun 1,6,Total,stocks,stocks,2027,13168000,7929000,18407000,naive
+Indiana,IN,Jun 1,6,Total,stocks,stocks,2028,13168000,5758000,20578000,naive
+Indiana,IN,Jun 1,6,Total,stocks,stocks,2029,13168000,4093000,22243000,naive
+Indiana,IN,Mar 1,3,Off Farm,stocks,stocks,2027,18498000,12950000,24046000,naive
+Indiana,IN,Mar 1,3,Off Farm,stocks,stocks,2028,18498000,10652000,26344000,naive
+Indiana,IN,Mar 1,3,Off Farm,stocks,stocks,2029,18498000,8889000,28107000,naive
+Indiana,IN,Mar 1,3,On Farm,stocks,stocks,2027,450000,183000,717000,naive
+Indiana,IN,Mar 1,3,On Farm,stocks,stocks,2028,450000,72000,828000,naive
+Indiana,IN,Mar 1,3,On Farm,stocks,stocks,2029,450000,0,913000,naive
+Indiana,IN,Mar 1,3,Total,stocks,stocks,2027,18948000,13142000,24754000,naive
+Indiana,IN,Mar 1,3,Total,stocks,stocks,2028,18948000,10736000,27160000,naive
+Indiana,IN,Mar 1,3,Total,stocks,stocks,2029,18948000,8891000,29005000,naive
+Indiana,IN,Sep 1,9,Off Farm,stocks,stocks,2027,31765000,25299000,38231000,holt
+Indiana,IN,Sep 1,9,Off Farm,stocks,stocks,2028,31847000,22702000,40991000,holt
+Indiana,IN,Sep 1,9,Off Farm,stocks,stocks,2029,31920000,20721000,43119000,holt
+Indiana,IN,Sep 1,9,On Farm,stocks,stocks,2027,2780000,1348000,4212000,avg5
+Indiana,IN,Sep 1,9,On Farm,stocks,stocks,2028,2780000,754000,4806000,avg5
+Indiana,IN,Sep 1,9,On Farm,stocks,stocks,2029,2780000,299000,5261000,avg5
+Indiana,IN,Sep 1,9,Total,stocks,stocks,2027,34910000,27141000,42679000,holt
+Indiana,IN,Sep 1,9,Total,stocks,stocks,2028,35001000,24014000,45987000,holt
+Indiana,IN,Sep 1,9,Total,stocks,stocks,2029,35082000,21627000,48538000,holt
+Iowa,IA,Dec 1,12,Off Farm,stocks,stocks,2026,3175000,2809000,3541000,ensemble
+Iowa,IA,Dec 1,12,Off Farm,stocks,stocks,2027,3212000,2694000,3730000,ensemble
+Iowa,IA,Dec 1,12,Off Farm,stocks,stocks,2028,3247000,2613000,3881000,ensemble
+Iowa,IA,Jun 1,6,Off Farm,stocks,stocks,2026,757000,0,1557000,ratio
+Iowa,IA,Jun 1,6,Off Farm,stocks,stocks,2027,2299000,1022000,3576000,ensemble
+Iowa,IA,Jun 1,6,Off Farm,stocks,stocks,2028,2310000,746000,3874000,ensemble
+Iowa,IA,Mar 1,3,Off Farm,stocks,stocks,2027,2251000,1264000,3238000,avg5
+Iowa,IA,Mar 1,3,Off Farm,stocks,stocks,2028,2251000,856000,3647000,avg5
+Iowa,IA,Mar 1,3,Off Farm,stocks,stocks,2029,2251000,542000,3961000,avg5
+Iowa,IA,Sep 1,9,Off Farm,stocks,stocks,2027,2774000,2296000,3252000,avg5
+Iowa,IA,Sep 1,9,Off Farm,stocks,stocks,2028,2774000,2098000,3450000,avg5
+Iowa,IA,Sep 1,9,Off Farm,stocks,stocks,2029,2774000,1947000,3601000,avg5
+Kansas,KS,Dec 1,12,Off Farm,stocks,stocks,2026,249420000,231929000,266911000,ratio
+Kansas,KS,Dec 1,12,Off Farm,stocks,stocks,2027,337769000,224842000,450696000,naive
+Kansas,KS,Dec 1,12,Off Farm,stocks,stocks,2028,337769000,199462000,476076000,naive
+Kansas,KS,Dec 1,12,On Farm,stocks,stocks,2026,13134000,8011000,18258000,holt
+Kansas,KS,Dec 1,12,On Farm,stocks,stocks,2027,13019000,5773000,20264000,holt
+Kansas,KS,Dec 1,12,On Farm,stocks,stocks,2028,12914000,4041000,21788000,holt
+Kansas,KS,Dec 1,12,Total,stocks,stocks,2026,256444000,233469000,279420000,ratio
+Kansas,KS,Dec 1,12,Total,stocks,stocks,2027,351269000,233682000,468856000,naive
+Kansas,KS,Dec 1,12,Total,stocks,stocks,2028,351269000,207254000,495284000,naive
+Kansas,KS,Jun 1,6,Off Farm,stocks,stocks,2027,203720000,135505000,271935000,naive
+Kansas,KS,Jun 1,6,Off Farm,stocks,stocks,2028,203720000,107250000,300190000,naive
+Kansas,KS,Jun 1,6,Off Farm,stocks,stocks,2029,203720000,85569000,321871000,naive
+Kansas,KS,Jun 1,6,On Farm,stocks,stocks,2027,5404000,3490000,7319000,holt
+Kansas,KS,Jun 1,6,On Farm,stocks,stocks,2028,5439000,2731000,8146000,holt
+Kansas,KS,Jun 1,6,On Farm,stocks,stocks,2029,5469000,2153000,8786000,holt
+Kansas,KS,Jun 1,6,Total,stocks,stocks,2027,210120000,141747000,278493000,naive
+Kansas,KS,Jun 1,6,Total,stocks,stocks,2028,210120000,113426000,306814000,naive
+Kansas,KS,Jun 1,6,Total,stocks,stocks,2029,210120000,91694000,328546000,naive
+Kansas,KS,Mar 1,3,Off Farm,stocks,stocks,2027,277663000,207380000,347946000,naive
+Kansas,KS,Mar 1,3,Off Farm,stocks,stocks,2028,277663000,178268000,377058000,naive
+Kansas,KS,Mar 1,3,Off Farm,stocks,stocks,2029,277663000,155930000,399396000,naive
+Kansas,KS,Mar 1,3,On Farm,stocks,stocks,2027,11000000,6620000,15380000,naive
+Kansas,KS,Mar 1,3,On Farm,stocks,stocks,2028,11000000,4805000,17195000,naive
+Kansas,KS,Mar 1,3,On Farm,stocks,stocks,2029,11000000,3413000,18587000,naive
+Kansas,KS,Mar 1,3,Total,stocks,stocks,2027,288663000,216031000,361295000,naive
+Kansas,KS,Mar 1,3,Total,stocks,stocks,2028,288663000,185946000,391380000,naive
+Kansas,KS,Mar 1,3,Total,stocks,stocks,2029,288663000,162861000,414465000,naive
+Kansas,KS,Sep 1,9,Off Farm,stocks,stocks,2027,292824000,194420000,391228000,naive
+Kansas,KS,Sep 1,9,Off Farm,stocks,stocks,2028,292824000,153660000,431988000,naive
+Kansas,KS,Sep 1,9,Off Farm,stocks,stocks,2029,292824000,122383000,463265000,naive
+Kansas,KS,Sep 1,9,On Farm,stocks,stocks,2027,26333000,20922000,31745000,trend10
+Kansas,KS,Sep 1,9,On Farm,stocks,stocks,2028,26167000,18514000,33820000,trend10
+Kansas,KS,Sep 1,9,On Farm,stocks,stocks,2029,26000000,16627000,35373000,trend10
+Kansas,KS,Sep 1,9,Total,stocks,stocks,2027,312824000,210398000,415250000,naive
+Kansas,KS,Sep 1,9,Total,stocks,stocks,2028,312824000,167972000,457676000,naive
+Kansas,KS,Sep 1,9,Total,stocks,stocks,2029,312824000,135417000,490231000,naive
+Kentucky,KY,Dec 1,12,Off Farm,stocks,stocks,2026,12405000,10213000,14597000,ratio
+Kentucky,KY,Dec 1,12,Off Farm,stocks,stocks,2027,12644000,8467000,16820000,trend10
+Kentucky,KY,Dec 1,12,Off Farm,stocks,stocks,2028,12639000,7524000,17754000,trend10
+Kentucky,KY,Jun 1,6,Off Farm,stocks,stocks,2026,4556000,3347000,5764000,ratio
+Kentucky,KY,Jun 1,6,Off Farm,stocks,stocks,2027,3725000,898000,6552000,naive
+Kentucky,KY,Jun 1,6,Off Farm,stocks,stocks,2028,3725000,263000,7187000,naive
+Kentucky,KY,Mar 1,3,Off Farm,stocks,stocks,2027,9376000,6812000,11940000,naive
+Kentucky,KY,Mar 1,3,Off Farm,stocks,stocks,2028,9376000,5750000,13002000,naive
+Kentucky,KY,Mar 1,3,Off Farm,stocks,stocks,2029,9376000,4935000,13817000,naive
+Kentucky,KY,Sep 1,9,Off Farm,stocks,stocks,2027,16026000,13413000,18639000,avg5
+Kentucky,KY,Sep 1,9,Off Farm,stocks,stocks,2028,16026000,12331000,19722000,avg5
+Kentucky,KY,Sep 1,9,Off Farm,stocks,stocks,2029,16026000,11500000,20552000,avg5
+Louisiana,LA,Dec 1,12,Off Farm,stocks,stocks,2026,3487000,2040000,4935000,trend10
+Louisiana,LA,Dec 1,12,Off Farm,stocks,stocks,2027,3142000,1095000,5189000,trend10
+Louisiana,LA,Dec 1,12,Off Farm,stocks,stocks,2028,2797000,290000,5303000,trend10
+Louisiana,LA,Jun 1,6,Off Farm,stocks,stocks,2027,955000,0,1928000,holt
+Louisiana,LA,Jun 1,6,Off Farm,stocks,stocks,2028,735000,0,2111000,holt
+Louisiana,LA,Jun 1,6,Off Farm,stocks,stocks,2029,537000,0,2223000,holt
+Louisiana,LA,Mar 1,3,Off Farm,stocks,stocks,2027,2228000,1037000,3419000,trend10
+Louisiana,LA,Mar 1,3,Off Farm,stocks,stocks,2028,1880000,196000,3563000,trend10
+Louisiana,LA,Mar 1,3,Off Farm,stocks,stocks,2029,1531000,0,3593000,trend10
+Louisiana,LA,Sep 1,9,Off Farm,stocks,stocks,2027,4770000,1626000,7913000,avg5
+Louisiana,LA,Sep 1,9,Off Farm,stocks,stocks,2028,4770000,324000,9216000,avg5
+Louisiana,LA,Sep 1,9,Off Farm,stocks,stocks,2029,4770000,0,10215000,avg5
+Maryland,MD,Dec 1,12,Off Farm,stocks,stocks,2026,1500000,464000,2536000,ratio
+Maryland,MD,Dec 1,12,Off Farm,stocks,stocks,2027,1415000,0,4758000,holt
+Maryland,MD,Dec 1,12,Off Farm,stocks,stocks,2028,1135000,0,5229000,holt
+Maryland,MD,Jun 1,6,Off Farm,stocks,stocks,2026,404000,0,1515000,ratio
+Maryland,MD,Jun 1,6,Off Farm,stocks,stocks,2027,435000,0,2293000,naive
+Maryland,MD,Jun 1,6,Off Farm,stocks,stocks,2028,435000,0,2710000,naive
+Maryland,MD,Mar 1,3,Off Farm,stocks,stocks,2027,511000,0,2344000,holt
+Maryland,MD,Mar 1,3,Off Farm,stocks,stocks,2028,70000,0,2662000,holt
+Maryland,MD,Mar 1,3,Off Farm,stocks,stocks,2029,0,0,3174000,holt
+Maryland,MD,Sep 1,9,Off Farm,stocks,stocks,2027,1936000,0,3896000,holt
+Maryland,MD,Sep 1,9,Off Farm,stocks,stocks,2028,1512000,0,4284000,holt
+Maryland,MD,Sep 1,9,Off Farm,stocks,stocks,2029,1130000,0,4526000,holt
+Michigan,MI,Dec 1,12,Off Farm,stocks,stocks,2026,37858000,36183000,39532000,ratio
+Michigan,MI,Dec 1,12,Off Farm,stocks,stocks,2027,32888000,20526000,45250000,ensemble
+Michigan,MI,Dec 1,12,Off Farm,stocks,stocks,2028,32543000,17402000,47683000,ensemble
+Michigan,MI,Dec 1,12,On Farm,stocks,stocks,2026,2773000,1983000,3563000,trend10
+Michigan,MI,Dec 1,12,On Farm,stocks,stocks,2027,2770000,1653000,3887000,trend10
+Michigan,MI,Dec 1,12,On Farm,stocks,stocks,2028,2767000,1399000,4135000,trend10
+Michigan,MI,Dec 1,12,Total,stocks,stocks,2026,39041000,36856000,41226000,ratio
+Michigan,MI,Dec 1,12,Total,stocks,stocks,2027,35733000,23085000,48380000,ensemble
+Michigan,MI,Dec 1,12,Total,stocks,stocks,2028,35384000,19894000,50874000,ensemble
+Michigan,MI,Jun 1,6,Off Farm,stocks,stocks,2027,20619000,14383000,26855000,naive
+Michigan,MI,Jun 1,6,Off Farm,stocks,stocks,2028,20619000,11800000,29438000,naive
+Michigan,MI,Jun 1,6,Off Farm,stocks,stocks,2029,20619000,9819000,31419000,naive
+Michigan,MI,Jun 1,6,On Farm,stocks,stocks,2027,622000,48000,1196000,ensemble
+Michigan,MI,Jun 1,6,On Farm,stocks,stocks,2028,613000,0,1425000,ensemble
+Michigan,MI,Jun 1,6,On Farm,stocks,stocks,2029,605000,0,1598000,ensemble
+Michigan,MI,Jun 1,6,Total,stocks,stocks,2027,20481000,13588000,27375000,holt
+Michigan,MI,Jun 1,6,Total,stocks,stocks,2028,20524000,10775000,30273000,holt
+Michigan,MI,Jun 1,6,Total,stocks,stocks,2029,20562000,8622000,32502000,holt
+Michigan,MI,Mar 1,3,Off Farm,stocks,stocks,2027,30912000,22031000,39794000,holt
+Michigan,MI,Mar 1,3,Off Farm,stocks,stocks,2028,31073000,18513000,43633000,holt
+Michigan,MI,Mar 1,3,Off Farm,stocks,stocks,2029,31217000,15834000,46600000,holt
+Michigan,MI,Mar 1,3,On Farm,stocks,stocks,2027,2200000,1599000,2801000,naive
+Michigan,MI,Mar 1,3,On Farm,stocks,stocks,2028,2200000,1350000,3050000,naive
+Michigan,MI,Mar 1,3,On Farm,stocks,stocks,2029,2200000,1159000,3241000,naive
+Michigan,MI,Mar 1,3,Total,stocks,stocks,2027,33089000,23893000,42285000,holt
+Michigan,MI,Mar 1,3,Total,stocks,stocks,2028,33275000,20270000,46280000,holt
+Michigan,MI,Mar 1,3,Total,stocks,stocks,2029,33442000,17514000,49369000,holt
+Michigan,MI,Sep 1,9,Off Farm,stocks,stocks,2027,44370000,37574000,51166000,holt
+Michigan,MI,Sep 1,9,Off Farm,stocks,stocks,2028,44519000,34908000,54129000,holt
+Michigan,MI,Sep 1,9,Off Farm,stocks,stocks,2029,44652000,32881000,56423000,holt
+Michigan,MI,Sep 1,9,On Farm,stocks,stocks,2027,6540000,3618000,9462000,avg5
+Michigan,MI,Sep 1,9,On Farm,stocks,stocks,2028,6540000,2408000,10672000,avg5
+Michigan,MI,Sep 1,9,On Farm,stocks,stocks,2029,6540000,1480000,11600000,avg5
+Michigan,MI,Sep 1,9,Total,stocks,stocks,2027,50308000,41961000,58656000,holt
+Michigan,MI,Sep 1,9,Total,stocks,stocks,2028,50796000,38992000,62601000,holt
+Michigan,MI,Sep 1,9,Total,stocks,stocks,2029,51236000,36778000,65694000,holt
+Minnesota,MN,Dec 1,12,Off Farm,stocks,stocks,2026,38980000,32950000,45009000,ratio
+Minnesota,MN,Dec 1,12,Off Farm,stocks,stocks,2027,34278000,24454000,44102000,naive
+Minnesota,MN,Dec 1,12,Off Farm,stocks,stocks,2028,34278000,22247000,46309000,naive
+Minnesota,MN,Dec 1,12,On Farm,stocks,stocks,2026,31590000,21949000,41231000,ratio
+Minnesota,MN,Dec 1,12,On Farm,stocks,stocks,2027,31158000,4427000,57889000,ensemble
+Minnesota,MN,Dec 1,12,On Farm,stocks,stocks,2028,30396000,0,63135000,ensemble
+Minnesota,MN,Dec 1,12,Total,stocks,stocks,2026,68231000,57249000,79212000,ratio
+Minnesota,MN,Dec 1,12,Total,stocks,stocks,2027,60602000,31582000,89622000,ensemble
+Minnesota,MN,Dec 1,12,Total,stocks,stocks,2028,59416000,23874000,94958000,ensemble
+Minnesota,MN,Jun 1,6,Off Farm,stocks,stocks,2027,21768000,7716000,35820000,avg5
+Minnesota,MN,Jun 1,6,Off Farm,stocks,stocks,2028,21768000,1895000,41640000,avg5
+Minnesota,MN,Jun 1,6,Off Farm,stocks,stocks,2029,21768000,0,46106000,avg5
+Minnesota,MN,Jun 1,6,On Farm,stocks,stocks,2027,12500000,1447000,23553000,naive
+Minnesota,MN,Jun 1,6,On Farm,stocks,stocks,2028,12500000,0,28131000,naive
+Minnesota,MN,Jun 1,6,On Farm,stocks,stocks,2029,12500000,0,31644000,naive
+Minnesota,MN,Jun 1,6,Total,stocks,stocks,2027,54071000,39432000,68710000,naive
+Minnesota,MN,Jun 1,6,Total,stocks,stocks,2028,54071000,33369000,74773000,naive
+Minnesota,MN,Jun 1,6,Total,stocks,stocks,2029,54071000,28716000,79426000,naive
+Minnesota,MN,Mar 1,3,Off Farm,stocks,stocks,2027,31312000,22986000,39638000,naive
+Minnesota,MN,Mar 1,3,Off Farm,stocks,stocks,2028,31312000,19538000,43086000,naive
+Minnesota,MN,Mar 1,3,Off Farm,stocks,stocks,2029,31312000,16892000,45732000,naive
+Minnesota,MN,Mar 1,3,On Farm,stocks,stocks,2027,28335000,20296000,36374000,holt
+Minnesota,MN,Mar 1,3,On Farm,stocks,stocks,2028,28313000,16944000,39681000,holt
+Minnesota,MN,Mar 1,3,On Farm,stocks,stocks,2029,28293000,14369000,42216000,holt
+Minnesota,MN,Mar 1,3,Total,stocks,stocks,2027,52198000,36332000,68063000,avg5
+Minnesota,MN,Mar 1,3,Total,stocks,stocks,2028,52198000,29761000,74635000,avg5
+Minnesota,MN,Mar 1,3,Total,stocks,stocks,2029,52198000,24718000,79677000,avg5
+Minnesota,MN,Sep 1,9,Off Farm,stocks,stocks,2027,42605000,27741000,57469000,naive
+Minnesota,MN,Sep 1,9,Off Farm,stocks,stocks,2028,42605000,21584000,63626000,naive
+Minnesota,MN,Sep 1,9,Off Farm,stocks,stocks,2029,42605000,16860000,68350000,naive
+Minnesota,MN,Sep 1,9,On Farm,stocks,stocks,2027,57200000,42777000,71623000,avg5
+Minnesota,MN,Sep 1,9,On Farm,stocks,stocks,2028,57200000,36803000,77597000,avg5
+Minnesota,MN,Sep 1,9,On Farm,stocks,stocks,2029,57200000,32218000,82182000,avg5
+Minnesota,MN,Sep 1,9,Total,stocks,stocks,2027,89605000,74590000,104620000,naive
+Minnesota,MN,Sep 1,9,Total,stocks,stocks,2028,89605000,68371000,110839000,naive
+Minnesota,MN,Sep 1,9,Total,stocks,stocks,2029,89605000,63599000,115611000,naive
+Mississippi,MS,Dec 1,12,Off Farm,stocks,stocks,2020,1426000,0,4223000,naive
+Mississippi,MS,Dec 1,12,Off Farm,stocks,stocks,2021,1426000,0,5381000,naive
+Mississippi,MS,Dec 1,12,Off Farm,stocks,stocks,2022,1426000,0,6270000,naive
+Mississippi,MS,Jun 1,6,Off Farm,stocks,stocks,2023,832000,0,1709000,avg5
+Mississippi,MS,Jun 1,6,Off Farm,stocks,stocks,2024,832000,0,2072000,avg5
+Mississippi,MS,Jun 1,6,Off Farm,stocks,stocks,2025,832000,0,2350000,avg5
+Mississippi,MS,Mar 1,3,Off Farm,stocks,stocks,2026,903000,0,2457000,ensemble
+Mississippi,MS,Mar 1,3,Off Farm,stocks,stocks,2027,818000,0,3017000,ensemble
+Mississippi,MS,Mar 1,3,Off Farm,stocks,stocks,2028,736000,0,3428000,ensemble
+Mississippi,MS,Sep 1,9,Off Farm,stocks,stocks,2022,1503000,0,3186000,naive
+Mississippi,MS,Sep 1,9,Off Farm,stocks,stocks,2023,1503000,0,3883000,naive
+Mississippi,MS,Sep 1,9,Off Farm,stocks,stocks,2024,1503000,0,4418000,naive
+Missouri,MO,Dec 1,12,Off Farm,stocks,stocks,2026,18313000,16764000,19862000,ratio
+Missouri,MO,Dec 1,12,Off Farm,stocks,stocks,2027,18057000,10175000,25939000,ensemble
+Missouri,MO,Dec 1,12,Off Farm,stocks,stocks,2028,17837000,8183000,27491000,ensemble
+Missouri,MO,Dec 1,12,On Farm,stocks,stocks,2026,2918000,1381000,4454000,ratio
+Missouri,MO,Dec 1,12,On Farm,stocks,stocks,2027,3900000,420000,7380000,naive
+Missouri,MO,Dec 1,12,On Farm,stocks,stocks,2028,3900000,0,8163000,naive
+Missouri,MO,Dec 1,12,Total,stocks,stocks,2026,20785000,16951000,24618000,ratio
+Missouri,MO,Dec 1,12,Total,stocks,stocks,2027,22612000,12950000,32275000,ensemble
+Missouri,MO,Dec 1,12,Total,stocks,stocks,2028,22457000,10623000,34292000,ensemble
+Missouri,MO,Jun 1,6,Off Farm,stocks,stocks,2027,9174000,6686000,11662000,holt
+Missouri,MO,Jun 1,6,Off Farm,stocks,stocks,2028,9113000,5594000,12632000,holt
+Missouri,MO,Jun 1,6,Off Farm,stocks,stocks,2029,9058000,4748000,13368000,holt
+Missouri,MO,Jun 1,6,On Farm,stocks,stocks,2027,830000,313000,1346000,holt
+Missouri,MO,Jun 1,6,On Farm,stocks,stocks,2028,859000,129000,1590000,holt
+Missouri,MO,Jun 1,6,On Farm,stocks,stocks,2029,886000,0,1781000,holt
+Missouri,MO,Jun 1,6,Total,stocks,stocks,2027,10051000,7756000,12346000,holt
+Missouri,MO,Jun 1,6,Total,stocks,stocks,2028,9996000,6751000,13242000,holt
+Missouri,MO,Jun 1,6,Total,stocks,stocks,2029,9947000,5972000,13922000,holt
+Missouri,MO,Mar 1,3,Off Farm,stocks,stocks,2027,12819000,8719000,16919000,ensemble
+Missouri,MO,Mar 1,3,Off Farm,stocks,stocks,2028,12562000,6764000,18361000,ensemble
+Missouri,MO,Mar 1,3,Off Farm,stocks,stocks,2029,12308000,5206000,19410000,ensemble
+Missouri,MO,Mar 1,3,On Farm,stocks,stocks,2027,1876000,767000,2985000,holt
+Missouri,MO,Mar 1,3,On Farm,stocks,stocks,2028,1886000,318000,3455000,holt
+Missouri,MO,Mar 1,3,On Farm,stocks,stocks,2029,1895000,0,3816000,holt
+Missouri,MO,Mar 1,3,Total,stocks,stocks,2027,14965000,10100000,19829000,ensemble
+Missouri,MO,Mar 1,3,Total,stocks,stocks,2028,14742000,7863000,21621000,ensemble
+Missouri,MO,Mar 1,3,Total,stocks,stocks,2029,14521000,6095000,22946000,ensemble
+Missouri,MO,Sep 1,9,Off Farm,stocks,stocks,2027,23204000,18630000,27777000,ensemble
+Missouri,MO,Sep 1,9,Off Farm,stocks,stocks,2028,22983000,16515000,29451000,ensemble
+Missouri,MO,Sep 1,9,Off Farm,stocks,stocks,2029,22768000,14846000,30689000,ensemble
+Missouri,MO,Sep 1,9,On Farm,stocks,stocks,2027,9578000,4365000,14791000,ensemble
+Missouri,MO,Sep 1,9,On Farm,stocks,stocks,2028,9826000,2454000,17198000,ensemble
+Missouri,MO,Sep 1,9,On Farm,stocks,stocks,2029,10068000,1039000,19096000,ensemble
+Missouri,MO,Sep 1,9,Total,stocks,stocks,2027,32086000,24898000,39274000,ensemble
+Missouri,MO,Sep 1,9,Total,stocks,stocks,2028,32036000,21870000,42201000,ensemble
+Missouri,MO,Sep 1,9,Total,stocks,stocks,2029,31991000,19540000,44441000,ensemble
+Montana,MT,Dec 1,12,Off Farm,stocks,stocks,2026,42512000,40116000,44909000,ratio
+Montana,MT,Dec 1,12,Off Farm,stocks,stocks,2027,33100000,23589000,42612000,avg5
+Montana,MT,Dec 1,12,Off Farm,stocks,stocks,2028,33100000,21451000,44750000,avg5
+Montana,MT,Dec 1,12,On Farm,stocks,stocks,2026,91021000,82956000,99087000,ratio
+Montana,MT,Dec 1,12,On Farm,stocks,stocks,2027,87307000,39040000,135574000,ensemble
+Montana,MT,Dec 1,12,On Farm,stocks,stocks,2028,86596000,27482000,145711000,ensemble
+Montana,MT,Dec 1,12,Total,stocks,stocks,2026,129792000,118997000,140586000,ratio
+Montana,MT,Dec 1,12,Total,stocks,stocks,2027,120917000,64220000,177613000,ensemble
+Montana,MT,Dec 1,12,Total,stocks,stocks,2028,120100000,50661000,189539000,ensemble
+Montana,MT,Jun 1,6,Off Farm,stocks,stocks,2027,22338000,17955000,26721000,naive
+Montana,MT,Jun 1,6,Off Farm,stocks,stocks,2028,22338000,16139000,28537000,naive
+Montana,MT,Jun 1,6,Off Farm,stocks,stocks,2029,22338000,14746000,29930000,naive
+Montana,MT,Jun 1,6,On Farm,stocks,stocks,2027,33953000,20271000,47635000,ensemble
+Montana,MT,Jun 1,6,On Farm,stocks,stocks,2028,33876000,14527000,53226000,ensemble
+Montana,MT,Jun 1,6,On Farm,stocks,stocks,2029,33798000,10100000,57497000,ensemble
+Montana,MT,Jun 1,6,Total,stocks,stocks,2027,55415000,37962000,72868000,ensemble
+Montana,MT,Jun 1,6,Total,stocks,stocks,2028,55357000,30674000,80039000,ensemble
+Montana,MT,Jun 1,6,Total,stocks,stocks,2029,55294000,25064000,85523000,ensemble
+Montana,MT,Mar 1,3,Off Farm,stocks,stocks,2027,28479000,19205000,37753000,avg5
+Montana,MT,Mar 1,3,Off Farm,stocks,stocks,2028,28479000,15363000,41594000,avg5
+Montana,MT,Mar 1,3,Off Farm,stocks,stocks,2029,28479000,12416000,44542000,avg5
+Montana,MT,Mar 1,3,On Farm,stocks,stocks,2027,54955000,38393000,71517000,ensemble
+Montana,MT,Mar 1,3,On Farm,stocks,stocks,2028,54617000,31195000,78038000,ensemble
+Montana,MT,Mar 1,3,On Farm,stocks,stocks,2029,54283000,25597000,82968000,ensemble
+Montana,MT,Mar 1,3,Total,stocks,stocks,2027,80279000,56100000,104458000,avg5
+Montana,MT,Mar 1,3,Total,stocks,stocks,2028,80279000,46085000,114473000,avg5
+Montana,MT,Mar 1,3,Total,stocks,stocks,2029,80279000,38400000,122158000,avg5
+Montana,MT,Sep 1,9,Off Farm,stocks,stocks,2027,38991000,31681000,46301000,avg5
+Montana,MT,Sep 1,9,Off Farm,stocks,stocks,2028,38991000,28653000,49329000,avg5
+Montana,MT,Sep 1,9,Off Farm,stocks,stocks,2029,38991000,26329000,51653000,avg5
+Montana,MT,Sep 1,9,On Farm,stocks,stocks,2027,122537000,73447000,171627000,ensemble
+Montana,MT,Sep 1,9,On Farm,stocks,stocks,2028,122234000,52810000,191658000,ensemble
+Montana,MT,Sep 1,9,On Farm,stocks,stocks,2029,121933000,36906000,206960000,ensemble
+Montana,MT,Sep 1,9,Total,stocks,stocks,2027,165237000,109569000,220905000,ensemble
+Montana,MT,Sep 1,9,Total,stocks,stocks,2028,165151000,86425000,243877000,ensemble
+Montana,MT,Sep 1,9,Total,stocks,stocks,2029,165047000,68628000,261466000,ensemble
+Nebraska,NE,Dec 1,12,Off Farm,stocks,stocks,2026,24636000,17719000,31553000,ratio
+Nebraska,NE,Dec 1,12,Off Farm,stocks,stocks,2027,36520000,19772000,53268000,naive
+Nebraska,NE,Dec 1,12,Off Farm,stocks,stocks,2028,36520000,16008000,57032000,naive
+Nebraska,NE,Dec 1,12,On Farm,stocks,stocks,2026,1609000,234000,2983000,ratio
+Nebraska,NE,Dec 1,12,On Farm,stocks,stocks,2027,3300000,51000,6549000,naive
+Nebraska,NE,Dec 1,12,On Farm,stocks,stocks,2028,3300000,0,7279000,naive
+Nebraska,NE,Dec 1,12,Total,stocks,stocks,2026,24478000,14968000,33989000,ratio
+Nebraska,NE,Dec 1,12,Total,stocks,stocks,2027,39820000,22215000,57425000,naive
+Nebraska,NE,Dec 1,12,Total,stocks,stocks,2028,39820000,18259000,61381000,naive
+Nebraska,NE,Jun 1,6,Off Farm,stocks,stocks,2027,27138000,16944000,37332000,naive
+Nebraska,NE,Jun 1,6,Off Farm,stocks,stocks,2028,27138000,12722000,41554000,naive
+Nebraska,NE,Jun 1,6,Off Farm,stocks,stocks,2029,27138000,9482000,44794000,naive
+Nebraska,NE,Jun 1,6,On Farm,stocks,stocks,2027,916000,284000,1548000,avg5
+Nebraska,NE,Jun 1,6,On Farm,stocks,stocks,2028,916000,22000,1810000,avg5
+Nebraska,NE,Jun 1,6,On Farm,stocks,stocks,2029,916000,0,2010000,avg5
+Nebraska,NE,Jun 1,6,Total,stocks,stocks,2027,28438000,17828000,39048000,naive
+Nebraska,NE,Jun 1,6,Total,stocks,stocks,2028,28438000,13433000,43443000,naive
+Nebraska,NE,Jun 1,6,Total,stocks,stocks,2029,28438000,10061000,46815000,naive
+Nebraska,NE,Mar 1,3,Off Farm,stocks,stocks,2027,31070000,18956000,43184000,naive
+Nebraska,NE,Mar 1,3,Off Farm,stocks,stocks,2028,31070000,13938000,48202000,naive
+Nebraska,NE,Mar 1,3,Off Farm,stocks,stocks,2029,31070000,10087000,52053000,naive
+Nebraska,NE,Mar 1,3,On Farm,stocks,stocks,2027,1990000,450000,3530000,avg5
+Nebraska,NE,Mar 1,3,On Farm,stocks,stocks,2028,1990000,0,4168000,avg5
+Nebraska,NE,Mar 1,3,On Farm,stocks,stocks,2029,1990000,0,4657000,avg5
+Nebraska,NE,Mar 1,3,Total,stocks,stocks,2027,33270000,20337000,46203000,naive
+Nebraska,NE,Mar 1,3,Total,stocks,stocks,2028,33270000,14980000,51560000,naive
+Nebraska,NE,Mar 1,3,Total,stocks,stocks,2029,33270000,10869000,55671000,naive
+Nebraska,NE,Sep 1,9,Off Farm,stocks,stocks,2027,34069000,18778000,49360000,naive
+Nebraska,NE,Sep 1,9,Off Farm,stocks,stocks,2028,34069000,12444000,55694000,naive
+Nebraska,NE,Sep 1,9,Off Farm,stocks,stocks,2029,34069000,7583000,60555000,naive
+Nebraska,NE,Sep 1,9,On Farm,stocks,stocks,2027,5899000,3476000,8322000,ensemble
+Nebraska,NE,Sep 1,9,On Farm,stocks,stocks,2028,5824000,2397000,9250000,ensemble
+Nebraska,NE,Sep 1,9,On Farm,stocks,stocks,2029,5754000,1558000,9951000,ensemble
+Nebraska,NE,Sep 1,9,Total,stocks,stocks,2027,38069000,21198000,54940000,naive
+Nebraska,NE,Sep 1,9,Total,stocks,stocks,2028,38069000,14210000,61928000,naive
+Nebraska,NE,Sep 1,9,Total,stocks,stocks,2029,38069000,8848000,67290000,naive
+New Mexico,NM,Dec 1,12,Off Farm,stocks,stocks,2017,180000,0,553000,ratio
+New Mexico,NM,Dec 1,12,Off Farm,stocks,stocks,2018,330000,0,1977000,ensemble
+New Mexico,NM,Dec 1,12,Off Farm,stocks,stocks,2019,239000,0,2257000,ensemble
+New Mexico,NM,Jun 1,6,Off Farm,stocks,stocks,2018,165000,0,791000,naive
+New Mexico,NM,Jun 1,6,Off Farm,stocks,stocks,2019,165000,0,1051000,naive
+New Mexico,NM,Jun 1,6,Off Farm,stocks,stocks,2020,165000,0,1250000,naive
+New Mexico,NM,Sep 1,9,Off Farm,stocks,stocks,2020,211000,0,1323000,ensemble
+New Mexico,NM,Sep 1,9,Off Farm,stocks,stocks,2021,137000,0,1709000,ensemble
+New Mexico,NM,Sep 1,9,Off Farm,stocks,stocks,2022,63000,0,1989000,ensemble
+New York,NY,Dec 1,12,Off Farm,stocks,stocks,2025,9641000,6547000,12736000,ensemble
+New York,NY,Dec 1,12,Off Farm,stocks,stocks,2026,9499000,5124000,13875000,ensemble
+New York,NY,Dec 1,12,Off Farm,stocks,stocks,2027,9360000,4001000,14720000,ensemble
+New York,NY,Jun 1,6,Off Farm,stocks,stocks,2027,7807000,4241000,11374000,avg5
+New York,NY,Jun 1,6,Off Farm,stocks,stocks,2028,7807000,2764000,12851000,avg5
+New York,NY,Jun 1,6,Off Farm,stocks,stocks,2029,7807000,1630000,13985000,avg5
+New York,NY,Mar 1,3,Off Farm,stocks,stocks,2026,10260000,6359000,14161000,avg5
+New York,NY,Mar 1,3,Off Farm,stocks,stocks,2027,10260000,4743000,15777000,avg5
+New York,NY,Mar 1,3,Off Farm,stocks,stocks,2028,10260000,3503000,17017000,avg5
+New York,NY,Sep 1,9,Off Farm,stocks,stocks,2027,8104000,5770000,10438000,naive
+New York,NY,Sep 1,9,Off Farm,stocks,stocks,2028,8104000,4803000,11405000,naive
+New York,NY,Sep 1,9,Off Farm,stocks,stocks,2029,8104000,4062000,12146000,naive
+North Carolina,NC,Dec 1,12,Off Farm,stocks,stocks,2026,4050000,3304000,4796000,ratio
+North Carolina,NC,Dec 1,12,Off Farm,stocks,stocks,2027,4338000,1717000,6959000,naive
+North Carolina,NC,Dec 1,12,Off Farm,stocks,stocks,2028,4338000,1128000,7548000,naive
+North Carolina,NC,Dec 1,12,On Farm,stocks,stocks,2026,1349000,968000,1729000,holt
+North Carolina,NC,Dec 1,12,On Farm,stocks,stocks,2027,1341000,803000,1880000,holt
+North Carolina,NC,Dec 1,12,On Farm,stocks,stocks,2028,1334000,675000,1994000,holt
+North Carolina,NC,Dec 1,12,Total,stocks,stocks,2026,5477000,4438000,6517000,ratio
+North Carolina,NC,Dec 1,12,Total,stocks,stocks,2027,5946000,3159000,8733000,ensemble
+North Carolina,NC,Dec 1,12,Total,stocks,stocks,2028,5802000,2389000,9216000,ensemble
+North Carolina,NC,Jun 1,6,Off Farm,stocks,stocks,2027,2345000,926000,3764000,trend10
+North Carolina,NC,Jun 1,6,Off Farm,stocks,stocks,2028,2270000,262000,4277000,trend10
+North Carolina,NC,Jun 1,6,Off Farm,stocks,stocks,2029,2194000,0,4653000,trend10
+North Carolina,NC,Jun 1,6,On Farm,stocks,stocks,2027,563000,315000,812000,trend10
+North Carolina,NC,Jun 1,6,On Farm,stocks,stocks,2028,616000,264000,967000,trend10
+North Carolina,NC,Jun 1,6,On Farm,stocks,stocks,2029,668000,238000,1099000,trend10
+North Carolina,NC,Jun 1,6,Total,stocks,stocks,2027,2953000,1825000,4081000,avg5
+North Carolina,NC,Jun 1,6,Total,stocks,stocks,2028,2953000,1358000,4548000,avg5
+North Carolina,NC,Jun 1,6,Total,stocks,stocks,2029,2953000,1000000,4906000,avg5
+North Carolina,NC,Mar 1,3,Off Farm,stocks,stocks,2027,2555000,914000,4196000,ensemble
+North Carolina,NC,Mar 1,3,Off Farm,stocks,stocks,2028,2387000,67000,4708000,ensemble
+North Carolina,NC,Mar 1,3,Off Farm,stocks,stocks,2029,2228000,0,5070000,ensemble
+North Carolina,NC,Mar 1,3,On Farm,stocks,stocks,2027,722000,478000,966000,avg5
+North Carolina,NC,Mar 1,3,On Farm,stocks,stocks,2028,722000,377000,1067000,avg5
+North Carolina,NC,Mar 1,3,On Farm,stocks,stocks,2029,722000,300000,1144000,avg5
+North Carolina,NC,Mar 1,3,Total,stocks,stocks,2027,3357000,1519000,5194000,ensemble
+North Carolina,NC,Mar 1,3,Total,stocks,stocks,2028,3195000,596000,5794000,ensemble
+North Carolina,NC,Mar 1,3,Total,stocks,stocks,2029,3041000,0,6224000,ensemble
+North Carolina,NC,Sep 1,9,Off Farm,stocks,stocks,2027,6017000,3620000,8413000,holt
+North Carolina,NC,Sep 1,9,Off Farm,stocks,stocks,2028,5686000,2296000,9075000,holt
+North Carolina,NC,Sep 1,9,Off Farm,stocks,stocks,2029,5388000,1237000,9539000,holt
+North Carolina,NC,Sep 1,9,On Farm,stocks,stocks,2027,4560000,2719000,6401000,avg5
+North Carolina,NC,Sep 1,9,On Farm,stocks,stocks,2028,4560000,1957000,7163000,avg5
+North Carolina,NC,Sep 1,9,On Farm,stocks,stocks,2029,4560000,1372000,7748000,avg5
+North Carolina,NC,Sep 1,9,Total,stocks,stocks,2027,12212000,9178000,15246000,avg5
+North Carolina,NC,Sep 1,9,Total,stocks,stocks,2028,12212000,7921000,16502000,avg5
+North Carolina,NC,Sep 1,9,Total,stocks,stocks,2029,12212000,6956000,17467000,avg5
+North Dakota,ND,Dec 1,12,Off Farm,stocks,stocks,2026,80040000,68497000,91583000,avg5
+North Dakota,ND,Dec 1,12,Off Farm,stocks,stocks,2027,80040000,63716000,96364000,avg5
+North Dakota,ND,Dec 1,12,Off Farm,stocks,stocks,2028,80040000,60047000,100033000,avg5
+North Dakota,ND,Dec 1,12,On Farm,stocks,stocks,2026,128581000,100434000,156728000,ratio
+North Dakota,ND,Dec 1,12,On Farm,stocks,stocks,2027,151654000,81419000,221888000,ensemble
+North Dakota,ND,Dec 1,12,On Farm,stocks,stocks,2028,150820000,64801000,236839000,ensemble
+North Dakota,ND,Dec 1,12,Total,stocks,stocks,2026,216089000,199130000,233047000,ratio
+North Dakota,ND,Dec 1,12,Total,stocks,stocks,2027,256106000,198095000,314117000,naive
+North Dakota,ND,Dec 1,12,Total,stocks,stocks,2028,256106000,185058000,327154000,naive
+North Dakota,ND,Jun 1,6,Off Farm,stocks,stocks,2027,42500000,30547000,54454000,avg5
+North Dakota,ND,Jun 1,6,Off Farm,stocks,stocks,2028,42500000,25595000,59406000,avg5
+North Dakota,ND,Jun 1,6,Off Farm,stocks,stocks,2029,42500000,21796000,63205000,avg5
+North Dakota,ND,Jun 1,6,On Farm,stocks,stocks,2027,75500000,48473000,102527000,naive
+North Dakota,ND,Jun 1,6,On Farm,stocks,stocks,2028,75500000,37279000,113721000,naive
+North Dakota,ND,Jun 1,6,On Farm,stocks,stocks,2029,75500000,28689000,122311000,naive
+North Dakota,ND,Jun 1,6,Total,stocks,stocks,2027,128219000,97183000,159255000,naive
+North Dakota,ND,Jun 1,6,Total,stocks,stocks,2028,128219000,84328000,172110000,naive
+North Dakota,ND,Jun 1,6,Total,stocks,stocks,2029,128219000,74463000,181975000,naive
+North Dakota,ND,Mar 1,3,Off Farm,stocks,stocks,2027,71953000,62556000,81349000,avg5
+North Dakota,ND,Mar 1,3,Off Farm,stocks,stocks,2028,71953000,58664000,85241000,avg5
+North Dakota,ND,Mar 1,3,Off Farm,stocks,stocks,2029,71953000,55677000,88228000,avg5
+North Dakota,ND,Mar 1,3,On Farm,stocks,stocks,2027,105440000,67083000,143798000,ensemble
+North Dakota,ND,Mar 1,3,On Farm,stocks,stocks,2028,105104000,50859000,159350000,ensemble
+North Dakota,ND,Mar 1,3,On Farm,stocks,stocks,2029,104758000,38321000,171195000,ensemble
+North Dakota,ND,Mar 1,3,Total,stocks,stocks,2027,189712000,150933000,228491000,naive
+North Dakota,ND,Mar 1,3,Total,stocks,stocks,2028,189712000,134871000,244553000,naive
+North Dakota,ND,Mar 1,3,Total,stocks,stocks,2029,189712000,122545000,256879000,naive
+North Dakota,ND,Sep 1,9,Off Farm,stocks,stocks,2027,92274000,70802000,113746000,holt
+North Dakota,ND,Sep 1,9,Off Farm,stocks,stocks,2028,92515000,62149000,122881000,holt
+North Dakota,ND,Sep 1,9,Off Farm,stocks,stocks,2029,92731000,55540000,129921000,holt
+North Dakota,ND,Sep 1,9,On Farm,stocks,stocks,2027,198600000,133641000,263559000,avg5
+North Dakota,ND,Sep 1,9,On Farm,stocks,stocks,2028,198600000,106735000,290465000,avg5
+North Dakota,ND,Sep 1,9,On Farm,stocks,stocks,2029,198600000,86088000,311112000,avg5
+North Dakota,ND,Sep 1,9,Total,stocks,stocks,2027,284766000,220994000,348537000,holt
+North Dakota,ND,Sep 1,9,Total,stocks,stocks,2028,284761000,194574000,374948000,holt
+North Dakota,ND,Sep 1,9,Total,stocks,stocks,2029,284757000,174301000,395212000,holt
+Ohio,OH,Dec 1,12,Off Farm,stocks,stocks,2026,62773000,57055000,68490000,ratio
+Ohio,OH,Dec 1,12,Off Farm,stocks,stocks,2027,59635000,45707000,73562000,holt
+Ohio,OH,Dec 1,12,Off Farm,stocks,stocks,2028,59605000,42547000,76663000,holt
+Ohio,OH,Dec 1,12,On Farm,stocks,stocks,2026,2100000,768000,3432000,avg5
+Ohio,OH,Dec 1,12,On Farm,stocks,stocks,2027,2100000,217000,3983000,avg5
+Ohio,OH,Dec 1,12,On Farm,stocks,stocks,2028,2100000,0,4407000,avg5
+Ohio,OH,Dec 1,12,Total,stocks,stocks,2026,63056000,56699000,69412000,ratio
+Ohio,OH,Dec 1,12,Total,stocks,stocks,2027,61146000,45184000,77107000,holt
+Ohio,OH,Dec 1,12,Total,stocks,stocks,2028,61057000,41508000,80606000,holt
+Ohio,OH,Jun 1,6,Off Farm,stocks,stocks,2027,39453000,29178000,49728000,naive
+Ohio,OH,Jun 1,6,Off Farm,stocks,stocks,2028,39453000,24922000,53984000,naive
+Ohio,OH,Jun 1,6,Off Farm,stocks,stocks,2029,39453000,21657000,57249000,naive
+Ohio,OH,Jun 1,6,On Farm,stocks,stocks,2027,466000,154000,778000,trend10
+Ohio,OH,Jun 1,6,On Farm,stocks,stocks,2028,502000,61000,943000,trend10
+Ohio,OH,Jun 1,6,On Farm,stocks,stocks,2029,538000,0,1079000,trend10
+Ohio,OH,Jun 1,6,Total,stocks,stocks,2027,39953000,32060000,47846000,naive
+Ohio,OH,Jun 1,6,Total,stocks,stocks,2028,39953000,28790000,51116000,naive
+Ohio,OH,Jun 1,6,Total,stocks,stocks,2029,39953000,26281000,53625000,naive
+Ohio,OH,Mar 1,3,Off Farm,stocks,stocks,2027,51722000,45091000,58353000,naive
+Ohio,OH,Mar 1,3,Off Farm,stocks,stocks,2028,51722000,42345000,61099000,naive
+Ohio,OH,Mar 1,3,Off Farm,stocks,stocks,2029,51722000,40237000,63207000,naive
+Ohio,OH,Mar 1,3,On Farm,stocks,stocks,2027,650000,178000,1122000,naive
+Ohio,OH,Mar 1,3,On Farm,stocks,stocks,2028,650000,0,1317000,naive
+Ohio,OH,Mar 1,3,On Farm,stocks,stocks,2029,650000,0,1467000,naive
+Ohio,OH,Mar 1,3,Total,stocks,stocks,2027,52372000,45657000,59087000,naive
+Ohio,OH,Mar 1,3,Total,stocks,stocks,2028,52372000,42875000,61869000,naive
+Ohio,OH,Mar 1,3,Total,stocks,stocks,2029,52372000,40741000,64003000,naive
+Ohio,OH,Sep 1,9,Off Farm,stocks,stocks,2027,71253000,63137000,79368000,holt
+Ohio,OH,Sep 1,9,Off Farm,stocks,stocks,2028,72018000,60541000,83495000,holt
+Ohio,OH,Sep 1,9,Off Farm,stocks,stocks,2029,72706000,58650000,86762000,holt
+Ohio,OH,Sep 1,9,On Farm,stocks,stocks,2027,5240000,801000,9679000,avg5
+Ohio,OH,Sep 1,9,On Farm,stocks,stocks,2028,5240000,0,11517000,avg5
+Ohio,OH,Sep 1,9,On Farm,stocks,stocks,2029,5240000,0,12928000,avg5
+Ohio,OH,Sep 1,9,Total,stocks,stocks,2027,76028000,63249000,88807000,holt
+Ohio,OH,Sep 1,9,Total,stocks,stocks,2028,76785000,58713000,94858000,holt
+Ohio,OH,Sep 1,9,Total,stocks,stocks,2029,77466000,55332000,99601000,holt
+Oklahoma,OK,Dec 1,12,Off Farm,stocks,stocks,2026,90958000,66102000,115815000,ratio
+Oklahoma,OK,Dec 1,12,Off Farm,stocks,stocks,2027,124236000,88982000,159490000,naive
+Oklahoma,OK,Dec 1,12,Off Farm,stocks,stocks,2028,124236000,81059000,167413000,naive
+Oklahoma,OK,Dec 1,12,On Farm,stocks,stocks,2026,5180000,3318000,7042000,avg5
+Oklahoma,OK,Dec 1,12,On Farm,stocks,stocks,2027,5180000,2547000,7813000,avg5
+Oklahoma,OK,Dec 1,12,On Farm,stocks,stocks,2028,5180000,1956000,8404000,avg5
+Oklahoma,OK,Dec 1,12,Total,stocks,stocks,2026,92513000,67882000,117144000,ratio
+Oklahoma,OK,Dec 1,12,Total,stocks,stocks,2027,130536000,93489000,167583000,naive
+Oklahoma,OK,Dec 1,12,Total,stocks,stocks,2028,130536000,85163000,175909000,naive
+Oklahoma,OK,Jun 1,6,Off Farm,stocks,stocks,2027,84618000,57826000,111411000,holt
+Oklahoma,OK,Jun 1,6,Off Farm,stocks,stocks,2028,85441000,47550000,123331000,holt
+Oklahoma,OK,Jun 1,6,Off Farm,stocks,stocks,2029,86181000,39775000,132586000,holt
+Oklahoma,OK,Jun 1,6,On Farm,stocks,stocks,2027,2500000,1944000,3056000,naive
+Oklahoma,OK,Jun 1,6,On Farm,stocks,stocks,2028,2500000,1713000,3287000,naive
+Oklahoma,OK,Jun 1,6,On Farm,stocks,stocks,2029,2500000,1537000,3463000,naive
+Oklahoma,OK,Jun 1,6,Total,stocks,stocks,2027,86926000,59790000,114061000,holt
+Oklahoma,OK,Jun 1,6,Total,stocks,stocks,2028,87767000,49391000,126142000,holt
+Oklahoma,OK,Jun 1,6,Total,stocks,stocks,2029,88523000,41524000,135523000,holt
+Oklahoma,OK,Mar 1,3,Off Farm,stocks,stocks,2027,108234000,72620000,143848000,naive
+Oklahoma,OK,Mar 1,3,Off Farm,stocks,stocks,2028,108234000,57868000,158600000,naive
+Oklahoma,OK,Mar 1,3,Off Farm,stocks,stocks,2029,108234000,46548000,169920000,naive
+Oklahoma,OK,Mar 1,3,On Farm,stocks,stocks,2027,2560000,1763000,3357000,avg5
+Oklahoma,OK,Mar 1,3,On Farm,stocks,stocks,2028,2560000,1432000,3688000,avg5
+Oklahoma,OK,Mar 1,3,On Farm,stocks,stocks,2029,2560000,1179000,3941000,avg5
+Oklahoma,OK,Mar 1,3,Total,stocks,stocks,2027,112034000,76194000,147874000,naive
+Oklahoma,OK,Mar 1,3,Total,stocks,stocks,2028,112034000,61348000,162720000,naive
+Oklahoma,OK,Mar 1,3,Total,stocks,stocks,2029,112034000,49957000,174111000,naive
+Oklahoma,OK,Sep 1,9,Off Farm,stocks,stocks,2027,112420000,86209000,138632000,ensemble
+Oklahoma,OK,Sep 1,9,Off Farm,stocks,stocks,2028,111338000,74269000,148406000,ensemble
+Oklahoma,OK,Sep 1,9,Off Farm,stocks,stocks,2029,110265000,64866000,155665000,ensemble
+Oklahoma,OK,Sep 1,9,On Farm,stocks,stocks,2027,9300000,6207000,12393000,avg5
+Oklahoma,OK,Sep 1,9,On Farm,stocks,stocks,2028,9300000,4926000,13674000,avg5
+Oklahoma,OK,Sep 1,9,On Farm,stocks,stocks,2029,9300000,3943000,14657000,avg5
+Oklahoma,OK,Sep 1,9,Total,stocks,stocks,2027,121650000,92738000,150563000,ensemble
+Oklahoma,OK,Sep 1,9,Total,stocks,stocks,2028,120446000,79557000,161334000,ensemble
+Oklahoma,OK,Sep 1,9,Total,stocks,stocks,2029,119263000,69184000,169341000,ensemble
+Oregon,OR,Dec 1,12,Off Farm,stocks,stocks,2026,18811000,14670000,22952000,ratio
+Oregon,OR,Dec 1,12,Off Farm,stocks,stocks,2027,24111000,12261000,35961000,avg5
+Oregon,OR,Dec 1,12,Off Farm,stocks,stocks,2028,24111000,9598000,38625000,avg5
+Oregon,OR,Dec 1,12,On Farm,stocks,stocks,2026,5885000,3917000,7852000,ratio
+Oregon,OR,Dec 1,12,On Farm,stocks,stocks,2027,6040000,2688000,9392000,avg5
+Oregon,OR,Dec 1,12,On Farm,stocks,stocks,2028,6040000,1934000,10146000,avg5
+Oregon,OR,Dec 1,12,Total,stocks,stocks,2026,24801000,20606000,28996000,ratio
+Oregon,OR,Dec 1,12,Total,stocks,stocks,2027,30151000,17049000,43254000,avg5
+Oregon,OR,Dec 1,12,Total,stocks,stocks,2028,30151000,14104000,46199000,avg5
+Oregon,OR,Jun 1,6,Off Farm,stocks,stocks,2027,10372000,5206000,15539000,holt
+Oregon,OR,Jun 1,6,Off Farm,stocks,stocks,2028,10337000,3030000,17643000,holt
+Oregon,OR,Jun 1,6,Off Farm,stocks,stocks,2029,10305000,1356000,19253000,holt
+Oregon,OR,Jun 1,6,On Farm,stocks,stocks,2027,1221000,744000,1699000,trend10
+Oregon,OR,Jun 1,6,On Farm,stocks,stocks,2028,1204000,529000,1879000,trend10
+Oregon,OR,Jun 1,6,On Farm,stocks,stocks,2029,1187000,360000,2014000,trend10
+Oregon,OR,Jun 1,6,Total,stocks,stocks,2027,11618000,6051000,17186000,holt
+Oregon,OR,Jun 1,6,Total,stocks,stocks,2028,11580000,3706000,19453000,holt
+Oregon,OR,Jun 1,6,Total,stocks,stocks,2029,11545000,1902000,21188000,holt
+Oregon,OR,Mar 1,3,Off Farm,stocks,stocks,2027,17568000,10515000,24620000,avg5
+Oregon,OR,Mar 1,3,Off Farm,stocks,stocks,2028,17568000,7594000,27542000,avg5
+Oregon,OR,Mar 1,3,Off Farm,stocks,stocks,2029,17568000,5352000,29783000,avg5
+Oregon,OR,Mar 1,3,On Farm,stocks,stocks,2027,3920000,2509000,5331000,avg5
+Oregon,OR,Mar 1,3,On Farm,stocks,stocks,2028,3920000,1925000,5915000,avg5
+Oregon,OR,Mar 1,3,On Farm,stocks,stocks,2029,3920000,1476000,6364000,avg5
+Oregon,OR,Mar 1,3,Total,stocks,stocks,2027,21488000,13371000,29604000,avg5
+Oregon,OR,Mar 1,3,Total,stocks,stocks,2028,21488000,10009000,32966000,avg5
+Oregon,OR,Mar 1,3,Total,stocks,stocks,2029,21488000,7430000,35546000,avg5
+Oregon,OR,Sep 1,9,Off Farm,stocks,stocks,2027,31164000,19315000,43014000,avg5
+Oregon,OR,Sep 1,9,Off Farm,stocks,stocks,2028,31164000,14406000,47923000,avg5
+Oregon,OR,Sep 1,9,Off Farm,stocks,stocks,2029,31164000,10640000,51689000,avg5
+Oregon,OR,Sep 1,9,On Farm,stocks,stocks,2027,10507000,7424000,13589000,trend10
+Oregon,OR,Sep 1,9,On Farm,stocks,stocks,2028,10741000,6382000,15100000,trend10
+Oregon,OR,Sep 1,9,On Farm,stocks,stocks,2029,10975000,5636000,16313000,trend10
+Oregon,OR,Sep 1,9,Total,stocks,stocks,2027,41224000,27170000,55278000,avg5
+Oregon,OR,Sep 1,9,Total,stocks,stocks,2028,41224000,21349000,61100000,avg5
+Oregon,OR,Sep 1,9,Total,stocks,stocks,2029,41224000,16882000,65567000,avg5
+Pennsylvania,PA,Dec 1,12,Off Farm,stocks,stocks,2026,4807000,3609000,6006000,ratio
+Pennsylvania,PA,Dec 1,12,Off Farm,stocks,stocks,2027,5176000,3448000,6904000,holt
+Pennsylvania,PA,Dec 1,12,Off Farm,stocks,stocks,2028,4975000,2859000,7091000,holt
+Pennsylvania,PA,Jun 1,6,Off Farm,stocks,stocks,2027,4880000,3441000,6319000,naive
+Pennsylvania,PA,Jun 1,6,Off Farm,stocks,stocks,2028,4880000,2845000,6915000,naive
+Pennsylvania,PA,Jun 1,6,Off Farm,stocks,stocks,2029,4880000,2388000,7372000,naive
+Pennsylvania,PA,Mar 1,3,Off Farm,stocks,stocks,2027,4791000,4073000,5509000,naive
+Pennsylvania,PA,Mar 1,3,Off Farm,stocks,stocks,2028,4791000,3776000,5806000,naive
+Pennsylvania,PA,Mar 1,3,Off Farm,stocks,stocks,2029,4791000,3548000,6034000,naive
+Pennsylvania,PA,Sep 1,9,Off Farm,stocks,stocks,2027,8164000,5389000,10939000,avg5
+Pennsylvania,PA,Sep 1,9,Off Farm,stocks,stocks,2028,8164000,4239000,12089000,avg5
+Pennsylvania,PA,Sep 1,9,Off Farm,stocks,stocks,2029,8164000,3357000,12971000,avg5
+South Carolina,SC,Dec 1,12,Off Farm,stocks,stocks,2026,1092000,764000,1420000,avg5
+South Carolina,SC,Dec 1,12,Off Farm,stocks,stocks,2027,1092000,628000,1556000,avg5
+South Carolina,SC,Dec 1,12,Off Farm,stocks,stocks,2028,1092000,524000,1660000,avg5
+South Carolina,SC,Jun 1,6,Off Farm,stocks,stocks,2024,202000,36000,369000,ensemble
+South Carolina,SC,Jun 1,6,Off Farm,stocks,stocks,2025,176000,0,411000,ensemble
+South Carolina,SC,Jun 1,6,Off Farm,stocks,stocks,2026,151000,0,439000,ensemble
+South Carolina,SC,Mar 1,3,Off Farm,stocks,stocks,2027,969000,645000,1293000,naive
+South Carolina,SC,Mar 1,3,Off Farm,stocks,stocks,2028,969000,511000,1427000,naive
+South Carolina,SC,Mar 1,3,Off Farm,stocks,stocks,2029,969000,408000,1530000,naive
+South Carolina,SC,Sep 1,9,Off Farm,stocks,stocks,2026,1489000,1114000,1864000,avg5
+South Carolina,SC,Sep 1,9,Off Farm,stocks,stocks,2027,1489000,958000,2020000,avg5
+South Carolina,SC,Sep 1,9,Off Farm,stocks,stocks,2028,1489000,839000,2139000,avg5
+South Dakota,SD,Dec 1,12,Off Farm,stocks,stocks,2026,22778000,15808000,29749000,ratio
+South Dakota,SD,Dec 1,12,Off Farm,stocks,stocks,2027,19964000,6993000,32935000,naive
+South Dakota,SD,Dec 1,12,Off Farm,stocks,stocks,2028,19964000,4078000,35850000,naive
+South Dakota,SD,Dec 1,12,On Farm,stocks,stocks,2026,15153000,10109000,20197000,ratio
+South Dakota,SD,Dec 1,12,On Farm,stocks,stocks,2027,25429000,13421000,37438000,holt
+South Dakota,SD,Dec 1,12,On Farm,stocks,stocks,2028,25194000,10487000,39902000,holt
+South Dakota,SD,Dec 1,12,Total,stocks,stocks,2026,38328000,29742000,46913000,ratio
+South Dakota,SD,Dec 1,12,Total,stocks,stocks,2027,47435000,24334000,70535000,holt
+South Dakota,SD,Dec 1,12,Total,stocks,stocks,2028,46919000,18627000,75211000,holt
+South Dakota,SD,Jun 1,6,Off Farm,stocks,stocks,2027,15312000,10660000,19964000,naive
+South Dakota,SD,Jun 1,6,Off Farm,stocks,stocks,2028,15312000,8733000,21891000,naive
+South Dakota,SD,Jun 1,6,Off Farm,stocks,stocks,2029,15312000,7255000,23369000,naive
+South Dakota,SD,Jun 1,6,On Farm,stocks,stocks,2027,12700000,7286000,18114000,naive
+South Dakota,SD,Jun 1,6,On Farm,stocks,stocks,2028,12700000,5043000,20357000,naive
+South Dakota,SD,Jun 1,6,On Farm,stocks,stocks,2029,12700000,3322000,22078000,naive
+South Dakota,SD,Jun 1,6,Total,stocks,stocks,2027,28012000,18767000,37257000,naive
+South Dakota,SD,Jun 1,6,Total,stocks,stocks,2028,28012000,14938000,41086000,naive
+South Dakota,SD,Jun 1,6,Total,stocks,stocks,2029,28012000,11999000,44025000,naive
+South Dakota,SD,Mar 1,3,Off Farm,stocks,stocks,2027,17244000,9658000,24830000,naive
+South Dakota,SD,Mar 1,3,Off Farm,stocks,stocks,2028,17244000,6516000,27972000,naive
+South Dakota,SD,Mar 1,3,Off Farm,stocks,stocks,2029,17244000,4104000,30384000,naive
+South Dakota,SD,Mar 1,3,On Farm,stocks,stocks,2027,18011000,10863000,25159000,holt
+South Dakota,SD,Mar 1,3,On Farm,stocks,stocks,2028,17806000,7698000,27915000,holt
+South Dakota,SD,Mar 1,3,On Farm,stocks,stocks,2029,17622000,5242000,30002000,holt
+South Dakota,SD,Mar 1,3,Total,stocks,stocks,2027,36244000,21812000,50676000,naive
+South Dakota,SD,Mar 1,3,Total,stocks,stocks,2028,36244000,15834000,56654000,naive
+South Dakota,SD,Mar 1,3,Total,stocks,stocks,2029,36244000,11247000,61241000,naive
+South Dakota,SD,Sep 1,9,Off Farm,stocks,stocks,2027,29704000,22933000,36475000,holt
+South Dakota,SD,Sep 1,9,Off Farm,stocks,stocks,2028,29087000,19511000,38662000,holt
+South Dakota,SD,Sep 1,9,Off Farm,stocks,stocks,2029,28531000,16804000,40259000,holt
+South Dakota,SD,Sep 1,9,On Farm,stocks,stocks,2027,34500000,21366000,47634000,avg5
+South Dakota,SD,Sep 1,9,On Farm,stocks,stocks,2028,34500000,15925000,53075000,avg5
+South Dakota,SD,Sep 1,9,On Farm,stocks,stocks,2029,34500000,11750000,57250000,avg5
+South Dakota,SD,Sep 1,9,Total,stocks,stocks,2027,60126000,41758000,78494000,ensemble
+South Dakota,SD,Sep 1,9,Total,stocks,stocks,2028,59055000,33079000,85031000,ensemble
+South Dakota,SD,Sep 1,9,Total,stocks,stocks,2029,58035000,26221000,89849000,ensemble
+Tennessee,TN,Dec 1,12,Off Farm,stocks,stocks,2026,5900000,4518000,7282000,ratio
+Tennessee,TN,Dec 1,12,Off Farm,stocks,stocks,2027,5400000,1093000,9707000,ensemble
+Tennessee,TN,Dec 1,12,Off Farm,stocks,stocks,2028,5242000,0,10517000,ensemble
+Tennessee,TN,Jun 1,6,Off Farm,stocks,stocks,2027,2634000,1982000,3286000,naive
+Tennessee,TN,Jun 1,6,Off Farm,stocks,stocks,2028,2634000,1712000,3556000,naive
+Tennessee,TN,Jun 1,6,Off Farm,stocks,stocks,2029,2634000,1505000,3763000,naive
+Tennessee,TN,Mar 1,3,Off Farm,stocks,stocks,2027,3874000,2594000,5154000,naive
+Tennessee,TN,Mar 1,3,Off Farm,stocks,stocks,2028,3874000,2064000,5684000,naive
+Tennessee,TN,Mar 1,3,Off Farm,stocks,stocks,2029,3874000,1657000,6091000,naive
+Tennessee,TN,Sep 1,9,Off Farm,stocks,stocks,2027,7569000,5407000,9730000,ensemble
+Tennessee,TN,Sep 1,9,Off Farm,stocks,stocks,2028,7403000,4346000,10459000,ensemble
+Tennessee,TN,Sep 1,9,Off Farm,stocks,stocks,2029,7241000,3497000,10984000,ensemble
+Texas,TX,Dec 1,12,Off Farm,stocks,stocks,2026,33765000,17262000,50268000,ratio
+Texas,TX,Dec 1,12,Off Farm,stocks,stocks,2027,58099000,25997000,90201000,naive
+Texas,TX,Dec 1,12,Off Farm,stocks,stocks,2028,58099000,18783000,97415000,naive
+Texas,TX,Dec 1,12,On Farm,stocks,stocks,2026,2200000,1337000,3063000,avg5
+Texas,TX,Dec 1,12,On Farm,stocks,stocks,2027,2200000,979000,3421000,avg5
+Texas,TX,Dec 1,12,On Farm,stocks,stocks,2028,2200000,705000,3695000,avg5
+Texas,TX,Dec 1,12,Total,stocks,stocks,2026,35152000,15807000,54496000,ratio
+Texas,TX,Dec 1,12,Total,stocks,stocks,2027,61399000,28621000,94177000,naive
+Texas,TX,Dec 1,12,Total,stocks,stocks,2028,61399000,21255000,101543000,naive
+Texas,TX,Jun 1,6,Off Farm,stocks,stocks,2027,25269000,7138000,43401000,holt
+Texas,TX,Jun 1,6,Off Farm,stocks,stocks,2028,24523000,0,50165000,holt
+Texas,TX,Jun 1,6,Off Farm,stocks,stocks,2029,23852000,0,55257000,holt
+Texas,TX,Jun 1,6,On Farm,stocks,stocks,2027,1800000,1266000,2334000,naive
+Texas,TX,Jun 1,6,On Farm,stocks,stocks,2028,1800000,1045000,2555000,naive
+Texas,TX,Jun 1,6,On Farm,stocks,stocks,2029,1800000,876000,2724000,naive
+Texas,TX,Jun 1,6,Total,stocks,stocks,2027,26951000,8506000,45397000,holt
+Texas,TX,Jun 1,6,Total,stocks,stocks,2028,26231000,145000,52317000,holt
+Texas,TX,Jun 1,6,Total,stocks,stocks,2029,25582000,0,57531000,holt
+Texas,TX,Mar 1,3,Off Farm,stocks,stocks,2027,40749000,23812000,57686000,naive
+Texas,TX,Mar 1,3,Off Farm,stocks,stocks,2028,40749000,16796000,64702000,naive
+Texas,TX,Mar 1,3,Off Farm,stocks,stocks,2029,40749000,11413000,70085000,naive
+Texas,TX,Mar 1,3,On Farm,stocks,stocks,2027,3000000,2106000,3894000,naive
+Texas,TX,Mar 1,3,On Farm,stocks,stocks,2028,3000000,1736000,4264000,naive
+Texas,TX,Mar 1,3,On Farm,stocks,stocks,2029,3000000,1451000,4549000,naive
+Texas,TX,Mar 1,3,Total,stocks,stocks,2027,43749000,26382000,61116000,naive
+Texas,TX,Mar 1,3,Total,stocks,stocks,2028,43749000,19189000,68309000,naive
+Texas,TX,Mar 1,3,Total,stocks,stocks,2029,43749000,13669000,73829000,naive
+Texas,TX,Sep 1,9,Off Farm,stocks,stocks,2027,48559000,18419000,78699000,naive
+Texas,TX,Sep 1,9,Off Farm,stocks,stocks,2028,48559000,5934000,91184000,naive
+Texas,TX,Sep 1,9,Off Farm,stocks,stocks,2029,48559000,0,100763000,naive
+Texas,TX,Sep 1,9,On Farm,stocks,stocks,2027,6000000,3383000,8617000,avg5
+Texas,TX,Sep 1,9,On Farm,stocks,stocks,2028,6000000,2299000,9701000,avg5
+Texas,TX,Sep 1,9,On Farm,stocks,stocks,2029,6000000,1467000,10533000,avg5
+Texas,TX,Sep 1,9,Total,stocks,stocks,2027,53359000,20616000,86102000,naive
+Texas,TX,Sep 1,9,Total,stocks,stocks,2028,53359000,7054000,99664000,naive
+Texas,TX,Sep 1,9,Total,stocks,stocks,2029,53359000,0,110071000,naive
+United States,US,Dec 1,12,Off Farm,stocks,stocks,2026,1081571000,1037422000,1125721000,ratio
+United States,US,Dec 1,12,Off Farm,stocks,stocks,2027,1230213000,1027343000,1433083000,naive
+United States,US,Dec 1,12,Off Farm,stocks,stocks,2028,1230213000,981749000,1478677000,naive
+United States,US,Dec 1,12,On Farm,stocks,stocks,2026,356289000,299122000,413457000,ratio
+United States,US,Dec 1,12,On Farm,stocks,stocks,2027,413084000,234009000,592160000,ensemble
+United States,US,Dec 1,12,On Farm,stocks,stocks,2028,410060000,190738000,629382000,ensemble
+United States,US,Dec 1,12,Total,stocks,stocks,2026,1450551000,1374495000,1526606000,ratio
+United States,US,Dec 1,12,Total,stocks,stocks,2027,1677103000,1367477000,1986729000,naive
+United States,US,Dec 1,12,Total,stocks,stocks,2028,1677103000,1297890000,2056316000,naive
+United States,US,Jun 1,6,Off Farm,stocks,stocks,2027,743014000,601264000,884764000,naive
+United States,US,Jun 1,6,Off Farm,stocks,stocks,2028,743014000,542549000,943479000,naive
+United States,US,Jun 1,6,Off Farm,stocks,stocks,2029,743014000,497496000,988532000,naive
+United States,US,Jun 1,6,On Farm,stocks,stocks,2027,177094000,116968000,237220000,naive
+United States,US,Jun 1,6,On Farm,stocks,stocks,2028,177094000,92063000,262125000,naive
+United States,US,Jun 1,6,On Farm,stocks,stocks,2029,177094000,72953000,281235000,naive
+United States,US,Jun 1,6,Total,stocks,stocks,2027,920108000,739538000,1100678000,naive
+United States,US,Jun 1,6,Total,stocks,stocks,2028,920108000,664744000,1175472000,naive
+United States,US,Jun 1,6,Total,stocks,stocks,2029,920108000,607352000,1232864000,naive
+United States,US,Mar 1,3,Off Farm,stocks,stocks,2027,1004481000,855628000,1153334000,naive
+United States,US,Mar 1,3,Off Farm,stocks,stocks,2028,1004481000,793971000,1214991000,naive
+United States,US,Mar 1,3,Off Farm,stocks,stocks,2029,1004481000,746660000,1262302000,naive
+United States,US,Mar 1,3,On Farm,stocks,stocks,2027,298492000,222495000,374489000,naive
+United States,US,Mar 1,3,On Farm,stocks,stocks,2028,298492000,191016000,405968000,naive
+United States,US,Mar 1,3,On Farm,stocks,stocks,2029,298492000,166862000,430122000,naive
+United States,US,Mar 1,3,Total,stocks,stocks,2027,1302973000,1103040000,1502906000,naive
+United States,US,Mar 1,3,Total,stocks,stocks,2028,1302973000,1020225000,1585721000,naive
+United States,US,Mar 1,3,Total,stocks,stocks,2029,1302973000,956679000,1649267000,naive
+United States,US,Sep 1,9,Off Farm,stocks,stocks,2027,1299243000,1136297000,1462189000,naive
+United States,US,Sep 1,9,Off Farm,stocks,stocks,2028,1299243000,1068802000,1529684000,naive
+United States,US,Sep 1,9,Off Farm,stocks,stocks,2029,1299243000,1017012000,1581474000,naive
+United States,US,Sep 1,9,On Farm,stocks,stocks,2027,618354000,477830000,758878000,avg5
+United States,US,Sep 1,9,On Farm,stocks,stocks,2028,618354000,419624000,817084000,avg5
+United States,US,Sep 1,9,On Farm,stocks,stocks,2029,618354000,374960000,861748000,avg5
+United States,US,Sep 1,9,Total,stocks,stocks,2027,1845743000,1558381000,2133105000,naive
+United States,US,Sep 1,9,Total,stocks,stocks,2028,1845743000,1439352000,2252134000,naive
+United States,US,Sep 1,9,Total,stocks,stocks,2029,1845743000,1348018000,2343468000,naive
+Utah,UT,Dec 1,12,Off Farm,stocks,stocks,2026,4978000,3622000,6334000,naive
+Utah,UT,Dec 1,12,Off Farm,stocks,stocks,2027,4978000,3060000,6896000,naive
+Utah,UT,Dec 1,12,Off Farm,stocks,stocks,2028,4978000,2630000,7326000,naive
+Utah,UT,Jun 1,6,Off Farm,stocks,stocks,2027,3427000,2839000,4015000,avg5
+Utah,UT,Jun 1,6,Off Farm,stocks,stocks,2028,3427000,2596000,4258000,avg5
+Utah,UT,Jun 1,6,Off Farm,stocks,stocks,2029,3427000,2409000,4445000,avg5
+Utah,UT,Mar 1,3,Off Farm,stocks,stocks,2027,4215000,3190000,5240000,ensemble
+Utah,UT,Mar 1,3,Off Farm,stocks,stocks,2028,4200000,2750000,5649000,ensemble
+Utah,UT,Mar 1,3,Off Farm,stocks,stocks,2029,4185000,2409000,5960000,ensemble
+Utah,UT,Sep 1,9,Off Farm,stocks,stocks,2027,4400000,2609000,6190000,ensemble
+Utah,UT,Sep 1,9,Off Farm,stocks,stocks,2028,4334000,1801000,6867000,ensemble
+Utah,UT,Sep 1,9,Off Farm,stocks,stocks,2029,4269000,1167000,7371000,ensemble
+Virginia,VA,Dec 1,12,Off Farm,stocks,stocks,2026,6076000,4191000,7962000,avg5
+Virginia,VA,Dec 1,12,Off Farm,stocks,stocks,2027,6076000,3410000,8743000,avg5
+Virginia,VA,Dec 1,12,Off Farm,stocks,stocks,2028,6076000,2810000,9342000,avg5
+Virginia,VA,Jun 1,6,Off Farm,stocks,stocks,2027,3694000,3134000,4254000,naive
+Virginia,VA,Jun 1,6,Off Farm,stocks,stocks,2028,3694000,2902000,4486000,naive
+Virginia,VA,Jun 1,6,Off Farm,stocks,stocks,2029,3694000,2724000,4664000,naive
+Virginia,VA,Mar 1,3,Off Farm,stocks,stocks,2027,4720000,3340000,6100000,avg5
+Virginia,VA,Mar 1,3,Off Farm,stocks,stocks,2028,4720000,2768000,6671000,avg5
+Virginia,VA,Mar 1,3,Off Farm,stocks,stocks,2029,4720000,2329000,7110000,avg5
+Virginia,VA,Sep 1,9,Off Farm,stocks,stocks,2027,4355000,2163000,6547000,naive
+Virginia,VA,Sep 1,9,Off Farm,stocks,stocks,2028,4355000,1255000,7455000,naive
+Virginia,VA,Sep 1,9,Off Farm,stocks,stocks,2029,4355000,558000,8152000,naive
+Washington,WA,Dec 1,12,Off Farm,stocks,stocks,2026,126942000,112545000,141340000,ratio
+Washington,WA,Dec 1,12,Off Farm,stocks,stocks,2027,117232000,74652000,159812000,trend10
+Washington,WA,Dec 1,12,Off Farm,stocks,stocks,2028,117633000,65483000,169783000,trend10
+Washington,WA,Dec 1,12,On Farm,stocks,stocks,2026,13054000,9017000,17092000,ratio
+Washington,WA,Dec 1,12,On Farm,stocks,stocks,2027,10260000,5067000,15453000,avg5
+Washington,WA,Dec 1,12,On Farm,stocks,stocks,2028,10260000,3899000,16621000,avg5
+Washington,WA,Dec 1,12,Total,stocks,stocks,2026,140639000,126898000,154379000,ratio
+Washington,WA,Dec 1,12,Total,stocks,stocks,2027,127479000,82365000,172593000,trend10
+Washington,WA,Dec 1,12,Total,stocks,stocks,2028,127808000,72554000,183061000,trend10
+Washington,WA,Jun 1,6,Off Farm,stocks,stocks,2027,43847000,33700000,53994000,avg5
+Washington,WA,Jun 1,6,Off Farm,stocks,stocks,2028,43847000,29497000,58197000,avg5
+Washington,WA,Jun 1,6,Off Farm,stocks,stocks,2029,43847000,26271000,61422000,avg5
+Washington,WA,Jun 1,6,On Farm,stocks,stocks,2027,2490000,746000,4234000,avg5
+Washington,WA,Jun 1,6,On Farm,stocks,stocks,2028,2490000,24000,4956000,avg5
+Washington,WA,Jun 1,6,On Farm,stocks,stocks,2029,2490000,0,5510000,avg5
+Washington,WA,Jun 1,6,Total,stocks,stocks,2027,46337000,35205000,57469000,avg5
+Washington,WA,Jun 1,6,Total,stocks,stocks,2028,46337000,30594000,62080000,avg5
+Washington,WA,Jun 1,6,Total,stocks,stocks,2029,46337000,27056000,65618000,avg5
+Washington,WA,Mar 1,3,Off Farm,stocks,stocks,2027,72994000,52042000,93946000,avg5
+Washington,WA,Mar 1,3,Off Farm,stocks,stocks,2028,72994000,43363000,102624000,avg5
+Washington,WA,Mar 1,3,Off Farm,stocks,stocks,2029,72994000,36704000,109284000,avg5
+Washington,WA,Mar 1,3,On Farm,stocks,stocks,2027,5580000,3171000,7989000,avg5
+Washington,WA,Mar 1,3,On Farm,stocks,stocks,2028,5580000,2173000,8987000,avg5
+Washington,WA,Mar 1,3,On Farm,stocks,stocks,2029,5580000,1407000,9753000,avg5
+Washington,WA,Mar 1,3,Total,stocks,stocks,2027,78574000,56488000,100659000,avg5
+Washington,WA,Mar 1,3,Total,stocks,stocks,2028,78574000,47340000,109807000,avg5
+Washington,WA,Mar 1,3,Total,stocks,stocks,2029,78574000,40321000,116827000,avg5
+Washington,WA,Sep 1,9,Off Farm,stocks,stocks,2027,138559000,111340000,165778000,avg5
+Washington,WA,Sep 1,9,Off Farm,stocks,stocks,2028,138559000,100065000,177053000,avg5
+Washington,WA,Sep 1,9,Off Farm,stocks,stocks,2029,138559000,91414000,185704000,avg5
+Washington,WA,Sep 1,9,On Farm,stocks,stocks,2027,19767000,14989000,24544000,trend10
+Washington,WA,Sep 1,9,On Farm,stocks,stocks,2028,20306000,13550000,27062000,trend10
+Washington,WA,Sep 1,9,On Farm,stocks,stocks,2029,20845000,12571000,29120000,trend10
+Washington,WA,Sep 1,9,Total,stocks,stocks,2027,156740000,123335000,190145000,trend10
+Washington,WA,Sep 1,9,Total,stocks,stocks,2028,157039000,109797000,204280000,trend10
+Washington,WA,Sep 1,9,Total,stocks,stocks,2029,157337000,99478000,215196000,trend10
+Wisconsin,WI,Dec 1,12,Off Farm,stocks,stocks,2026,27377000,21892000,32863000,ratio
+Wisconsin,WI,Dec 1,12,Off Farm,stocks,stocks,2027,25519000,15560000,35478000,trend10
+Wisconsin,WI,Dec 1,12,Off Farm,stocks,stocks,2028,24255000,12058000,36452000,trend10
+Wisconsin,WI,Jun 1,6,Off Farm,stocks,stocks,2027,21371000,16358000,26384000,naive
+Wisconsin,WI,Jun 1,6,Off Farm,stocks,stocks,2028,21371000,14281000,28461000,naive
+Wisconsin,WI,Jun 1,6,Off Farm,stocks,stocks,2029,21371000,12688000,30054000,naive
+Wisconsin,WI,Mar 1,3,Off Farm,stocks,stocks,2027,25919000,19667000,32171000,naive
+Wisconsin,WI,Mar 1,3,Off Farm,stocks,stocks,2028,25919000,17078000,34760000,naive
+Wisconsin,WI,Mar 1,3,Off Farm,stocks,stocks,2029,25919000,15091000,36747000,naive
+Wisconsin,WI,Sep 1,9,Off Farm,stocks,stocks,2027,28931000,23718000,34144000,ensemble
+Wisconsin,WI,Sep 1,9,Off Farm,stocks,stocks,2028,28520000,21148000,35892000,ensemble
+Wisconsin,WI,Sep 1,9,Off Farm,stocks,stocks,2029,28111000,19083000,37140000,ensemble
+Alabama,AL,,,,area_harvested,production,2027,40000,0,92000,naive
+Alabama,AL,,,,area_harvested,production,2028,40000,0,114000,naive
+Alabama,AL,,,,area_harvested,production,2029,40000,0,130000,naive
+Alabama,AL,,,,area_planted,production,2027,75000,17000,133000,naive
+Alabama,AL,,,,area_planted,production,2028,75000,0,158000,naive
+Alabama,AL,,,,area_planted,production,2029,75000,0,176000,naive
+Alabama,AL,,,,production,production,2027,3160000,0,7440000,naive
+Alabama,AL,,,,production,production,2028,3160000,0,9214000,naive
+Alabama,AL,,,,production,production,2029,3160000,0,10574000,naive
+Alabama,AL,,,,yield,production,2027,73.6,66.8,80.4,avg5
+Alabama,AL,,,,yield,production,2028,73.6,64,83.2,avg5
+Alabama,AL,,,,yield,production,2029,73.6,61.9,85.3,avg5
+Arizona,AZ,,,,area_harvested,production,2027,57000,38000,75000,avg5
+Arizona,AZ,,,,area_harvested,production,2028,57000,30000,83000,avg5
+Arizona,AZ,,,,area_harvested,production,2029,57000,25000,89000,avg5
+Arizona,AZ,,,,area_planted,production,2027,58000,37000,78000,avg5
+Arizona,AZ,,,,area_planted,production,2028,58000,29000,86000,avg5
+Arizona,AZ,,,,area_planted,production,2029,58000,22000,93000,avg5
+Arizona,AZ,,,,production,production,2027,6078000,3603000,8554000,avg5
+Arizona,AZ,,,,production,production,2028,6078000,2577000,9580000,avg5
+Arizona,AZ,,,,production,production,2029,6078000,1790000,10366000,avg5
+Arizona,AZ,,,,yield,production,2027,106.6,91.3,121.9,avg5
+Arizona,AZ,,,,yield,production,2028,106.6,85,128.2,avg5
+Arizona,AZ,,,,yield,production,2029,106.6,80.1,133.1,avg5
+Arkansas,AR,,,,area_harvested,production,2027,40000,0,99000,naive
+Arkansas,AR,,,,area_harvested,production,2028,40000,0,123000,naive
+Arkansas,AR,,,,area_harvested,production,2029,40000,0,142000,naive
+Arkansas,AR,,,,area_planted,production,2027,90000,25000,155000,naive
+Arkansas,AR,,,,area_planted,production,2028,90000,0,181000,naive
+Arkansas,AR,,,,area_planted,production,2029,90000,0,202000,naive
+Arkansas,AR,,,,production,production,2027,2240000,0,5786000,naive
+Arkansas,AR,,,,production,production,2028,2240000,0,7254000,naive
+Arkansas,AR,,,,production,production,2029,2240000,0,8381000,naive
+Arkansas,AR,,,,yield,production,2027,55.8,53,58.6,avg5
+Arkansas,AR,,,,yield,production,2028,55.8,51.8,59.8,avg5
+Arkansas,AR,,,,yield,production,2029,55.8,50.9,60.7,avg5
+California,CA,,,,area_harvested,production,2027,119000,104000,134000,naive
+California,CA,,,,area_harvested,production,2028,119000,98000,140000,naive
+California,CA,,,,area_harvested,production,2029,119000,93000,145000,naive
+California,CA,,,,area_planted,production,2027,303000,270000,335000,ensemble
+California,CA,,,,area_planted,production,2028,297000,251000,344000,ensemble
+California,CA,,,,area_planted,production,2029,292000,235000,349000,ensemble
+California,CA,,,,production,production,2027,9508000,7734000,11282000,avg5
+California,CA,,,,production,production,2028,9508000,7000000,12017000,avg5
+California,CA,,,,production,production,2029,9508000,6436000,12581000,avg5
+California,CA,,,,yield,production,2027,83.4,76.2,90.6,naive
+California,CA,,,,yield,production,2028,83.4,73.2,93.6,naive
+California,CA,,,,yield,production,2029,83.4,70.9,95.9,naive
+Colorado,CO,,,,area_harvested,production,2027,1624000,1222000,2026000,avg5
+Colorado,CO,,,,area_harvested,production,2028,1624000,1056000,2192000,avg5
+Colorado,CO,,,,area_harvested,production,2029,1624000,928000,2320000,avg5
+Colorado,CO,,,,area_planted,production,2027,2120000,1963000,2277000,avg5
+Colorado,CO,,,,area_planted,production,2028,2120000,1898000,2342000,avg5
+Colorado,CO,,,,area_planted,production,2029,2120000,1848000,2392000,avg5
+Colorado,CO,,,,production,production,2027,57057000,24998000,89116000,holt
+Colorado,CO,,,,production,production,2028,56487000,11148000,101825000,holt
+Colorado,CO,,,,production,production,2029,55973000,445000,111501000,holt
+Colorado,CO,,,,yield,production,2027,31.2,18.5,43.9,avg5
+Colorado,CO,,,,yield,production,2028,31.2,13.2,49.2,avg5
+Colorado,CO,,,,yield,production,2029,31.2,9.2,53.2,avg5
+Delaware,DE,,,,area_harvested,production,2027,51000,34000,69000,avg5
+Delaware,DE,,,,area_harvested,production,2028,51000,26000,76000,avg5
+Delaware,DE,,,,area_harvested,production,2029,51000,21000,82000,avg5
+Delaware,DE,,,,area_planted,production,2027,50000,33000,67000,naive
+Delaware,DE,,,,area_planted,production,2028,50000,26000,74000,naive
+Delaware,DE,,,,area_planted,production,2029,50000,21000,79000,naive
+Delaware,DE,,,,production,production,2027,4144000,2310000,5979000,avg5
+Delaware,DE,,,,production,production,2028,4144000,1550000,6739000,avg5
+Delaware,DE,,,,production,production,2029,4144000,967000,7322000,avg5
+Delaware,DE,,,,yield,production,2027,80.2,68.2,92.2,avg5
+Delaware,DE,,,,yield,production,2028,80.2,63.2,97.2,avg5
+Delaware,DE,,,,yield,production,2029,80.2,59.3,101.1,avg5
+Florida,FL,,,,area_harvested,production,2019,13000,8000,18000,trend10
+Florida,FL,,,,area_harvested,production,2020,13000,6000,20000,trend10
+Florida,FL,,,,area_harvested,production,2021,13000,4000,22000,trend10
+Florida,FL,,,,area_planted,production,2019,20000,13000,27000,holt
+Florida,FL,,,,area_planted,production,2020,20000,10000,29000,holt
+Florida,FL,,,,area_planted,production,2021,20000,8000,32000,holt
+Florida,FL,,,,production,production,2019,457000,67000,847000,trend10
+Florida,FL,,,,production,production,2020,445000,0,997000,trend10
+Florida,FL,,,,production,production,2021,433000,0,1108000,trend10
+Florida,FL,,,,yield,production,2019,35.1,23.5,46.8,trend10
+Florida,FL,,,,yield,production,2020,33.9,17.4,50.5,trend10
+Florida,FL,,,,yield,production,2021,32.7,12.5,53,trend10
+Georgia,GA,,,,area_harvested,production,2027,60000,39000,81000,naive
+Georgia,GA,,,,area_harvested,production,2028,60000,30000,90000,naive
+Georgia,GA,,,,area_harvested,production,2029,60000,23000,97000,naive
+Georgia,GA,,,,area_planted,production,2027,157000,122000,193000,holt
+Georgia,GA,,,,area_planted,production,2028,153000,103000,203000,holt
+Georgia,GA,,,,area_planted,production,2029,149000,88000,211000,holt
+Georgia,GA,,,,production,production,2027,4311000,3115000,5507000,holt
+Georgia,GA,,,,production,production,2028,4208000,2517000,5899000,holt
+Georgia,GA,,,,production,production,2029,4115000,2044000,6186000,holt
+Georgia,GA,,,,yield,production,2027,64.7,60.7,68.7,trend10
+Georgia,GA,,,,yield,production,2028,66.1,60.5,71.7,trend10
+Georgia,GA,,,,yield,production,2029,67.5,60.6,74.4,trend10
+Idaho,ID,,,,area_harvested,production,2027,1155000,1090000,1220000,naive
+Idaho,ID,,,,area_harvested,production,2028,1155000,1063000,1247000,naive
+Idaho,ID,,,,area_harvested,production,2029,1155000,1042000,1268000,naive
+Idaho,ID,,,,area_planted,production,2027,1255000,1209000,1301000,naive
+Idaho,ID,,,,area_planted,production,2028,1255000,1190000,1320000,naive
+Idaho,ID,,,,area_planted,production,2029,1255000,1175000,1335000,naive
+Idaho,ID,,,,production,production,2027,95215000,79702000,110728000,trend10
+Idaho,ID,,,,production,production,2028,95030000,73091000,116968000,trend10
+Idaho,ID,,,,production,production,2029,94845000,67975000,121714000,trend10
+Idaho,ID,,,,yield,production,2027,86.5,73.3,99.8,avg5
+Idaho,ID,,,,yield,production,2028,86.5,67.8,105.2,avg5
+Idaho,ID,,,,yield,production,2029,86.5,63.6,109.4,avg5
+Illinois,IL,,,,area_harvested,production,2027,688000,545000,831000,ensemble
+Illinois,IL,,,,area_harvested,production,2028,695000,493000,897000,ensemble
+Illinois,IL,,,,area_harvested,production,2029,702000,455000,949000,ensemble
+Illinois,IL,,,,area_planted,production,2027,713000,589000,838000,holt
+Illinois,IL,,,,area_planted,production,2028,711000,535000,888000,holt
+Illinois,IL,,,,area_planted,production,2029,709000,493000,925000,holt
+Illinois,IL,,,,production,production,2027,58960000,43372000,74548000,holt
+Illinois,IL,,,,production,production,2028,59315000,37269000,81360000,holt
+Illinois,IL,,,,production,production,2029,59634000,32634000,86634000,holt
+Illinois,IL,,,,yield,production,2027,87,79.8,94.2,naive
+Illinois,IL,,,,yield,production,2028,87,76.8,97.2,naive
+Illinois,IL,,,,yield,production,2029,87,74.5,99.5,naive
+Indiana,IN,,,,area_harvested,production,2027,257000,206000,308000,avg5
+Indiana,IN,,,,area_harvested,production,2028,257000,185000,329000,avg5
+Indiana,IN,,,,area_harvested,production,2029,257000,168000,346000,avg5
+Indiana,IN,,,,area_planted,production,2027,324000,267000,381000,avg5
+Indiana,IN,,,,area_planted,production,2028,324000,244000,404000,avg5
+Indiana,IN,,,,area_planted,production,2029,324000,226000,422000,avg5
+Indiana,IN,,,,production,production,2027,22506000,15543000,29469000,avg5
+Indiana,IN,,,,production,production,2028,22506000,12659000,32353000,avg5
+Indiana,IN,,,,production,production,2029,22506000,10446000,34566000,avg5
+Indiana,IN,,,,yield,production,2027,85,74.7,95.3,naive
+Indiana,IN,,,,yield,production,2028,85,70.4,99.6,naive
+Indiana,IN,,,,yield,production,2029,85,67.2,102.8,naive
+Iowa,IA,,,,area_harvested,production,2019,9000,4000,14000,trend10
+Iowa,IA,,,,area_harvested,production,2020,8000,1000,15000,trend10
+Iowa,IA,,,,area_harvested,production,2021,7000,0,16000,trend10
+Iowa,IA,,,,area_planted,production,2019,19000,13000,25000,trend10
+Iowa,IA,,,,area_planted,production,2020,18000,10000,27000,trend10
+Iowa,IA,,,,area_planted,production,2021,18000,7000,28000,trend10
+Iowa,IA,,,,production,production,2019,696000,330000,1061000,avg5
+Iowa,IA,,,,production,production,2020,696000,179000,1212000,avg5
+Iowa,IA,,,,production,production,2021,696000,63000,1329000,avg5
+Iowa,IA,,,,yield,production,2019,58,49.4,66.6,naive
+Iowa,IA,,,,yield,production,2020,58,45.9,70.1,naive
+Iowa,IA,,,,yield,production,2021,58,43.2,72.8,naive
+Kansas,KS,,,,area_harvested,production,2027,6440000,5660000,7220000,avg5
+Kansas,KS,,,,area_harvested,production,2028,6440000,5337000,7543000,avg5
+Kansas,KS,,,,area_harvested,production,2029,6440000,5090000,7790000,avg5
+Kansas,KS,,,,area_planted,production,2027,7400000,6731000,8069000,avg5
+Kansas,KS,,,,area_planted,production,2028,7400000,6455000,8345000,avg5
+Kansas,KS,,,,area_planted,production,2029,7400000,6242000,8558000,avg5
+Kansas,KS,,,,production,production,2027,260060000,169228000,350892000,avg5
+Kansas,KS,,,,production,production,2028,260060000,131604000,388516000,avg5
+Kansas,KS,,,,production,production,2029,260060000,102734000,417386000,avg5
+Kansas,KS,,,,yield,production,2027,40,29.8,50.2,avg5
+Kansas,KS,,,,yield,production,2028,40,25.6,54.4,avg5
+Kansas,KS,,,,yield,production,2029,40,22.3,57.7,avg5
+Kentucky,KY,,,,area_harvested,production,2027,260000,184000,336000,naive
+Kentucky,KY,,,,area_harvested,production,2028,260000,152000,368000,naive
+Kentucky,KY,,,,area_harvested,production,2029,260000,128000,392000,naive
+Kentucky,KY,,,,area_planted,production,2027,420000,348000,492000,naive
+Kentucky,KY,,,,area_planted,production,2028,420000,318000,522000,naive
+Kentucky,KY,,,,area_planted,production,2029,420000,295000,545000,naive
+Kentucky,KY,,,,production,production,2027,21320000,11486000,31154000,naive
+Kentucky,KY,,,,production,production,2028,21320000,7412000,35228000,naive
+Kentucky,KY,,,,production,production,2029,21320000,4286000,38354000,naive
+Kentucky,KY,,,,yield,production,2027,84.6,74,95.2,trend10
+Kentucky,KY,,,,yield,production,2028,85.9,70.9,100.9,trend10
+Kentucky,KY,,,,yield,production,2029,87.2,68.8,105.6,trend10
+Louisiana,LA,,,,area_harvested,production,2019,10000,0,84000,naive
+Louisiana,LA,,,,area_harvested,production,2020,10000,0,115000,naive
+Louisiana,LA,,,,area_harvested,production,2021,10000,0,138000,naive
+Louisiana,LA,,,,area_planted,production,2019,15000,0,91000,naive
+Louisiana,LA,,,,area_planted,production,2020,15000,0,123000,naive
+Louisiana,LA,,,,area_planted,production,2021,15000,0,147000,naive
+Louisiana,LA,,,,production,production,2019,650000,0,5084000,naive
+Louisiana,LA,,,,production,production,2020,650000,0,6920000,naive
+Louisiana,LA,,,,production,production,2021,650000,0,8330000,naive
+Louisiana,LA,,,,yield,production,2019,55.7,40.7,70.7,ensemble
+Louisiana,LA,,,,yield,production,2020,55.6,34.4,76.8,ensemble
+Louisiana,LA,,,,yield,production,2021,55.5,29.5,81.5,ensemble
+Maryland,MD,,,,area_harvested,production,2027,157000,135000,180000,ensemble
+Maryland,MD,,,,area_harvested,production,2028,156000,124000,187000,ensemble
+Maryland,MD,,,,area_harvested,production,2029,155000,116000,193000,ensemble
+Maryland,MD,,,,area_planted,production,2027,268000,246000,291000,holt
+Maryland,MD,,,,area_planted,production,2028,256000,225000,288000,holt
+Maryland,MD,,,,area_planted,production,2029,245000,207000,284000,holt
+Maryland,MD,,,,production,production,2027,13565000,11056000,16074000,avg5
+Maryland,MD,,,,production,production,2028,13565000,10016000,17114000,avg5
+Maryland,MD,,,,production,production,2029,13565000,9219000,17911000,avg5
+Maryland,MD,,,,yield,production,2027,79,71.6,86.4,naive
+Maryland,MD,,,,yield,production,2028,79,68.5,89.5,naive
+Maryland,MD,,,,yield,production,2029,79,66.1,91.9,naive
+Michigan,MI,,,,area_harvested,production,2027,457000,362000,552000,avg5
+Michigan,MI,,,,area_harvested,production,2028,457000,322000,592000,avg5
+Michigan,MI,,,,area_harvested,production,2029,457000,292000,622000,avg5
+Michigan,MI,,,,area_planted,production,2027,496000,393000,599000,avg5
+Michigan,MI,,,,area_planted,production,2028,496000,351000,641000,avg5
+Michigan,MI,,,,area_planted,production,2029,496000,318000,674000,avg5
+Michigan,MI,,,,production,production,2027,39273000,31312000,47234000,avg5
+Michigan,MI,,,,production,production,2028,39273000,28015000,50531000,avg5
+Michigan,MI,,,,production,production,2029,39273000,25485000,53061000,avg5
+Michigan,MI,,,,yield,production,2027,87,82.5,91.5,naive
+Michigan,MI,,,,yield,production,2028,87,80.6,93.4,naive
+Michigan,MI,,,,yield,production,2029,87,79.2,94.8,naive
+Minnesota,MN,,,,area_harvested,production,2027,1027000,889000,1165000,holt
+Minnesota,MN,,,,area_harvested,production,2028,1015000,820000,1210000,holt
+Minnesota,MN,,,,area_harvested,production,2029,1003000,764000,1242000,holt
+Minnesota,MN,,,,area_planted,production,2027,1030000,884000,1176000,naive
+Minnesota,MN,,,,area_planted,production,2028,1030000,823000,1237000,naive
+Minnesota,MN,,,,area_planted,production,2029,1030000,777000,1283000,naive
+Minnesota,MN,,,,production,production,2027,74332000,59969000,88695000,avg5
+Minnesota,MN,,,,production,production,2028,74332000,54020000,94644000,avg5
+Minnesota,MN,,,,production,production,2029,74332000,49455000,99209000,avg5
+Minnesota,MN,,,,yield,production,2027,63,54.3,71.7,naive
+Minnesota,MN,,,,yield,production,2028,63,50.8,75.2,naive
+Minnesota,MN,,,,yield,production,2029,63,48,78,naive
+Mississippi,MS,,,,area_harvested,production,2027,20000,0,65000,naive
+Mississippi,MS,,,,area_harvested,production,2028,20000,0,83000,naive
+Mississippi,MS,,,,area_harvested,production,2029,20000,0,97000,naive
+Mississippi,MS,,,,area_planted,production,2027,55000,11000,99000,naive
+Mississippi,MS,,,,area_planted,production,2028,55000,0,118000,naive
+Mississippi,MS,,,,area_planted,production,2029,55000,0,132000,naive
+Mississippi,MS,,,,production,production,2027,1100000,0,3707000,naive
+Mississippi,MS,,,,production,production,2028,1100000,0,4786000,naive
+Mississippi,MS,,,,production,production,2029,1100000,0,5615000,naive
+Mississippi,MS,,,,yield,production,2027,53.8,47.5,60.1,avg5
+Mississippi,MS,,,,yield,production,2028,53.8,44.9,62.7,avg5
+Mississippi,MS,,,,yield,production,2029,53.8,42.9,64.7,avg5
+Missouri,MO,,,,area_harvested,production,2027,469000,363000,575000,avg5
+Missouri,MO,,,,area_harvested,production,2028,469000,319000,619000,avg5
+Missouri,MO,,,,area_harvested,production,2029,469000,285000,653000,avg5
+Missouri,MO,,,,area_planted,production,2027,662000,550000,774000,avg5
+Missouri,MO,,,,area_planted,production,2028,662000,504000,820000,avg5
+Missouri,MO,,,,area_planted,production,2029,662000,468000,856000,avg5
+Missouri,MO,,,,production,production,2027,33649000,23586000,43712000,avg5
+Missouri,MO,,,,production,production,2028,33649000,19418000,47880000,avg5
+Missouri,MO,,,,production,production,2029,33649000,16220000,51078000,avg5
+Missouri,MO,,,,yield,production,2027,76.5,68.6,84.5,trend10
+Missouri,MO,,,,yield,production,2028,78.2,67,89.4,trend10
+Missouri,MO,,,,yield,production,2029,79.8,66.1,93.5,trend10
+Montana,MT,,,,area_harvested,production,2027,4959000,4659000,5259000,avg5
+Montana,MT,,,,area_harvested,production,2028,4959000,4535000,5383000,avg5
+Montana,MT,,,,area_harvested,production,2029,4959000,4440000,5478000,avg5
+Montana,MT,,,,area_planted,production,2027,5263000,5078000,5447000,ensemble
+Montana,MT,,,,area_planted,production,2028,5259000,4998000,5520000,ensemble
+Montana,MT,,,,area_planted,production,2029,5255000,4935000,5574000,ensemble
+Montana,MT,,,,production,production,2027,172351000,116468000,228234000,avg5
+Montana,MT,,,,production,production,2028,172351000,93320000,251382000,avg5
+Montana,MT,,,,production,production,2029,172351000,75558000,269144000,avg5
+Montana,MT,,,,yield,production,2027,36,25.3,46.6,ensemble
+Montana,MT,,,,yield,production,2028,36.1,21,51.2,ensemble
+Montana,MT,,,,yield,production,2029,36.2,17.7,54.7,ensemble
+Nebraska,NE,,,,area_harvested,production,2027,520000,354000,686000,naive
+Nebraska,NE,,,,area_harvested,production,2028,520000,286000,754000,naive
+Nebraska,NE,,,,area_harvested,production,2029,520000,233000,807000,naive
+Nebraska,NE,,,,area_planted,production,2027,934000,813000,1055000,ensemble
+Nebraska,NE,,,,area_planted,production,2028,928000,757000,1098000,ensemble
+Nebraska,NE,,,,area_planted,production,2029,922000,712000,1131000,ensemble
+Nebraska,NE,,,,production,production,2027,26424000,11199000,41648000,ensemble
+Nebraska,NE,,,,production,production,2028,25370000,3840000,46901000,ensemble
+Nebraska,NE,,,,production,production,2029,24363000,0,50732000,ensemble
+Nebraska,NE,,,,yield,production,2027,39.2,27.1,51.3,ensemble
+Nebraska,NE,,,,yield,production,2028,38.9,21.9,56,ensemble
+Nebraska,NE,,,,yield,production,2029,38.7,17.7,59.6,ensemble
+Nevada,NV,,,,area_harvested,production,2019,10000,6000,14000,avg5
+Nevada,NV,,,,area_harvested,production,2020,10000,4000,16000,avg5
+Nevada,NV,,,,area_harvested,production,2021,10000,3000,17000,avg5
+Nevada,NV,,,,area_planted,production,2019,20000,10000,30000,avg5
+Nevada,NV,,,,area_planted,production,2020,20000,6000,34000,avg5
+Nevada,NV,,,,area_planted,production,2021,20000,3000,37000,avg5
+Nevada,NV,,,,production,production,2019,946000,490000,1403000,avg5
+Nevada,NV,,,,production,production,2020,946000,300000,1592000,avg5
+Nevada,NV,,,,production,production,2021,946000,155000,1737000,avg5
+Nevada,NV,,,,yield,production,2019,102.4,79.7,125.2,ensemble
+Nevada,NV,,,,yield,production,2020,102.5,70.4,134.6,ensemble
+Nevada,NV,,,,yield,production,2021,102.5,63.2,141.9,ensemble
+New Jersey,NJ,,,,area_harvested,production,2024,31000,23000,38000,holt
+New Jersey,NJ,,,,area_harvested,production,2025,33000,23000,44000,holt
+New Jersey,NJ,,,,area_harvested,production,2026,36000,23000,48000,holt
+New Jersey,NJ,,,,area_planted,production,2024,34000,28000,40000,naive
+New Jersey,NJ,,,,area_planted,production,2025,34000,25000,43000,naive
+New Jersey,NJ,,,,area_planted,production,2026,34000,23000,45000,naive
+New Jersey,NJ,,,,production,production,2024,2624000,1980000,3268000,naive
+New Jersey,NJ,,,,production,production,2025,2624000,1713000,3535000,naive
+New Jersey,NJ,,,,production,production,2026,2624000,1508000,3740000,naive
+New Jersey,NJ,,,,yield,production,2024,78.8,73.5,84.1,trend10
+New Jersey,NJ,,,,yield,production,2025,81.4,74,88.8,trend10
+New Jersey,NJ,,,,yield,production,2026,84,74.9,93.1,trend10
+New Mexico,NM,,,,area_harvested,production,2027,70000,11000,129000,naive
+New Mexico,NM,,,,area_harvested,production,2028,70000,0,154000,naive
+New Mexico,NM,,,,area_harvested,production,2029,70000,0,173000,naive
+New Mexico,NM,,,,area_planted,production,2027,376000,340000,412000,avg5
+New Mexico,NM,,,,area_planted,production,2028,376000,325000,427000,avg5
+New Mexico,NM,,,,area_planted,production,2029,376000,313000,439000,avg5
+New Mexico,NM,,,,production,production,2027,2094000,163000,4025000,avg5
+New Mexico,NM,,,,production,production,2028,2094000,0,4825000,avg5
+New Mexico,NM,,,,production,production,2029,2094000,0,5439000,avg5
+New Mexico,NM,,,,yield,production,2027,18.4,5.3,31.5,trend10
+New Mexico,NM,,,,yield,production,2028,17.6,0,36.1,trend10
+New Mexico,NM,,,,yield,production,2029,16.7,0,39.5,trend10
+New York,NY,,,,area_harvested,production,2027,122000,104000,140000,trend10
+New York,NY,,,,area_harvested,production,2028,125000,99000,150000,trend10
+New York,NY,,,,area_harvested,production,2029,127000,96000,158000,trend10
+New York,NY,,,,area_planted,production,2027,151000,135000,166000,ensemble
+New York,NY,,,,area_planted,production,2028,152000,130000,174000,ensemble
+New York,NY,,,,area_planted,production,2029,153000,126000,180000,ensemble
+New York,NY,,,,production,production,2027,9173000,7258000,11087000,trend10
+New York,NY,,,,production,production,2028,9416000,6709000,12124000,trend10
+New York,NY,,,,production,production,2029,9660000,6344000,12976000,trend10
+New York,NY,,,,yield,production,2027,73.1,65.1,81,ensemble
+New York,NY,,,,yield,production,2028,73.3,62.1,84.6,ensemble
+New York,NY,,,,yield,production,2029,73.6,59.8,87.3,ensemble
+North Carolina,NC,,,,area_harvested,production,2027,235000,179000,291000,naive
+North Carolina,NC,,,,area_harvested,production,2028,235000,156000,314000,naive
+North Carolina,NC,,,,area_harvested,production,2029,235000,139000,331000,naive
+North Carolina,NC,,,,area_planted,production,2027,310000,255000,365000,naive
+North Carolina,NC,,,,area_planted,production,2028,310000,232000,388000,naive
+North Carolina,NC,,,,area_planted,production,2029,310000,215000,405000,naive
+North Carolina,NC,,,,production,production,2027,12455000,6133000,18777000,naive
+North Carolina,NC,,,,production,production,2028,12455000,3514000,21396000,naive
+North Carolina,NC,,,,production,production,2029,12455000,1504000,23406000,naive
+North Carolina,NC,,,,yield,production,2027,60.8,52.1,69.5,avg5
+North Carolina,NC,,,,yield,production,2028,60.8,48.5,73.1,avg5
+North Carolina,NC,,,,yield,production,2029,60.8,45.7,75.9,avg5
+North Dakota,ND,,,,area_harvested,production,2027,5395000,4811000,5979000,naive
+North Dakota,ND,,,,area_harvested,production,2028,5395000,4569000,6221000,naive
+North Dakota,ND,,,,area_harvested,production,2029,5395000,4383000,6407000,naive
+North Dakota,ND,,,,area_planted,production,2027,5510000,4949000,6071000,naive
+North Dakota,ND,,,,area_planted,production,2028,5510000,4717000,6303000,naive
+North Dakota,ND,,,,area_planted,production,2029,5510000,4539000,6481000,naive
+North Dakota,ND,,,,production,production,2027,314659000,234819000,394499000,avg5
+North Dakota,ND,,,,production,production,2028,314659000,201749000,427569000,avg5
+North Dakota,ND,,,,production,production,2029,314659000,176373000,452945000,avg5
+North Dakota,ND,,,,yield,production,2027,51,40.5,61.4,avg5
+North Dakota,ND,,,,yield,production,2028,51,36.1,65.8,avg5
+North Dakota,ND,,,,yield,production,2029,51,32.8,69.1,avg5
+Ohio,OH,,,,area_harvested,production,2027,506000,429000,583000,avg5
+Ohio,OH,,,,area_harvested,production,2028,506000,397000,615000,avg5
+Ohio,OH,,,,area_harvested,production,2029,506000,373000,639000,avg5
+Ohio,OH,,,,area_planted,production,2027,556000,476000,636000,avg5
+Ohio,OH,,,,area_planted,production,2028,556000,443000,669000,avg5
+Ohio,OH,,,,area_planted,production,2029,556000,418000,694000,avg5
+Ohio,OH,,,,production,production,2027,42960000,31096000,54824000,avg5
+Ohio,OH,,,,production,production,2028,42960000,26182000,59738000,avg5
+Ohio,OH,,,,production,production,2029,42960000,22411000,63509000,avg5
+Ohio,OH,,,,yield,production,2027,86,75.4,96.5,ensemble
+Ohio,OH,,,,yield,production,2028,86.7,71.8,101.5,ensemble
+Ohio,OH,,,,yield,production,2029,87.3,69.1,105.5,ensemble
+Oklahoma,OK,,,,area_harvested,production,2027,2520000,2075000,2965000,avg5
+Oklahoma,OK,,,,area_harvested,production,2028,2520000,1891000,3149000,avg5
+Oklahoma,OK,,,,area_harvested,production,2029,2520000,1749000,3291000,avg5
+Oklahoma,OK,,,,area_planted,production,2027,4290000,4046000,4534000,avg5
+Oklahoma,OK,,,,area_planted,production,2028,4290000,3945000,4635000,avg5
+Oklahoma,OK,,,,area_planted,production,2029,4290000,3867000,4713000,avg5
+Oklahoma,OK,,,,production,production,2027,81960000,50658000,113262000,avg5
+Oklahoma,OK,,,,production,production,2028,81960000,37693000,126227000,avg5
+Oklahoma,OK,,,,production,production,2029,81960000,27744000,136176000,avg5
+Oklahoma,OK,,,,yield,production,2027,32,24.9,39.1,avg5
+Oklahoma,OK,,,,yield,production,2028,32,22,42,avg5
+Oklahoma,OK,,,,yield,production,2029,32,19.7,44.3,avg5
+Oregon,OR,,,,area_harvested,production,2027,720000,697000,743000,naive
+Oregon,OR,,,,area_harvested,production,2028,720000,688000,752000,naive
+Oregon,OR,,,,area_harvested,production,2029,720000,680000,760000,naive
+Oregon,OR,,,,area_planted,production,2027,740000,722000,758000,naive
+Oregon,OR,,,,area_planted,production,2028,740000,714000,766000,naive
+Oregon,OR,,,,area_planted,production,2029,740000,709000,771000,naive
+Oregon,OR,,,,production,production,2027,50125000,40810000,59439000,trend10
+Oregon,OR,,,,production,production,2028,50594000,37421000,63767000,trend10
+Oregon,OR,,,,production,production,2029,51063000,34930000,67197000,trend10
+Oregon,OR,,,,yield,production,2027,69.9,57.8,82.1,trend10
+Oregon,OR,,,,yield,production,2028,70.9,53.7,88.1,trend10
+Oregon,OR,,,,yield,production,2029,71.8,50.7,92.9,trend10
+Pennsylvania,PA,,,,area_harvested,production,2027,185000,162000,208000,naive
+Pennsylvania,PA,,,,area_harvested,production,2028,185000,153000,217000,naive
+Pennsylvania,PA,,,,area_harvested,production,2029,185000,146000,224000,naive
+Pennsylvania,PA,,,,area_planted,production,2027,260000,234000,286000,naive
+Pennsylvania,PA,,,,area_planted,production,2028,260000,223000,297000,naive
+Pennsylvania,PA,,,,area_planted,production,2029,260000,215000,305000,naive
+Pennsylvania,PA,,,,production,production,2027,13690000,11494000,15886000,naive
+Pennsylvania,PA,,,,production,production,2028,13690000,10585000,16795000,naive
+Pennsylvania,PA,,,,production,production,2029,13690000,9887000,17493000,naive
+Pennsylvania,PA,,,,yield,production,2027,74.6,70.9,78.3,ensemble
+Pennsylvania,PA,,,,yield,production,2028,74.8,69.5,80,ensemble
+Pennsylvania,PA,,,,yield,production,2029,74.9,68.5,81.3,ensemble
+South Carolina,SC,,,,area_harvested,production,2027,50000,33000,67000,naive
+South Carolina,SC,,,,area_harvested,production,2028,50000,26000,74000,naive
+South Carolina,SC,,,,area_harvested,production,2029,50000,20000,80000,naive
+South Carolina,SC,,,,area_planted,production,2027,70000,51000,89000,naive
+South Carolina,SC,,,,area_planted,production,2028,70000,43000,97000,naive
+South Carolina,SC,,,,area_planted,production,2029,70000,37000,103000,naive
+South Carolina,SC,,,,production,production,2027,2850000,1683000,4017000,naive
+South Carolina,SC,,,,production,production,2028,2850000,1200000,4500000,naive
+South Carolina,SC,,,,production,production,2029,2850000,829000,4871000,naive
+South Carolina,SC,,,,yield,production,2027,57,52.3,61.7,naive
+South Carolina,SC,,,,yield,production,2028,57,50.3,63.7,naive
+South Carolina,SC,,,,yield,production,2029,57,48.8,65.2,naive
+South Dakota,SD,,,,area_harvested,production,2027,1158000,992000,1324000,ensemble
+South Dakota,SD,,,,area_harvested,production,2028,1138000,904000,1373000,ensemble
+South Dakota,SD,,,,area_harvested,production,2029,1120000,833000,1407000,ensemble
+South Dakota,SD,,,,area_planted,production,2027,1323000,1159000,1486000,ensemble
+South Dakota,SD,,,,area_planted,production,2028,1300000,1069000,1531000,ensemble
+South Dakota,SD,,,,area_planted,production,2029,1278000,996000,1561000,ensemble
+South Dakota,SD,,,,production,production,2027,65337000,45557000,85117000,avg5
+South Dakota,SD,,,,production,production,2028,65337000,37364000,93310000,avg5
+South Dakota,SD,,,,production,production,2029,65337000,31077000,99597000,avg5
+South Dakota,SD,,,,yield,production,2027,49.5,39.6,59.4,holt
+South Dakota,SD,,,,yield,production,2028,49.9,35.9,63.9,holt
+South Dakota,SD,,,,yield,production,2029,50.3,33.1,67.4,holt
+Tennessee,TN,,,,area_harvested,production,2027,175000,86000,264000,naive
+Tennessee,TN,,,,area_harvested,production,2028,175000,49000,301000,naive
+Tennessee,TN,,,,area_harvested,production,2029,175000,21000,329000,naive
+Tennessee,TN,,,,area_planted,production,2027,255000,163000,347000,naive
+Tennessee,TN,,,,area_planted,production,2028,255000,126000,384000,naive
+Tennessee,TN,,,,area_planted,production,2029,255000,96000,414000,naive
+Tennessee,TN,,,,production,production,2027,13475000,5191000,21759000,naive
+Tennessee,TN,,,,production,production,2028,13475000,1760000,25190000,naive
+Tennessee,TN,,,,production,production,2029,13475000,0,27823000,naive
+Tennessee,TN,,,,yield,production,2027,76.6,69.7,83.6,holt
+Tennessee,TN,,,,yield,production,2028,77.2,67.3,87.1,holt
+Tennessee,TN,,,,yield,production,2029,77.7,65.6,89.8,holt
+Texas,TX,,,,area_harvested,production,2027,1980000,1350000,2610000,avg5
+Texas,TX,,,,area_harvested,production,2028,1980000,1088000,2872000,avg5
+Texas,TX,,,,area_harvested,production,2029,1980000,888000,3072000,avg5
+Texas,TX,,,,area_planted,production,2027,5500000,4715000,6286000,holt
+Texas,TX,,,,area_planted,production,2028,5496000,4385000,6607000,holt
+Texas,TX,,,,area_planted,production,2029,5493000,4132000,6854000,holt
+Texas,TX,,,,production,production,2027,66400000,42162000,90638000,avg5
+Texas,TX,,,,production,production,2028,66400000,32122000,100678000,avg5
+Texas,TX,,,,production,production,2029,66400000,24418000,108382000,avg5
+Texas,TX,,,,yield,production,2027,33.2,28.2,38.2,avg5
+Texas,TX,,,,yield,production,2028,33.2,26.1,40.3,avg5
+Texas,TX,,,,yield,production,2029,33.2,24.6,41.8,avg5
+United States,US,,,,area_harvested,production,2027,33783000,30582000,36983000,ensemble
+United States,US,,,,area_harvested,production,2028,33533000,29007000,38059000,ensemble
+United States,US,,,,area_harvested,production,2029,33299000,27756000,38842000,ensemble
+United States,US,,,,area_planted,production,2027,45925000,42978000,48873000,avg5
+United States,US,,,,area_planted,production,2028,45925000,41757000,50094000,avg5
+United States,US,,,,area_planted,production,2029,45925000,40820000,51031000,avg5
+United States,US,,,,production,production,2027,1533739000,1251038000,1816440000,naive
+United States,US,,,,production,production,2028,1533739000,1133940000,1933538000,naive
+United States,US,,,,production,production,2029,1533739000,1044087000,2023391000,naive
+United States,US,,,,yield,production,2027,49.6,45.3,53.9,avg5
+United States,US,,,,yield,production,2028,49.6,43.5,55.7,avg5
+United States,US,,,,yield,production,2029,49.6,42.1,57,avg5
+Utah,UT,,,,area_harvested,production,2027,95000,87000,103000,naive
+Utah,UT,,,,area_harvested,production,2028,95000,83000,107000,naive
+Utah,UT,,,,area_harvested,production,2029,95000,81000,109000,naive
+Utah,UT,,,,area_planted,production,2027,110000,102000,118000,naive
+Utah,UT,,,,area_planted,production,2028,110000,98000,122000,naive
+Utah,UT,,,,area_planted,production,2029,110000,96000,124000,naive
+Utah,UT,,,,production,production,2027,3800000,2487000,5113000,naive
+Utah,UT,,,,production,production,2028,3800000,1943000,5657000,naive
+Utah,UT,,,,production,production,2029,3800000,1525000,6075000,naive
+Utah,UT,,,,yield,production,2027,47.8,37.1,58.4,holt
+Utah,UT,,,,yield,production,2028,47.7,32.6,62.8,holt
+Utah,UT,,,,yield,production,2029,47.7,29.2,66.1,holt
+Virginia,VA,,,,area_harvested,production,2027,50000,15000,84000,holt
+Virginia,VA,,,,area_harvested,production,2028,46000,0,95000,holt
+Virginia,VA,,,,area_harvested,production,2029,42000,0,102000,holt
+Virginia,VA,,,,area_planted,production,2027,103000,65000,141000,holt
+Virginia,VA,,,,area_planted,production,2028,94000,40000,147000,holt
+Virginia,VA,,,,area_planted,production,2029,85000,20000,151000,holt
+Virginia,VA,,,,production,production,2027,2750000,0,5779000,naive
+Virginia,VA,,,,production,production,2028,2750000,0,7034000,naive
+Virginia,VA,,,,production,production,2029,2750000,0,7996000,naive
+Virginia,VA,,,,yield,production,2027,55,44.3,65.7,naive
+Virginia,VA,,,,yield,production,2028,55,39.9,70.1,naive
+Virginia,VA,,,,yield,production,2029,55,36.5,73.5,naive
+Washington,WA,,,,area_harvested,production,2027,2271000,2247000,2294000,ensemble
+Washington,WA,,,,area_harvested,production,2028,2274000,2240000,2308000,ensemble
+Washington,WA,,,,area_harvested,production,2029,2277000,2236000,2319000,ensemble
+Washington,WA,,,,area_planted,production,2027,2325000,2302000,2348000,naive
+Washington,WA,,,,area_planted,production,2028,2325000,2292000,2358000,naive
+Washington,WA,,,,area_planted,production,2029,2325000,2285000,2365000,naive
+Washington,WA,,,,production,production,2027,141486000,98345000,184627000,avg5
+Washington,WA,,,,production,production,2028,141486000,80476000,202496000,avg5
+Washington,WA,,,,production,production,2029,141486000,66764000,216208000,avg5
+Washington,WA,,,,yield,production,2027,62.7,43.2,82.2,avg5
+Washington,WA,,,,yield,production,2028,62.7,35.1,90.3,avg5
+Washington,WA,,,,yield,production,2029,62.7,28.9,96.5,avg5
+West Virginia,WV,,,,area_harvested,production,2019,3000,1000,5000,naive
+West Virginia,WV,,,,area_harvested,production,2020,3000,0,6000,naive
+West Virginia,WV,,,,area_harvested,production,2021,3000,0,7000,naive
+West Virginia,WV,,,,area_planted,production,2019,8000,6000,9000,trend10
+West Virginia,WV,,,,area_planted,production,2020,8000,5000,10000,trend10
+West Virginia,WV,,,,area_planted,production,2021,7000,5000,10000,trend10
+West Virginia,WV,,,,production,production,2019,235000,117000,353000,trend10
+West Virginia,WV,,,,production,production,2020,226000,59000,393000,trend10
+West Virginia,WV,,,,production,production,2021,217000,12000,421000,trend10
+West Virginia,WV,,,,yield,production,2019,60,49.5,70.5,avg5
+West Virginia,WV,,,,yield,production,2020,60,45.1,74.9,avg5
+West Virginia,WV,,,,yield,production,2021,60,41.8,78.2,avg5
+Wisconsin,WI,,,,area_harvested,production,2027,195000,124000,266000,naive
+Wisconsin,WI,,,,area_harvested,production,2028,195000,94000,296000,naive
+Wisconsin,WI,,,,area_harvested,production,2029,195000,72000,318000,naive
+Wisconsin,WI,,,,area_planted,production,2027,240000,162000,318000,naive
+Wisconsin,WI,,,,area_planted,production,2028,240000,129000,351000,naive
+Wisconsin,WI,,,,area_planted,production,2029,240000,104000,376000,naive
+Wisconsin,WI,,,,production,production,2027,16185000,10825000,21545000,naive
+Wisconsin,WI,,,,production,production,2028,16185000,8605000,23765000,naive
+Wisconsin,WI,,,,production,production,2029,16185000,6901000,25469000,naive
+Wisconsin,WI,,,,yield,production,2027,83.7,77.6,89.7,trend10
+Wisconsin,WI,,,,yield,production,2028,85.4,76.9,93.9,trend10
+Wisconsin,WI,,,,yield,production,2029,87.1,76.7,97.5,trend10
+Wyoming,WY,,,,area_harvested,production,2027,62000,42000,82000,ensemble
+Wyoming,WY,,,,area_harvested,production,2028,59000,31000,87000,ensemble
+Wyoming,WY,,,,area_harvested,production,2029,56000,22000,90000,ensemble
+Wyoming,WY,,,,area_planted,production,2027,110000,106000,114000,naive
+Wyoming,WY,,,,area_planted,production,2028,110000,105000,115000,naive
+Wyoming,WY,,,,area_planted,production,2029,110000,104000,116000,naive
+Wyoming,WY,,,,production,production,2027,1384000,119000,2648000,ensemble
+Wyoming,WY,,,,production,production,2028,1281000,0,3070000,ensemble
+Wyoming,WY,,,,production,production,2029,1183000,0,3373000,ensemble
+Wyoming,WY,,,,yield,production,2027,24.6,13.8,35.4,avg5
+Wyoming,WY,,,,yield,production,2028,24.6,9.4,39.8,avg5
+Wyoming,WY,,,,yield,production,2029,24.6,6,43.2,avg5
